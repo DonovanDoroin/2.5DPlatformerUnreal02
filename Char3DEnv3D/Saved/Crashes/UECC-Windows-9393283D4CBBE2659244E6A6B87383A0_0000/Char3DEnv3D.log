@@ -3612,33 +3612,3 @@ Script Stack (1 frames) :
 [2024.06.22-21.51.25:178][386]LogOutputDevice: Error: [Callstack] 0x00007ffbd282257d KERNEL32.DLL!UnknownFunction []
 [2024.06.22-21.51.25:178][386]LogOutputDevice: Error: [Callstack] 0x00007ffbd3bcaf28 ntdll.dll!UnknownFunction []
 [2024.06.22-21.51.25:178][386]LogOutputDevice: Error: 
-[2024.06.22-21.51.25:184][386]LogStats:                SubmitErrorReport -  0.000 s
-[2024.06.22-21.51.26:531][386]LogStats:                    SendNewReport -  1.349 s
-[2024.06.22-21.51.26:531][386]LogStats:             FDebug::EnsureFailed -  1.379 s
-[2024.06.22-21.51.30:203][603]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2024.06.22-21.51.30:203][603]LogWorld: BeginTearingDown for /Game/Platformer/Level/UEDPIE_0_LV_01
-[2024.06.22-21.51.30:204][603]LogSlate: Window 'Char3DEnv3D Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
-[2024.06.22-21.51.30:208][603]LogWorld: UWorld::CleanupWorld for LV_01, bSessionEnded=true, bCleanupResources=true
-[2024.06.22-21.51.30:209][603]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
-[2024.06.22-21.51.30:211][603]LogPlayLevel: Display: Shutting down PIE online subsystems
-[2024.06.22-21.51.30:218][603]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
-[2024.06.22-21.51.30:235][603]LogAudio: Display: Audio Device unregistered from world 'None'.
-[2024.06.22-21.51.30:235][603]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 20
-[2024.06.22-21.51.30:235][603]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20
-[2024.06.22-21.51.30:237][603]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20
-[2024.06.22-21.51.30:245][603]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
-[2024.06.22-21.51.30:287][604]LogPlayLevel: Display: Destroying online subsystem :Context_38
-[2024.06.22-21.51.36:284][750]LogFileHelpers: InternalPromptForCheckoutAndSave started...
-[2024.06.22-21.51.36:315][750]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Platformer/Blueprints/BP_Firebar" FILE="../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Content/Platformer/Blueprints/BP_Firebar.uasset" SILENT=true
-[2024.06.22-21.51.36:328][750]LogSavePackage: Moving output files for package: /Game/Platformer/Blueprints/BP_Firebar
-[2024.06.22-21.51.36:328][750]LogSavePackage: Moving '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Saved/BP_Firebar856638CE4879B32B35977384999CF1F9.tmp' to '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Content/Platformer/Blueprints/BP_Firebar.uasset'
-[2024.06.22-21.51.36:339][750]LogFileHelpers: InternalPromptForCheckoutAndSave took 53 ms (total: 17.3 sec)
-[2024.06.22-21.51.36:342][750]AssetCheck: New page: Asset Save: BP_Firebar
-[2024.06.22-21.51.36:342][750]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Platformer/Blueprints/BP_Firebar.BP_Firebar
-[2024.06.22-21.51.36:873][779]LogFileHelpers: InternalPromptForCheckoutAndSave started...
-[2024.06.22-21.51.36:912][779]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Platformer/Blueprints/BP_Firebar" FILE="../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Content/Platformer/Blueprints/BP_Firebar.uasset" SILENT=true
-[2024.06.22-21.51.36:925][779]LogSavePackage: Moving output files for package: /Game/Platformer/Blueprints/BP_Firebar
-[2024.06.22-21.51.36:925][779]LogSavePackage: Moving '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Saved/BP_Firebar1FA31FB94FA45486E29EE5AD69104C68.tmp' to '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Content/Platformer/Blueprints/BP_Firebar.uasset'
-[2024.06.22-21.51.36:934][779]LogFileHelpers: InternalPromptForCheckoutAndSave took 60 ms (total: 17.4 sec)
-[2024.06.22-21.51.36:937][779]AssetCheck: New page: Asset Save: BP_Firebar
-[2024.06.22-21.51.36:937][779]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Platformer/Blueprints/BP_Firebar.BP_Firebar
