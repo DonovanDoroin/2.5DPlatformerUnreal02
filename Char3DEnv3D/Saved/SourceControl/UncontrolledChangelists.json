@@ -101,7 +101,9 @@
 				"E:/GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Content/Platformer/Blueprints/BP_Firebar.uasset",
 				"E:/GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Content/InfinityBladeEffects/Effects/FX_Materials/Fire/M_Fire_03_Trans_Pan_INST.uasset",
 				"E:/GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Content/InfinityBladeEffects/Effects/Masters/M_Trans_Trail_2Sided_Pan_Base_Emis_Master.uasset",
-				"E:/GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Content/Platformer/UI/W_HUD.uasset"
+				"E:/GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Content/Platformer/UI/W_HUD.uasset",
+				"E:/GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Content/Platformer/Blueprints/BPFL_General.uasset",
+				"E:/GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Content/Platformer/Blueprints/BPI_Platform.uasset"
 			]
 		}
 	]

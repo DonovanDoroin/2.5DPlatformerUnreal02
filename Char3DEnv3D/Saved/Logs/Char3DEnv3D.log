@@ -4104,3 +4104,103 @@ Script Stack (1 frames) :
 [2024.06.22-22.14.54:822][283]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
 [2024.06.22-22.15.27:711][547]BlueprintLog: New page: Compile W_HUD
 [2024.06.22-22.15.27:743][547]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2024.06.22-22.15.58:746][419]LogContentBrowser: Deferred new asset file creation: NewFunctionLibrary
+[2024.06.22-22.15.58:764][419]LogContentBrowser: Creating deferred item: NewFunctionLibrary
+[2024.06.22-22.15.58:788][420]LogContentBrowser: Renaming the item being created (Deferred Item: NewFunctionLibrary).
+[2024.06.22-22.16.05:954][850]LogContentBrowser: Attempting asset rename: NewFunctionLibrary -> BPFL_General
+[2024.06.22-22.16.05:962][850]LogContentBrowser: End creating deferred item NewFunctionLibrary
+[2024.06.22-22.16.08:337][990]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Platformer/Blueprints/BPFL_General.BPFL_General
+[2024.06.22-22.16.08:338][990]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.06.22-22.16.08:338][990]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.06.22-22.16.21:312][759]BlueprintLog: New page: Compile BPFL_General
+[2024.06.22-22.16.21:334][759]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2024.06.22-22.16.21:343][759]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.22-22.16.21:379][759]LogSavePackage: Moving output files for package: /Game/Platformer/Blueprints/BPFL_General
+[2024.06.22-22.16.21:379][759]LogSavePackage: Moving '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Saved/BPFL_General2B4371AA41F4BB4EB7A2EDA6CF21542B.tmp' to '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Content/Platformer/Blueprints/BPFL_General.uasset'
+[2024.06.22-22.16.21:389][759]LogFileHelpers: InternalPromptForCheckoutAndSave took 45 ms (total: 19.7 sec)
+[2024.06.22-22.16.21:393][759]AssetCheck: New page: Asset Save: BPFL_General
+[2024.06.22-22.16.21:393][759]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Platformer/Blueprints/BPFL_General.BPFL_General
+[2024.06.22-22.16.58:330][877]BlueprintLog: New page: Compile BPFL_General
+[2024.06.22-22.16.58:350][877]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2024.06.22-22.16.58:370][877]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.22-22.16.58:406][877]LogSavePackage: Moving output files for package: /Game/Platformer/Blueprints/BPFL_General
+[2024.06.22-22.16.58:406][877]LogSavePackage: Moving '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Saved/BPFL_General220C66784216402EB7120A8733C19018.tmp' to '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Content/Platformer/Blueprints/BPFL_General.uasset'
+[2024.06.22-22.16.58:415][877]LogFileHelpers: InternalPromptForCheckoutAndSave took 44 ms (total: 19.8 sec)
+[2024.06.22-22.16.58:424][877]AssetCheck: New page: Asset Save: BPFL_General
+[2024.06.22-22.16.58:424][877]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Platformer/Blueprints/BPFL_General.BPFL_General
+[2024.06.22-22.17.25:685][372]BlueprintLog: New page: Compile BPFL_General
+[2024.06.22-22.17.25:705][372]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2024.06.22-22.17.25:725][372]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.22-22.17.25:759][372]LogSavePackage: Moving output files for package: /Game/Platformer/Blueprints/BPFL_General
+[2024.06.22-22.17.25:759][372]LogSavePackage: Moving '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Saved/BPFL_General5A6264B546A73AB68E0DCFB03D722F3D.tmp' to '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Content/Platformer/Blueprints/BPFL_General.uasset'
+[2024.06.22-22.17.25:767][372]LogFileHelpers: InternalPromptForCheckoutAndSave took 42 ms (total: 19.8 sec)
+[2024.06.22-22.17.25:777][372]AssetCheck: New page: Asset Save: BPFL_General
+[2024.06.22-22.17.25:777][372]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Platformer/Blueprints/BPFL_General.BPFL_General
+[2024.06.22-22.17.39:207][152]BlueprintLog: New page: Compile BPFL_General
+[2024.06.22-22.17.39:226][152]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2024.06.22-22.17.39:234][152]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.22-22.17.39:267][152]LogSavePackage: Moving output files for package: /Game/Platformer/Blueprints/BPFL_General
+[2024.06.22-22.17.39:267][152]LogSavePackage: Moving '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Saved/BPFL_GeneralD4E667184BCA5F8603A529ACCEA1ABA0.tmp' to '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Content/Platformer/Blueprints/BPFL_General.uasset'
+[2024.06.22-22.17.39:275][152]LogFileHelpers: InternalPromptForCheckoutAndSave took 40 ms (total: 19.9 sec)
+[2024.06.22-22.17.39:277][152]AssetCheck: New page: Asset Save: BPFL_General
+[2024.06.22-22.17.39:277][152]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Platformer/Blueprints/BPFL_General.BPFL_General
+[2024.06.22-22.17.50:410][794]BlueprintLog: New page: Compile BPFL_General
+[2024.06.22-22.17.50:430][794]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2024.06.22-22.17.50:441][794]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.22-22.17.50:477][794]LogSavePackage: Moving output files for package: /Game/Platformer/Blueprints/BPFL_General
+[2024.06.22-22.17.50:477][794]LogSavePackage: Moving '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Saved/BPFL_GeneralFE8831CF4E79AF31A01456980FABBEBD.tmp' to '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Content/Platformer/Blueprints/BPFL_General.uasset'
+[2024.06.22-22.17.50:485][794]LogFileHelpers: InternalPromptForCheckoutAndSave took 44 ms (total: 19.9 sec)
+[2024.06.22-22.17.50:487][794]AssetCheck: New page: Asset Save: BPFL_General
+[2024.06.22-22.17.50:487][794]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Platformer/Blueprints/BPFL_General.BPFL_General
+[2024.06.22-22.18.16:170][140]BlueprintLog: New page: Compile BPFL_General
+[2024.06.22-22.18.16:190][140]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2024.06.22-22.18.16:203][140]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.22-22.18.16:242][140]LogSavePackage: Moving output files for package: /Game/Platformer/Blueprints/BPFL_General
+[2024.06.22-22.18.16:242][140]LogSavePackage: Moving '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Saved/BPFL_General326D96B84D5C61C4E4E3F8BFAFC039D7.tmp' to '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Content/Platformer/Blueprints/BPFL_General.uasset'
+[2024.06.22-22.18.16:249][140]LogFileHelpers: InternalPromptForCheckoutAndSave took 45 ms (total: 19.9 sec)
+[2024.06.22-22.18.16:251][140]AssetCheck: New page: Asset Save: BPFL_General
+[2024.06.22-22.18.16:251][140]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Platformer/Blueprints/BPFL_General.BPFL_General
+[2024.06.22-22.18.51:037][  0]BlueprintLog: New page: Compile BPFL_General
+[2024.06.22-22.18.51:057][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2024.06.22-22.18.51:073][  0]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.22-22.18.51:113][  0]LogSavePackage: Moving output files for package: /Game/Platformer/Blueprints/BPFL_General
+[2024.06.22-22.18.51:113][  0]LogSavePackage: Moving '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Saved/BPFL_GeneralEFEE05584E1C6103FA9103A801D60AB4.tmp' to '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Content/Platformer/Blueprints/BPFL_General.uasset'
+[2024.06.22-22.18.51:120][  0]LogFileHelpers: InternalPromptForCheckoutAndSave took 47 ms (total: 20.0 sec)
+[2024.06.22-22.18.51:121][  0]AssetCheck: New page: Asset Save: BPFL_General
+[2024.06.22-22.18.51:121][  0]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Platformer/Blueprints/BPFL_General.BPFL_General
+[2024.06.22-22.19.11:601][ 54]BlueprintLog: New page: Compile BPFL_General
+[2024.06.22-22.19.11:624][ 54]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2024.06.22-22.19.11:641][ 54]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.22-22.19.11:678][ 54]LogSavePackage: Moving output files for package: /Game/Platformer/Blueprints/BPFL_General
+[2024.06.22-22.19.11:679][ 54]LogSavePackage: Moving '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Saved/BPFL_General8C7364A442891F06AFF8099E0E65FD1D.tmp' to '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Content/Platformer/Blueprints/BPFL_General.uasset'
+[2024.06.22-22.19.11:685][ 54]LogFileHelpers: InternalPromptForCheckoutAndSave took 44 ms (total: 20.0 sec)
+[2024.06.22-22.19.11:687][ 54]AssetCheck: New page: Asset Save: BPFL_General
+[2024.06.22-22.19.11:687][ 54]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Platformer/Blueprints/BPFL_General.BPFL_General
+[2024.06.22-22.19.37:962][359]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2024.06.22-22.19.37:962][359]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.22-22.19.37:969][359]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2024.06.22-22.19.37:969][359]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.22-22.19.52:101][181]LogContentBrowser: Deferred new asset file creation: NewInterface
+[2024.06.22-22.19.52:112][181]LogContentBrowser: Creating deferred item: NewInterface
+[2024.06.22-22.19.52:128][182]LogContentBrowser: Renaming the item being created (Deferred Item: NewInterface).
+[2024.06.22-22.19.56:585][450]LogContentBrowser: Attempting asset rename: NewInterface -> BPI_Platform
+[2024.06.22-22.19.56:590][450]LogContentBrowser: End creating deferred item NewInterface
+[2024.06.22-22.19.58:379][556]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.22-22.19.58:448][556]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2024.06.22-22.19.58:469][556]LogSavePackage: Moving output files for package: /Game/Platformer/Level/LV_01
+[2024.06.22-22.19.58:469][556]LogSavePackage: Moving '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Saved/LV_017CA460D24BDB6D8EB7EA24942711C825.tmp' to '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Content/Platformer/Level/LV_01.umap'
+[2024.06.22-22.19.58:479][556]LogFileHelpers: Saving map 'LV_01' took 0.067
+[2024.06.22-22.19.58:489][556]LogFileHelpers: InternalPromptForCheckoutAndSave took 109 ms (total: 20.1 sec)
+[2024.06.22-22.19.58:491][556]AssetCheck: New page: Asset Save: LV_01
+[2024.06.22-22.19.58:491][556]LogContentValidation: Display: Validating /Script/Engine.World /Game/Platformer/Level/LV_01.LV_01
+[2024.06.22-22.19.59:870][638]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Platformer/Blueprints/BPI_Platform.BPI_Platform
+[2024.06.22-22.19.59:871][638]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.06.22-22.19.59:871][638]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.06.22-22.20.14:959][537]BlueprintLog: New page: Compile BPI_Platform
+[2024.06.22-22.20.14:985][537]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2024.06.22-22.20.14:993][537]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.22-22.20.15:037][537]LogSavePackage: Moving output files for package: /Game/Platformer/Blueprints/BPI_Platform
+[2024.06.22-22.20.15:037][537]LogSavePackage: Moving '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Saved/BPI_PlatformA850820F45B930679D6AAFA56F6B4656.tmp' to '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Content/Platformer/Blueprints/BPI_Platform.uasset'
+[2024.06.22-22.20.15:047][537]LogFileHelpers: InternalPromptForCheckoutAndSave took 54 ms (total: 20.2 sec)
+[2024.06.22-22.20.15:051][537]AssetCheck: New page: Asset Save: BPI_Platform
+[2024.06.22-22.20.15:051][537]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Platformer/Blueprints/BPI_Platform.BPI_Platform
