@@ -4204,3 +4204,327 @@ Script Stack (1 frames) :
 [2024.06.22-22.20.15:047][537]LogFileHelpers: InternalPromptForCheckoutAndSave took 54 ms (total: 20.2 sec)
 [2024.06.22-22.20.15:051][537]AssetCheck: New page: Asset Save: BPI_Platform
 [2024.06.22-22.20.15:051][537]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Platformer/Blueprints/BPI_Platform.BPI_Platform
+[2024.06.22-22.21.00:513][593]LogSlate: Window 'Pick Parent Class for New Widget Blueprint' being destroyed
+[2024.06.22-22.21.00:523][593]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2024.06.22-22.21.00:530][593]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2024.06.22-22.21.00:544][594]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2024.06.22-22.21.05:426][887]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> W_Points
+[2024.06.22-22.21.05:432][887]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2024.06.22-22.21.06:398][945]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Platformer/UI/W_Points.W_Points
+[2024.06.22-22.21.06:399][945]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.06.22-22.21.06:399][945]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.06.22-22.21.06:406][945]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.06.22-22.21.06:406][945]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.06.22-22.21.09:341][112]BlueprintLog: New page: Compile W_Points
+[2024.06.22-22.21.09:372][112]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2024.06.22-22.21.09:380][112]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.22-22.21.09:419][112]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Platformer/UI/W_Points" FILE="../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Content/Platformer/UI/W_Points.uasset" SILENT=true
+[2024.06.22-22.21.09:422][112]LogSavePackage: Moving output files for package: /Game/Platformer/UI/W_Points
+[2024.06.22-22.21.09:422][112]LogSavePackage: Moving '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Saved/W_PointsD3C1AA464A57B524F7F32BA589D2AA52.tmp' to '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Content/Platformer/UI/W_Points.uasset'
+[2024.06.22-22.21.09:432][112]LogFileHelpers: InternalPromptForCheckoutAndSave took 52 ms (total: 20.3 sec)
+[2024.06.22-22.21.09:432][112]AssetCheck: New page: Asset Save: W_Points
+[2024.06.22-22.21.09:432][112]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Platformer/UI/W_Points.W_Points
+[2024.06.22-22.21.21:604][834]BlueprintLog: New page: Compile W_Points
+[2024.06.22-22.21.21:633][834]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2024.06.22-22.21.21:640][834]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.22-22.21.21:679][834]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Platformer/UI/W_Points" FILE="../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Content/Platformer/UI/W_Points.uasset" SILENT=true
+[2024.06.22-22.21.21:682][834]LogSavePackage: Moving output files for package: /Game/Platformer/UI/W_Points
+[2024.06.22-22.21.21:682][834]LogSavePackage: Moving '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Saved/W_Points45CA7E944B0D57E8BFBE789AC4EA2929.tmp' to '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Content/Platformer/UI/W_Points.uasset'
+[2024.06.22-22.21.21:689][834]LogFileHelpers: InternalPromptForCheckoutAndSave took 48 ms (total: 20.3 sec)
+[2024.06.22-22.21.21:690][834]AssetCheck: New page: Asset Save: W_Points
+[2024.06.22-22.21.21:690][834]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Platformer/UI/W_Points.W_Points
+[2024.06.22-22.21.43:036][ 94]BlueprintLog: New page: Compile W_Points
+[2024.06.22-22.21.43:065][ 94]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2024.06.22-22.21.43:188][ 94]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.22-22.21.43:226][ 94]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Platformer/UI/W_Points" FILE="../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Content/Platformer/UI/W_Points.uasset" SILENT=true
+[2024.06.22-22.21.43:230][ 94]LogSavePackage: Moving output files for package: /Game/Platformer/UI/W_Points
+[2024.06.22-22.21.43:230][ 94]LogSavePackage: Moving '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Saved/W_Points18324B2648A740D32717C2AB5A3C2B86.tmp' to '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Content/Platformer/UI/W_Points.uasset'
+[2024.06.22-22.21.43:237][ 94]LogFileHelpers: InternalPromptForCheckoutAndSave took 48 ms (total: 20.3 sec)
+[2024.06.22-22.21.43:266][ 94]AssetCheck: New page: Asset Save: W_Points
+[2024.06.22-22.21.43:266][ 94]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Platformer/UI/W_Points.W_Points
+[2024.06.22-22.22.02:478][952]BlueprintLog: New page: Compile W_Points
+[2024.06.22-22.22.02:509][952]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2024.06.22-22.22.02:655][952]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.22-22.22.02:700][952]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Platformer/UI/W_Points" FILE="../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Content/Platformer/UI/W_Points.uasset" SILENT=true
+[2024.06.22-22.22.02:703][952]LogSavePackage: Moving output files for package: /Game/Platformer/UI/W_Points
+[2024.06.22-22.22.02:703][952]LogSavePackage: Moving '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Saved/W_Points9ED015EC4DD60D73182A87ABBA64A041.tmp' to '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Content/Platformer/UI/W_Points.uasset'
+[2024.06.22-22.22.02:714][952]LogFileHelpers: InternalPromptForCheckoutAndSave took 60 ms (total: 20.4 sec)
+[2024.06.22-22.22.02:749][952]AssetCheck: New page: Asset Save: W_Points
+[2024.06.22-22.22.02:749][952]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Platformer/UI/W_Points.W_Points
+[2024.06.22-22.22.22:380][496]BlueprintLog: New page: Compile W_Points
+[2024.06.22-22.22.22:412][496]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2024.06.22-22.22.22:558][496]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.22-22.22.22:608][496]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Platformer/UI/W_Points" FILE="../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Content/Platformer/UI/W_Points.uasset" SILENT=true
+[2024.06.22-22.22.22:611][496]LogSavePackage: Moving output files for package: /Game/Platformer/UI/W_Points
+[2024.06.22-22.22.22:611][496]LogSavePackage: Moving '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Saved/W_Points4771D2F84EDF97384394149522FD32C6.tmp' to '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Content/Platformer/UI/W_Points.uasset'
+[2024.06.22-22.22.22:620][496]LogFileHelpers: InternalPromptForCheckoutAndSave took 62 ms (total: 20.5 sec)
+[2024.06.22-22.22.22:654][496]AssetCheck: New page: Asset Save: W_Points
+[2024.06.22-22.22.22:654][496]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Platformer/UI/W_Points.W_Points
+[2024.06.22-22.23.15:154][802]BlueprintLog: New page: Compile W_Points
+[2024.06.22-22.23.15:188][802]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2024.06.22-22.23.15:318][802]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.22-22.23.15:356][802]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Platformer/UI/W_Points" FILE="../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Content/Platformer/UI/W_Points.uasset" SILENT=true
+[2024.06.22-22.23.15:360][802]LogSavePackage: Moving output files for package: /Game/Platformer/UI/W_Points
+[2024.06.22-22.23.15:361][802]LogSavePackage: Moving '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Saved/W_PointsB127BA60478234860B91C6B0EB449171.tmp' to '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Content/Platformer/UI/W_Points.uasset'
+[2024.06.22-22.23.15:367][802]LogFileHelpers: InternalPromptForCheckoutAndSave took 49 ms (total: 20.5 sec)
+[2024.06.22-22.23.15:400][802]AssetCheck: New page: Asset Save: W_Points
+[2024.06.22-22.23.15:400][802]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Platformer/UI/W_Points.W_Points
+[2024.06.22-22.24.46:601][417]BlueprintLog: New page: Compile W_Points
+[2024.06.22-22.24.46:632][417]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2024.06.22-22.24.46:760][417]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.22-22.24.46:788][417]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Platformer/UI/W_Points" FILE="../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Content/Platformer/UI/W_Points.uasset" SILENT=true
+[2024.06.22-22.24.46:794][417]LogSavePackage: Moving output files for package: /Game/Platformer/UI/W_Points
+[2024.06.22-22.24.46:794][417]LogSavePackage: Moving '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Saved/W_Points934B28DB4C65E26F3F38CCA40DCDE05D.tmp' to '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Content/Platformer/UI/W_Points.uasset'
+[2024.06.22-22.24.46:802][417]LogFileHelpers: InternalPromptForCheckoutAndSave took 42 ms (total: 20.6 sec)
+[2024.06.22-22.24.46:831][417]AssetCheck: New page: Asset Save: W_Points
+[2024.06.22-22.24.46:831][417]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Platformer/UI/W_Points.W_Points
+[2024.06.22-22.25.57:290][455]BlueprintLog: New page: Compile W_Points
+[2024.06.22-22.25.57:324][455]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2024.06.22-22.25.57:400][455]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.22-22.25.57:434][455]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Platformer/UI/W_Points" FILE="../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Content/Platformer/UI/W_Points.uasset" SILENT=true
+[2024.06.22-22.25.57:439][455]LogSavePackage: Moving output files for package: /Game/Platformer/UI/W_Points
+[2024.06.22-22.25.57:439][455]LogSavePackage: Moving '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Saved/W_PointsCDCEBBAE45E5166F7C5A4C8BEDF2C4FF.tmp' to '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Content/Platformer/UI/W_Points.uasset'
+[2024.06.22-22.25.57:449][455]LogFileHelpers: InternalPromptForCheckoutAndSave took 49 ms (total: 20.6 sec)
+[2024.06.22-22.25.57:465][455]AssetCheck: New page: Asset Save: W_Points
+[2024.06.22-22.25.57:465][455]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Platformer/UI/W_Points.W_Points
+[2024.06.22-22.26.10:041][205]LogTabManager: Warning: Cannot spawn tab because no spawner is registered for 'SequencerGraphEditor'
+[2024.06.22-22.26.10:063][205]LogSlate: The tab "SequencerGraphEditor" attempted to spawn in layout 'WidgetBlueprintEditor_Designer_Layout_v4_8' but failed for some reason. An "unrecognized tab" will be returned instead.
+[2024.06.22-22.26.11:508][291]LogSlate: Window 'Sequencer Curves' being destroyed
+[2024.06.22-22.26.11:513][291]LogSlate: Window 'Sequencer Curves' being destroyed
+[2024.06.22-22.26.52:521][440]BlueprintLog: New page: Compile W_Points
+[2024.06.22-22.26.52:549][440]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2024.06.22-22.26.52:678][440]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.22-22.26.52:709][440]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Platformer/UI/W_Points" FILE="../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Content/Platformer/UI/W_Points.uasset" SILENT=true
+[2024.06.22-22.26.52:714][440]LogSavePackage: Moving output files for package: /Game/Platformer/UI/W_Points
+[2024.06.22-22.26.52:714][440]LogSavePackage: Moving '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Saved/W_PointsB6A21DC446C5420456ADE3B5E9130E34.tmp' to '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Content/Platformer/UI/W_Points.uasset'
+[2024.06.22-22.26.52:723][440]LogFileHelpers: InternalPromptForCheckoutAndSave took 44 ms (total: 20.7 sec)
+[2024.06.22-22.26.52:752][440]AssetCheck: New page: Asset Save: W_Points
+[2024.06.22-22.26.52:752][440]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Platformer/UI/W_Points.W_Points
+[2024.06.22-22.28.17:814][831]BlueprintLog: New page: Compile W_Points
+[2024.06.22-22.28.17:848][831]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2024.06.22-22.28.17:980][831]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.22-22.28.18:006][831]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Platformer/UI/W_Points" FILE="../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Content/Platformer/UI/W_Points.uasset" SILENT=true
+[2024.06.22-22.28.18:012][831]LogSavePackage: Moving output files for package: /Game/Platformer/UI/W_Points
+[2024.06.22-22.28.18:012][831]LogSavePackage: Moving '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Saved/W_PointsFB12E9484B2669B9A96531ABD6B8F33D.tmp' to '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Content/Platformer/UI/W_Points.uasset'
+[2024.06.22-22.28.18:020][831]LogFileHelpers: InternalPromptForCheckoutAndSave took 40 ms (total: 20.7 sec)
+[2024.06.22-22.28.18:049][831]AssetCheck: New page: Asset Save: W_Points
+[2024.06.22-22.28.18:049][831]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Platformer/UI/W_Points.W_Points
+[2024.06.22-22.28.19:420][908]BlueprintLog: New page: Compile W_Points
+[2024.06.22-22.28.19:453][908]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2024.06.22-22.28.58:355][659]LogSlate: Window 'Pick Parent Class' being destroyed
+[2024.06.22-22.28.58:380][659]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2024.06.22-22.28.58:389][659]LogContentBrowser: Creating deferred item: NewBlueprint
+[2024.06.22-22.28.58:406][660]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2024.06.22-22.29.02:268][892]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_Points
+[2024.06.22-22.29.02:278][892]LogContentBrowser: End creating deferred item NewBlueprint
+[2024.06.22-22.29.04:019][994]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.22-22.29.04:086][994]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2024.06.22-22.29.04:102][994]LogSavePackage: Moving output files for package: /Game/Platformer/Level/LV_01
+[2024.06.22-22.29.04:102][994]LogSavePackage: Moving '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Saved/LV_0143C207524771FA9C3AAD9F908378B8AD.tmp' to '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Content/Platformer/Level/LV_01.umap'
+[2024.06.22-22.29.04:110][994]LogFileHelpers: Saving map 'LV_01' took 0.057
+[2024.06.22-22.29.04:121][994]LogFileHelpers: InternalPromptForCheckoutAndSave took 100 ms (total: 20.8 sec)
+[2024.06.22-22.29.04:122][994]AssetCheck: New page: Asset Save: LV_01
+[2024.06.22-22.29.04:122][994]LogContentValidation: Display: Validating /Script/Engine.World /Game/Platformer/Level/LV_01.LV_01
+[2024.06.22-22.29.05:346][ 67]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Platformer/Blueprints/BP_Points.BP_Points
+[2024.06.22-22.29.05:346][ 67]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.06.22-22.29.05:346][ 67]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.06.22-22.29.05:493][ 67]LogViewport: Scene viewport resized to 1141x915, mode Windowed.
+[2024.06.22-22.29.48:788][314]BlueprintLog: New page: Compile BP_Points
+[2024.06.22-22.29.48:825][314]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2024.06.22-22.29.48:835][314]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.22-22.29.48:865][314]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Platformer/Blueprints/BP_Points" FILE="../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Content/Platformer/Blueprints/BP_Points.uasset" SILENT=true
+[2024.06.22-22.29.48:868][314]LogSavePackage: Moving output files for package: /Game/Platformer/Blueprints/BP_Points
+[2024.06.22-22.29.48:868][314]LogSavePackage: Moving '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Saved/BP_Points75D22E6A4C17B6EA1B45CEA4699212C9.tmp' to '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Content/Platformer/Blueprints/BP_Points.uasset'
+[2024.06.22-22.29.48:880][314]LogFileHelpers: InternalPromptForCheckoutAndSave took 44 ms (total: 20.8 sec)
+[2024.06.22-22.29.48:903][314]AssetCheck: New page: Asset Save: BP_Points
+[2024.06.22-22.29.48:904][314]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Platformer/Blueprints/BP_Points.BP_Points
+[2024.06.22-22.30.04:074][202]BlueprintLog: New page: Compile BP_Points
+[2024.06.22-22.30.04:114][202]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2024.06.22-22.30.04:124][202]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.22-22.30.04:157][202]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Platformer/Blueprints/BP_Points" FILE="../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Content/Platformer/Blueprints/BP_Points.uasset" SILENT=true
+[2024.06.22-22.30.04:159][202]LogSavePackage: Moving output files for package: /Game/Platformer/Blueprints/BP_Points
+[2024.06.22-22.30.04:159][202]LogSavePackage: Moving '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Saved/BP_Points3F366C38479F33F3CC4867B7560CEFAA.tmp' to '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Content/Platformer/Blueprints/BP_Points.uasset'
+[2024.06.22-22.30.04:169][202]LogFileHelpers: InternalPromptForCheckoutAndSave took 43 ms (total: 20.9 sec)
+[2024.06.22-22.30.04:170][202]AssetCheck: New page: Asset Save: BP_Points
+[2024.06.22-22.30.04:170][202]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Platformer/Blueprints/BP_Points.BP_Points
+[2024.06.22-22.30.09:231][495]BlueprintLog: New page: Compile BP_Points
+[2024.06.22-22.30.09:270][495]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2024.06.22-22.30.09:280][495]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.22-22.30.09:302][495]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Platformer/Blueprints/BP_Points" FILE="../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Content/Platformer/Blueprints/BP_Points.uasset" SILENT=true
+[2024.06.22-22.30.09:305][495]LogSavePackage: Moving output files for package: /Game/Platformer/Blueprints/BP_Points
+[2024.06.22-22.30.09:306][495]LogSavePackage: Moving '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Saved/BP_PointsF92ADAE645B4A1656D909AA4EBD5E948.tmp' to '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Content/Platformer/Blueprints/BP_Points.uasset'
+[2024.06.22-22.30.09:314][495]LogFileHelpers: InternalPromptForCheckoutAndSave took 34 ms (total: 20.9 sec)
+[2024.06.22-22.30.09:315][495]AssetCheck: New page: Asset Save: BP_Points
+[2024.06.22-22.30.09:315][495]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Platformer/Blueprints/BP_Points.BP_Points
+[2024.06.22-22.30.30:684][770]BlueprintLog: New page: Compile BP_Points
+[2024.06.22-22.30.30:722][770]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2024.06.22-22.30.30:734][770]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.22-22.30.30:774][770]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Platformer/Blueprints/BP_Points" FILE="../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Content/Platformer/Blueprints/BP_Points.uasset" SILENT=true
+[2024.06.22-22.30.30:776][770]LogSavePackage: Moving output files for package: /Game/Platformer/Blueprints/BP_Points
+[2024.06.22-22.30.30:776][770]LogSavePackage: Moving '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Saved/BP_PointsBBB029A14987F759B1207997C0E0B62D.tmp' to '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Content/Platformer/Blueprints/BP_Points.uasset'
+[2024.06.22-22.30.30:786][770]LogFileHelpers: InternalPromptForCheckoutAndSave took 51 ms (total: 21.0 sec)
+[2024.06.22-22.30.30:787][770]AssetCheck: New page: Asset Save: BP_Points
+[2024.06.22-22.30.30:788][770]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Platformer/Blueprints/BP_Points.BP_Points
+[2024.06.22-22.30.57:038][313]BlueprintLog: New page: Compile BP_Points
+[2024.06.22-22.30.57:074][313]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2024.06.22-22.30.57:087][313]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.22-22.30.57:122][313]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Platformer/Blueprints/BP_Points" FILE="../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Content/Platformer/Blueprints/BP_Points.uasset" SILENT=true
+[2024.06.22-22.30.57:125][313]LogSavePackage: Moving output files for package: /Game/Platformer/Blueprints/BP_Points
+[2024.06.22-22.30.57:126][313]LogSavePackage: Moving '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Saved/BP_PointsD6D07DBE4BBCE65FAD6C758D09478F5F.tmp' to '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Content/Platformer/Blueprints/BP_Points.uasset'
+[2024.06.22-22.30.57:134][313]LogFileHelpers: InternalPromptForCheckoutAndSave took 46 ms (total: 21.0 sec)
+[2024.06.22-22.30.57:136][313]AssetCheck: New page: Asset Save: BP_Points
+[2024.06.22-22.30.57:136][313]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Platformer/Blueprints/BP_Points.BP_Points
+[2024.06.22-22.31.36:180][872]BlueprintLog: New page: Compile BP_Points
+[2024.06.22-22.31.36:181][872]LogBlueprint: Error: [AssetLog] E:\GitHub\Unreal\2.5DPlatformerUnreal02\Char3DEnv3D\Content\Platformer\Blueprints\BP_Points.uasset: [Compiler] This blueprint (self) is not a UserWidget, therefore ' Target ' must have a connection.
+[2024.06.22-22.31.36:224][872]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2024.06.22-22.31.41:161][991]BlueprintLog: New page: Compile BP_Points
+[2024.06.22-22.31.41:198][991]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2024.06.22-22.31.41:214][991]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.22-22.31.41:238][991]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Platformer/Blueprints/BP_Points" FILE="../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Content/Platformer/Blueprints/BP_Points.uasset" SILENT=true
+[2024.06.22-22.31.41:242][991]LogSavePackage: Moving output files for package: /Game/Platformer/Blueprints/BP_Points
+[2024.06.22-22.31.41:243][991]LogSavePackage: Moving '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Saved/BP_PointsE20E5D6E4937CC79E43EAD94CFC44480.tmp' to '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Content/Platformer/Blueprints/BP_Points.uasset'
+[2024.06.22-22.31.41:250][991]LogFileHelpers: InternalPromptForCheckoutAndSave took 35 ms (total: 21.1 sec)
+[2024.06.22-22.31.41:251][991]AssetCheck: New page: Asset Save: BP_Points
+[2024.06.22-22.31.41:251][991]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Platformer/Blueprints/BP_Points.BP_Points
+[2024.06.22-22.31.48:309][411]BlueprintLog: New page: Compile BP_Points
+[2024.06.22-22.31.48:357][411]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2024.06.22-22.31.48:374][411]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.22-22.31.48:404][411]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Platformer/Blueprints/BP_Points" FILE="../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Content/Platformer/Blueprints/BP_Points.uasset" SILENT=true
+[2024.06.22-22.31.48:408][411]LogSavePackage: Moving output files for package: /Game/Platformer/Blueprints/BP_Points
+[2024.06.22-22.31.48:409][411]LogSavePackage: Moving '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Saved/BP_Points278A370F4C6627A99BE399970E768C81.tmp' to '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Content/Platformer/Blueprints/BP_Points.uasset'
+[2024.06.22-22.31.48:417][411]LogFileHelpers: InternalPromptForCheckoutAndSave took 42 ms (total: 21.1 sec)
+[2024.06.22-22.31.48:418][411]AssetCheck: New page: Asset Save: BP_Points
+[2024.06.22-22.31.48:418][411]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Platformer/Blueprints/BP_Points.BP_Points
+[2024.06.22-22.31.49:033][445]BlueprintLog: New page: Compile BP_Points
+[2024.06.22-22.31.49:071][445]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2024.06.22-22.32.39:003][407]BlueprintLog: New page: Compile BP_Points
+[2024.06.22-22.32.39:042][407]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2024.06.22-22.32.39:064][407]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.22-22.32.39:099][407]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Platformer/Blueprints/BP_Points" FILE="../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Content/Platformer/Blueprints/BP_Points.uasset" SILENT=true
+[2024.06.22-22.32.39:105][407]LogSavePackage: Moving output files for package: /Game/Platformer/Blueprints/BP_Points
+[2024.06.22-22.32.39:105][407]LogSavePackage: Moving '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Saved/BP_Points0A79DC9E4B5F0B6F32EEF4AE0FB238DF.tmp' to '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Content/Platformer/Blueprints/BP_Points.uasset'
+[2024.06.22-22.32.39:115][407]LogFileHelpers: InternalPromptForCheckoutAndSave took 50 ms (total: 21.1 sec)
+[2024.06.22-22.32.39:116][407]AssetCheck: New page: Asset Save: BP_Points
+[2024.06.22-22.32.39:116][407]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Platformer/Blueprints/BP_Points.BP_Points
+[2024.06.22-22.33.08:689][169]BlueprintLog: New page: Compile BP_Points
+[2024.06.22-22.33.08:738][169]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2024.06.22-22.33.08:771][169]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.22-22.33.08:816][169]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Platformer/Blueprints/BP_Points" FILE="../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Content/Platformer/Blueprints/BP_Points.uasset" SILENT=true
+[2024.06.22-22.33.08:823][169]LogSavePackage: Moving output files for package: /Game/Platformer/Blueprints/BP_Points
+[2024.06.22-22.33.08:824][169]LogSavePackage: Moving '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Saved/BP_Points0AC7A7FA4C3E1716DC4439A4968ED6CD.tmp' to '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Content/Platformer/Blueprints/BP_Points.uasset'
+[2024.06.22-22.33.08:835][169]LogFileHelpers: InternalPromptForCheckoutAndSave took 64 ms (total: 21.2 sec)
+[2024.06.22-22.33.08:837][169]AssetCheck: New page: Asset Save: BP_Points
+[2024.06.22-22.33.08:837][169]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Platformer/Blueprints/BP_Points.BP_Points
+[2024.06.22-22.33.13:306][432]BlueprintLog: New page: Compile BP_Points
+[2024.06.22-22.33.13:340][432]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2024.06.22-22.33.13:363][432]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.22-22.33.13:393][432]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Platformer/Blueprints/BP_Points" FILE="../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Content/Platformer/Blueprints/BP_Points.uasset" SILENT=true
+[2024.06.22-22.33.13:399][432]LogSavePackage: Moving output files for package: /Game/Platformer/Blueprints/BP_Points
+[2024.06.22-22.33.13:399][432]LogSavePackage: Moving '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Saved/BP_Points1704458545F4AF9DD4063797F8D2FF0E.tmp' to '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Content/Platformer/Blueprints/BP_Points.uasset'
+[2024.06.22-22.33.13:406][432]LogFileHelpers: InternalPromptForCheckoutAndSave took 43 ms (total: 21.3 sec)
+[2024.06.22-22.33.13:407][432]AssetCheck: New page: Asset Save: BP_Points
+[2024.06.22-22.33.13:407][432]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Platformer/Blueprints/BP_Points.BP_Points
+[2024.06.22-22.33.46:936][384]BlueprintLog: New page: Compile BP_Points
+[2024.06.22-22.33.46:974][384]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2024.06.22-22.33.47:014][384]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.22-22.33.47:055][384]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Platformer/Blueprints/BP_Points" FILE="../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Content/Platformer/Blueprints/BP_Points.uasset" SILENT=true
+[2024.06.22-22.33.47:066][384]LogSavePackage: Moving output files for package: /Game/Platformer/Blueprints/BP_Points
+[2024.06.22-22.33.47:067][384]LogSavePackage: Moving '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Saved/BP_PointsB334EA1B40917080CE3B1CBFC9C369DA.tmp' to '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Content/Platformer/Blueprints/BP_Points.uasset'
+[2024.06.22-22.33.47:079][384]LogFileHelpers: InternalPromptForCheckoutAndSave took 65 ms (total: 21.3 sec)
+[2024.06.22-22.33.47:080][384]AssetCheck: New page: Asset Save: BP_Points
+[2024.06.22-22.33.47:080][384]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Platformer/Blueprints/BP_Points.BP_Points
+[2024.06.22-22.33.59:413][120]BlueprintLog: New page: Compile BP_Points
+[2024.06.22-22.33.59:453][120]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2024.06.22-22.34.08:762][672]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.06.22-22.34.08:768][672]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.06.22-22.34.08:768][672]PIE: New page: PIE session: LV_01 (22 Jun 2024, 2:34:08 pm)
+[2024.06.22-22.34.08:768][672]LogPlayLevel: Creating play world package: /Game/Platformer/Level/UEDPIE_0_LV_01
+[2024.06.22-22.34.08:773][672]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005322s)
+[2024.06.22-22.34.08:773][672]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Platformer/Level/LV_01.LV_01 to /Game/Platformer/Level/UEDPIE_0_LV_01.LV_01 (0.005364s)
+[2024.06.22-22.34.08:788][672]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2024.06.22-22.34.08:791][672]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.06.22-22.34.08:791][672]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.06.22-22.34.08:791][672]LogAIModule: Creating AISystem for world LV_01
+[2024.06.22-22.34.08:792][672]LogPlayLevel: PIE: World Init took: (0.001386s)
+[2024.06.22-22.34.08:792][672]LogAudio: Display: Creating Audio Device:                 Id: 22, Scope: Unique, Realtime: True
+[2024.06.22-22.34.08:792][672]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.06.22-22.34.08:792][672]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.06.22-22.34.08:792][672]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.06.22-22.34.08:792][672]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.06.22-22.34.08:792][672]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.06.22-22.34.08:792][672]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.06.22-22.34.08:792][672]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.06.22-22.34.08:792][672]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.06.22-22.34.08:793][672]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.06.22-22.34.08:793][672]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.06.22-22.34.08:793][672]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.06.22-22.34.08:795][672]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.06.22-22.34.08:904][672]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.06.22-22.34.08:905][672]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.06.22-22.34.08:905][672]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.06.22-22.34.08:905][672]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.06.22-22.34.08:905][672]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=22
+[2024.06.22-22.34.08:905][672]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=22
+[2024.06.22-22.34.08:908][672]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=22
+[2024.06.22-22.34.08:909][672]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=22
+[2024.06.22-22.34.08:909][672]LogInit: FAudioDevice initialized with ID 22.
+[2024.06.22-22.34.08:909][672]LogAudio: Display: Audio Device (ID: 22) registered with world 'LV_01'.
+[2024.06.22-22.34.08:909][672]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 22
+[2024.06.22-22.34.08:939][672]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.06.22-22.34.08:939][672]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.06.22-22.34.08:940][672]LogWorld: Bringing World /Game/Platformer/Level/UEDPIE_0_LV_01.LV_01 up for play (max tick rate 60) at 2024.06.22-18.34.08
+[2024.06.22-22.34.08:941][672]LogWorld: Bringing up level for play took: 0.001672
+[2024.06.22-22.34.08:943][672]LogOnline: OSS: Created online subsystem instance for: :Context_47
+[2024.06.22-22.34.08:952][672]PIE: Server logged in
+[2024.06.22-22.34.08:953][672]PIE: Play in editor total start time 0.186 seconds.
+[2024.06.22-22.34.08:966][672]LogViewport: Scene viewport resized to 1024x576, mode Windowed.
+[2024.06.22-22.34.21:429][395]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.06.22-22.34.21:429][395]LogWorld: BeginTearingDown for /Game/Platformer/Level/UEDPIE_0_LV_01
+[2024.06.22-22.34.21:430][395]LogSlate: Window 'Char3DEnv3D Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.06.22-22.34.21:434][395]LogWorld: UWorld::CleanupWorld for LV_01, bSessionEnded=true, bCleanupResources=true
+[2024.06.22-22.34.21:434][395]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.22-22.34.21:437][395]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.06.22-22.34.21:447][395]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.22-22.34.21:467][395]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.06.22-22.34.21:467][395]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 22
+[2024.06.22-22.34.21:467][395]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22
+[2024.06.22-22.34.21:469][395]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22
+[2024.06.22-22.34.21:477][395]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2024.06.22-22.34.21:526][396]LogPlayLevel: Display: Destroying online subsystem :Context_47
+[2024.06.22-22.34.59:295][ 45]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Platformer/UI/W_HUD.W_HUD
+[2024.06.22-22.34.59:297][ 45]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.06.22-22.34.59:297][ 45]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.06.22-22.34.59:304][ 45]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.06.22-22.34.59:304][ 45]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.06.22-22.35.34:320][891]BlueprintLog: New page: Compile BP_PlayerController
+[2024.06.22-22.35.34:389][891]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2024.06.22-22.35.34:622][891]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.22-22.35.34:675][891]LogSavePackage: Moving output files for package: /Game/Platformer/Blueprints/Framework/BP_PlayerController
+[2024.06.22-22.35.34:675][891]LogSavePackage: Moving '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Saved/BP_PlayerControllerD568B3ED42959DB1AA7560B00B4DAE8C.tmp' to '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Content/Platformer/Blueprints/Framework/BP_PlayerController.uasset'
+[2024.06.22-22.35.34:691][891]LogFileHelpers: InternalPromptForCheckoutAndSave took 68 ms (total: 21.4 sec)
+[2024.06.22-22.35.34:768][891]AssetCheck: New page: Asset Save: BP_PlayerController
+[2024.06.22-22.35.34:768][891]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Platformer/Blueprints/Framework/BP_PlayerController.BP_PlayerController
+[2024.06.22-22.35.54:435][867]BlueprintLog: New page: Compile BP_PlayerController
+[2024.06.22-22.35.54:484][867]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2024.06.22-22.35.54:655][867]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.22-22.35.54:688][867]LogSavePackage: Moving output files for package: /Game/Platformer/Blueprints/Framework/BP_PlayerController
+[2024.06.22-22.35.54:688][867]LogSavePackage: Moving '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Saved/BP_PlayerController546287D048F99B26553AA8AAC6C634D0.tmp' to '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Content/Platformer/Blueprints/Framework/BP_PlayerController.uasset'
+[2024.06.22-22.35.54:696][867]LogFileHelpers: InternalPromptForCheckoutAndSave took 41 ms (total: 21.4 sec)
+[2024.06.22-22.35.54:785][867]AssetCheck: New page: Asset Save: BP_PlayerController
+[2024.06.22-22.35.54:785][867]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Platformer/Blueprints/Framework/BP_PlayerController.BP_PlayerController
+[2024.06.22-22.36.02:445][313]BlueprintLog: New page: Compile BP_PlayerController
+[2024.06.22-22.36.02:495][313]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2024.06.22-22.36.02:693][313]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.22-22.36.02:733][313]LogSavePackage: Moving output files for package: /Game/Platformer/Blueprints/Framework/BP_PlayerController
+[2024.06.22-22.36.02:734][313]LogSavePackage: Moving '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Saved/BP_PlayerController0A4122A4442DFDC5BF280F86C84EDBB2.tmp' to '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Content/Platformer/Blueprints/Framework/BP_PlayerController.uasset'
+[2024.06.22-22.36.02:745][313]LogFileHelpers: InternalPromptForCheckoutAndSave took 51 ms (total: 21.5 sec)
+[2024.06.22-22.36.02:892][313]AssetCheck: New page: Asset Save: BP_PlayerController
+[2024.06.22-22.36.02:892][313]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Platformer/Blueprints/Framework/BP_PlayerController.BP_PlayerController
+[2024.06.22-22.36.09:790][716]BlueprintLog: New page: Compile BP_PlayerController
+[2024.06.22-22.36.09:833][716]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2024.06.22-22.36.10:008][716]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.22-22.36.10:047][716]LogSavePackage: Moving output files for package: /Game/Platformer/Blueprints/Framework/BP_PlayerController
+[2024.06.22-22.36.10:047][716]LogSavePackage: Moving '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Saved/BP_PlayerController67B8857C4F97FEEDE9D7119C21F5B331.tmp' to '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Content/Platformer/Blueprints/Framework/BP_PlayerController.uasset'
+[2024.06.22-22.36.10:057][716]LogFileHelpers: InternalPromptForCheckoutAndSave took 49 ms (total: 21.5 sec)
+[2024.06.22-22.36.10:170][716]AssetCheck: New page: Asset Save: BP_PlayerController
+[2024.06.22-22.36.10:170][716]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Platformer/Blueprints/Framework/BP_PlayerController.BP_PlayerController
