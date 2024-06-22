@@ -85,7 +85,19 @@
 				"E:/GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Content/Platformer/Fonts/Super_Mario_Bros_.uasset",
 				"E:/GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"E:/GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Content/Characters/Mannequins/Animations/Manny/MM_Jump.uasset",
-				"E:/GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Content/Platformer/Blueprints/BP_Platform_JumpThru.uasset"
+				"E:/GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Content/Platformer/Blueprints/BP_Platform_JumpThru.uasset",
+				"E:/GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Content/Platformer/Blueprints/BP_Platform_Move.uasset",
+				"E:/GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Content/ThirdPerson/Input/Actions/IA_PlayerDown.uasset",
+				"E:/GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Content/ThirdPerson/Input/IMC_Default.uasset",
+				"E:/GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Content/Platformer/Textures/T_Mushroom_01_Mat.uasset",
+				"E:/GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Content/Platformer/Textures/T_Dirt_01_Mat.uasset",
+				"E:/GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Content/Platformer/Blueprints/BP_Platform_Launcher.uasset",
+				"E:/GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Content/Platformer/Materials/T_Mushroom_01_Mat.uasset",
+				"E:/GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Content/Platformer/Materials/T_Coin_New_Mat.uasset",
+				"E:/GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Content/Platformer/Materials/T_Dirt_01_Mat.uasset",
+				"E:/GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Content/Platformer/Blueprints/BP_Pickup_Coin.uasset",
+				"E:/GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Content/Platformer/Blueprints/Framework/BP_PlayerController.uasset",
+				"E:/GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset"
 			]
 		}
 	]
