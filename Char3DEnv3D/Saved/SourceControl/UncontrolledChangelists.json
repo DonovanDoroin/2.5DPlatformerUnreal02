@@ -89,8 +89,6 @@
 				"E:/GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Content/Platformer/Blueprints/BP_Platform_Move.uasset",
 				"E:/GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Content/ThirdPerson/Input/Actions/IA_PlayerDown.uasset",
 				"E:/GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Content/ThirdPerson/Input/IMC_Default.uasset",
-				"E:/GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Content/Platformer/Textures/T_Mushroom_01_Mat.uasset",
-				"E:/GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Content/Platformer/Textures/T_Dirt_01_Mat.uasset",
 				"E:/GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Content/Platformer/Blueprints/BP_Platform_Launcher.uasset",
 				"E:/GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Content/Platformer/Materials/T_Mushroom_01_Mat.uasset",
 				"E:/GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Content/Platformer/Materials/T_Coin_New_Mat.uasset",
@@ -109,18 +107,24 @@
 				"E:/GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Content/Platformer/Materials/T_Block_Used_Mat.uasset",
 				"E:/GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Content/Platformer/Materials/T_Block_Question_01_Mat.uasset",
 				"E:/GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Content/Platformer/Materials/T_Block_Breakable_Mat.uasset",
-				"E:/GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Content/Platformer/Blueprints/BP_Block_Base.uasset",
 				"E:/GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Content/Platformer/Blueprints/Blocks/BP_Block_Base.uasset",
 				"E:/GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Content/Platformer/Blueprints/Blocks/BP_Block_Breakable.uasset",
 				"E:/GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Content/Platformer/Blueprints/Blocks/BP_Block_Coin.uasset",
-				"E:/GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Content/Platformer/Blueprints/Blocks/BP_Block_Breakable1.uasset",
 				"E:/GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Content/Platformer/Blueprints/Blocks/BP_Block_Fake_Breakable.uasset",
-				"E:/GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Content/Platformer/Blueprints/Blocks/BP_Block_0_Breakable1.uasset",
 				"E:/GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Content/Platformer/Blueprints/Blocks/BP_Block_Q_Coin.uasset",
 				"E:/GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Content/Platformer/Blueprints/Blocks/BP_Block_Invisible_Coin.uasset",
 				"E:/GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Content/Platformer/Materials/T_Block_Question_02_Mat.uasset",
-				"E:/GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Content/Platformer/Blueprints/Blocks/BP_Block_Q_Coin1.uasset",
-				"E:/GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Content/Platformer/Blueprints/Blocks/BP_Block_CoinBox.uasset"
+				"E:/GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Content/Platformer/Blueprints/Blocks/BP_Block_CoinBox.uasset",
+				"E:/GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Content/Platformer/Blueprints/Blocks/BP_Block_FireFlower.uasset",
+				"E:/GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Content/Platformer/Materials/T_FireFlower_Mat.uasset",
+				"E:/GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Content/Platformer/Blueprints/BP_Fireball.uasset",
+				"E:/GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Content/ThirdPerson/Input/Actions/IA_ShootFireball.uasset",
+				"E:/GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Content/Platformer/Textures/T_Mushroom_01_Mat.uasset",
+				"E:/GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Content/Platformer/Textures/T_Dirt_01_Mat.uasset",
+				"E:/GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Content/Platformer/Blueprints/BP_Block_Base.uasset",
+				"E:/GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Content/Platformer/Blueprints/Blocks/BP_Block_Breakable1.uasset",
+				"E:/GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Content/Platformer/Blueprints/Blocks/BP_Block_0_Breakable1.uasset",
+				"E:/GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Content/Platformer/Blueprints/Blocks/BP_Block_Q_Coin1.uasset"
 			]
 		}
 	]
