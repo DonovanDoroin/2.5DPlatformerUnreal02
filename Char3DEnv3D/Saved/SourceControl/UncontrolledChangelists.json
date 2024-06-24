@@ -121,6 +121,8 @@
 				"E:/GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Content/ThirdPerson/Input/Actions/IA_ShootFireball.uasset",
 				"E:/GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Content/Platformer/Blueprints/BP_PooledActor.uasset",
 				"E:/GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Content/Platformer/Blueprints/BPC_ObjectPool.uasset",
+				"E:/GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Content/Platformer/Blueprints/BP_CameraShake.uasset",
+				"E:/GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Content/Platformer/Blueprints/Blocks/ForceFeedback.uasset",
 				"E:/GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Content/Platformer/Blueprints/BP_Projectile.uasset",
 				"E:/GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Content/Platformer/Textures/T_Mushroom_01_Mat.uasset",
 				"E:/GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Content/Platformer/Textures/T_Dirt_01_Mat.uasset",

@@ -3890,3 +3890,241 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.06.24-22.45.53:651][588]LogPlayLevel: Display: Destroying online subsystem :Context_53
 [2024.06.24-22.45.58:021][850]BlueprintLog: New page: Compile BP_Fireball
 [2024.06.24-22.45.58:057][850]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2024.06.24-22.54.22:577][ 66]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.06.24-22.54.22:630][ 67]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.06.24-22.54.22:666][ 68]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.06.24-22.54.22:700][ 69]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.06.24-22.54.22:731][ 70]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.06.24-22.54.22:766][ 71]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.06.24-22.54.22:797][ 72]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.06.24-22.54.22:825][ 73]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.06.24-22.54.25:465][212]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Platformer/Blueprints/Blocks/BP_Block_Base.BP_Block_Base
+[2024.06.24-22.54.25:465][212]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.06.24-22.54.25:465][212]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.06.24-22.54.33:760][378]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/Platformer/Blueprints/Blocks/BP_Block_Base.BP_Block_Base'
+[2024.06.24-22.54.36:641][486]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/Platformer/Blueprints/Blocks/BP_Block_Base.BP_Block_Base'
+[2024.06.24-22.54.42:012][799]LogBlueprint: Warning: Blueprint BP_Block_Invisible_Coin (child of/implements BP_Block_Base) has a component variable with a conflicting name (Box). Changing to Box_0.
+[2024.06.24-22.54.50:470][892]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/Platformer/Blueprints/Blocks/BP_Block_Base.BP_Block_Base'
+[2024.06.24-22.55.04:649][527]BlueprintLog: New page: Compile BP_Block_Base
+[2024.06.24-22.55.04:744][527]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2024.06.24-22.55.04:769][527]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.24-22.55.04:880][527]LogSavePackage: Moving output files for package: /Game/Platformer/Blueprints/Blocks/BP_Block_Base
+[2024.06.24-22.55.04:881][527]LogSavePackage: Moving '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Saved/BP_Block_BaseF7FF4CCC40D365F56769B59E2F9A5B3E.tmp' to '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Content/Platformer/Blueprints/Blocks/BP_Block_Base.uasset'
+[2024.06.24-22.55.04:916][527]LogSavePackage: Moving output files for package: /Game/Platformer/Blueprints/Blocks/BP_Block_Invisible_Coin
+[2024.06.24-22.55.04:917][527]LogSavePackage: Moving '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Saved/BP_Block_Invisible_Coin5CA580EB4BF057E0138E1FAD4B007B88.tmp' to '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Content/Platformer/Blueprints/Blocks/BP_Block_Invisible_Coin.uasset'
+[2024.06.24-22.55.04:928][527]LogFileHelpers: InternalPromptForCheckoutAndSave took 159 ms (total: 4.92 sec)
+[2024.06.24-22.55.04:955][527]AssetCheck: New page: Asset Save: multiple assets
+[2024.06.24-22.55.04:955][527]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Platformer/Blueprints/Blocks/BP_Block_Base.BP_Block_Base
+[2024.06.24-22.55.04:955][527]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Platformer/Blueprints/Blocks/BP_Block_Invisible_Coin.BP_Block_Invisible_Coin
+[2024.06.24-22.55.07:239][656]LogViewport: Scene viewport resized to 1273x915, mode Windowed.
+[2024.06.24-22.55.08:896][747]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/Platformer/Blueprints/Blocks/BP_Block_Base.BP_Block_Base'
+[2024.06.24-22.55.52:084][645]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2024.06.24-22.55.52:106][645]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Platformer/Level/LV_01_Auto8
+[2024.06.24-22.55.52:106][645]LogSavePackage: Moving '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Saved/LV_01_Auto8154C716B4BD0D39332B2A6A0E8819A80.tmp' to '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Saved/Autosaves/Game/Platformer/Level/LV_01_Auto8.umap'
+[2024.06.24-22.55.52:108][645]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Saved/Autosaves/Game/Platformer/Level/LV_01_Auto8.umap is in the /Temp path, will not scan.
+[2024.06.24-22.55.52:108][645]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalActors__/Autosaves/Game/Platformer/Level/LV_01_Auto8 is in the /Temp path, will not scan.
+[2024.06.24-22.55.52:108][645]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalObjects__/Autosaves/Game/Platformer/Level/LV_01_Auto8 is in the /Temp path, will not scan.
+[2024.06.24-22.55.52:108][645]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Platformer/Level/LV_01' took 0.041
+[2024.06.24-22.55.52:108][645]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.041
+[2024.06.24-22.55.52:108][645]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Platformer/Blueprints/Blocks/BP_Block_Base] ([2] browsable assets)...
+[2024.06.24-22.55.52:196][645]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Platformer/Blueprints/Blocks/BP_Block_Base.BP_Block_Base]
+[2024.06.24-22.55.52:196][645]OBJ SavePackage: Finished generating thumbnails for package [/Game/Platformer/Blueprints/Blocks/BP_Block_Base]
+[2024.06.24-22.55.52:204][645]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Platformer/Blueprints/Blocks/BP_Block_Base_Auto8
+[2024.06.24-22.55.52:204][645]LogSavePackage: Moving '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Saved/BP_Block_Base_Auto8E409C917450968D16312F8827FAE686C.tmp' to '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Saved/Autosaves/Game/Platformer/Blueprints/Blocks/BP_Block_Base_Auto8.uasset'
+[2024.06.24-22.55.52:204][645]LogFileHelpers: Auto-saving content packages took 0.096
+[2024.06.24-22.58.40:693][607]BlueprintLog: New page: Compile BP_Block_Base
+[2024.06.24-22.58.40:783][607]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2024.06.24-22.58.40:803][607]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.24-22.58.40:916][607]LogSavePackage: Moving output files for package: /Game/Platformer/Blueprints/Blocks/BP_Block_Base
+[2024.06.24-22.58.40:917][607]LogSavePackage: Moving '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Saved/BP_Block_Base2C74F5E749FB0BE6B71BD69E807C086B.tmp' to '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Content/Platformer/Blueprints/Blocks/BP_Block_Base.uasset'
+[2024.06.24-22.58.40:927][607]LogFileHelpers: InternalPromptForCheckoutAndSave took 124 ms (total: 5.04 sec)
+[2024.06.24-22.58.40:933][607]AssetCheck: New page: Asset Save: BP_Block_Base
+[2024.06.24-22.58.40:933][607]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Platformer/Blueprints/Blocks/BP_Block_Base.BP_Block_Base
+[2024.06.24-22.59.11:404][718]BlueprintLog: New page: Compile BP_Block_Base
+[2024.06.24-22.59.11:492][718]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2024.06.24-22.59.11:513][718]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.24-22.59.11:636][718]LogSavePackage: Moving output files for package: /Game/Platformer/Blueprints/Blocks/BP_Block_Base
+[2024.06.24-22.59.11:636][718]LogSavePackage: Moving '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Saved/BP_Block_Base2B9261B243ED8C9A47F4A39E1B49B5C7.tmp' to '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Content/Platformer/Blueprints/Blocks/BP_Block_Base.uasset'
+[2024.06.24-22.59.11:648][718]LogFileHelpers: InternalPromptForCheckoutAndSave took 134 ms (total: 5.18 sec)
+[2024.06.24-22.59.11:649][718]AssetCheck: New page: Asset Save: BP_Block_Base
+[2024.06.24-22.59.11:649][718]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Platformer/Blueprints/Blocks/BP_Block_Base.BP_Block_Base
+[2024.06.24-22.59.30:058][630]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/Platformer/Blueprints/Blocks/BP_Block_Base.BP_Block_Base'
+[2024.06.24-22.59.43:981][379]BlueprintLog: New page: Compile BP_Block_Base
+[2024.06.24-22.59.44:084][379]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2024.06.24-22.59.44:108][379]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.24-22.59.44:255][379]LogSavePackage: Moving output files for package: /Game/Platformer/Blueprints/Blocks/BP_Block_Base
+[2024.06.24-22.59.44:255][379]LogSavePackage: Moving '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Saved/BP_Block_Base4EA408AE40FBE29A2E9D5C8D993AC92A.tmp' to '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Content/Platformer/Blueprints/Blocks/BP_Block_Base.uasset'
+[2024.06.24-22.59.44:269][379]LogFileHelpers: InternalPromptForCheckoutAndSave took 160 ms (total: 5.34 sec)
+[2024.06.24-22.59.44:271][379]AssetCheck: New page: Asset Save: BP_Block_Base
+[2024.06.24-22.59.44:271][379]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Platformer/Blueprints/Blocks/BP_Block_Base.BP_Block_Base
+[2024.06.24-23.00.04:560][356]BlueprintLog: New page: Compile BP_Block_Base
+[2024.06.24-23.00.04:647][356]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2024.06.24-23.00.04:669][356]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.24-23.00.04:779][356]LogSavePackage: Moving output files for package: /Game/Platformer/Blueprints/Blocks/BP_Block_Base
+[2024.06.24-23.00.04:780][356]LogSavePackage: Moving '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Saved/BP_Block_Base307D1A5646C7E2A24D19C3BE5E6CCC6E.tmp' to '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Content/Platformer/Blueprints/Blocks/BP_Block_Base.uasset'
+[2024.06.24-23.00.04:790][356]LogFileHelpers: InternalPromptForCheckoutAndSave took 120 ms (total: 5.46 sec)
+[2024.06.24-23.00.04:792][356]AssetCheck: New page: Asset Save: BP_Block_Base
+[2024.06.24-23.00.04:792][356]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Platformer/Blueprints/Blocks/BP_Block_Base.BP_Block_Base
+[2024.06.24-23.00.40:702][264]BlueprintLog: New page: Compile BP_Block_Base
+[2024.06.24-23.00.40:824][264]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2024.06.24-23.00.40:869][264]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.24-23.00.41:018][264]LogSavePackage: Moving output files for package: /Game/Platformer/Blueprints/Blocks/BP_Block_Base
+[2024.06.24-23.00.41:018][264]LogSavePackage: Moving '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Saved/BP_Block_Base50DBDB2848E45ED96462D98BF4A50240.tmp' to '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Content/Platformer/Blueprints/Blocks/BP_Block_Base.uasset'
+[2024.06.24-23.00.41:027][264]LogFileHelpers: InternalPromptForCheckoutAndSave took 158 ms (total: 5.62 sec)
+[2024.06.24-23.00.41:029][264]AssetCheck: New page: Asset Save: BP_Block_Base
+[2024.06.24-23.00.41:029][264]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Platformer/Blueprints/Blocks/BP_Block_Base.BP_Block_Base
+[2024.06.24-23.01.16:142][899]BlueprintLog: New page: Compile BP_Block_Base
+[2024.06.24-23.01.16:260][899]LogUObjectHash: Compacting FUObjectHashTables data took   3.96ms
+[2024.06.24-23.01.16:290][899]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.24-23.01.16:441][899]LogSavePackage: Moving output files for package: /Game/Platformer/Blueprints/Blocks/BP_Block_Base
+[2024.06.24-23.01.16:441][899]LogSavePackage: Moving '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Saved/BP_Block_BaseF32097084574C93C390807B388DB77AF.tmp' to '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Content/Platformer/Blueprints/Blocks/BP_Block_Base.uasset'
+[2024.06.24-23.01.16:451][899]LogFileHelpers: InternalPromptForCheckoutAndSave took 160 ms (total: 5.78 sec)
+[2024.06.24-23.01.16:457][899]AssetCheck: New page: Asset Save: BP_Block_Base
+[2024.06.24-23.01.16:457][899]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Platformer/Blueprints/Blocks/BP_Block_Base.BP_Block_Base
+[2024.06.24-23.01.35:555][111]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Platformer/Blueprints/Blocks/BP_Block_Breakable.BP_Block_Breakable
+[2024.06.24-23.01.35:555][111]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.06.24-23.01.35:555][111]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.06.24-23.04.56:249][735]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/Platformer/Blueprints/Blocks/BP_Block_Breakable.BP_Block_Breakable'
+[2024.06.24-23.05.06:143][216]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/Platformer/Blueprints/Blocks/BP_Block_Breakable.BP_Block_Breakable'
+[2024.06.24-23.05.06:143][216]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/Platformer/Blueprints/Blocks/BP_Block_Breakable.BP_Block_Breakable'
+[2024.06.24-23.05.12:440][433]BlueprintLog: New page: Compile BP_Block_Breakable
+[2024.06.24-23.05.12:484][433]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2024.06.24-23.05.12:512][433]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.24-23.05.12:589][433]LogSavePackage: Moving output files for package: /Game/Platformer/Blueprints/Blocks/BP_Block_Breakable
+[2024.06.24-23.05.12:590][433]LogSavePackage: Moving '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Saved/BP_Block_Breakable0745D3664303348EAA02348619EA52CC.tmp' to '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Content/Platformer/Blueprints/Blocks/BP_Block_Breakable.uasset'
+[2024.06.24-23.05.12:597][433]LogFileHelpers: InternalPromptForCheckoutAndSave took 84 ms (total: 5.86 sec)
+[2024.06.24-23.05.12:611][433]AssetCheck: New page: Asset Save: BP_Block_Breakable
+[2024.06.24-23.05.12:611][433]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Platformer/Blueprints/Blocks/BP_Block_Breakable.BP_Block_Breakable
+[2024.06.24-23.05.12:698][434]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/Platformer/Blueprints/Blocks/BP_Block_Breakable.BP_Block_Breakable'
+[2024.06.24-23.05.15:915][622]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Platformer/Blueprints/Blocks/BP_Block_Fake_Breakable.BP_Block_Fake_Breakable
+[2024.06.24-23.05.15:915][622]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.06.24-23.05.15:915][622]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.06.24-23.05.22:360][984]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/Platformer/Blueprints/Blocks/BP_Block_Fake_Breakable.BP_Block_Fake_Breakable'
+[2024.06.24-23.05.26:539][226]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/Platformer/Blueprints/Blocks/BP_Block_Fake_Breakable.BP_Block_Fake_Breakable'
+[2024.06.24-23.05.26:539][226]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/Platformer/Blueprints/Blocks/BP_Block_Fake_Breakable.BP_Block_Fake_Breakable'
+[2024.06.24-23.05.27:278][270]BlueprintLog: New page: Compile BP_Block_Fake_Breakable
+[2024.06.24-23.05.27:318][270]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2024.06.24-23.05.27:352][270]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.24-23.05.27:470][270]LogSavePackage: Moving output files for package: /Game/Platformer/Blueprints/Blocks/BP_Block_Fake_Breakable
+[2024.06.24-23.05.27:470][270]LogSavePackage: Moving '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Saved/BP_Block_Fake_BreakableB605571B47D4AC03439254AFEEA9501B.tmp' to '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Content/Platformer/Blueprints/Blocks/BP_Block_Fake_Breakable.uasset'
+[2024.06.24-23.05.27:479][270]LogFileHelpers: InternalPromptForCheckoutAndSave took 128 ms (total: 5.99 sec)
+[2024.06.24-23.05.27:492][270]AssetCheck: New page: Asset Save: BP_Block_Fake_Breakable
+[2024.06.24-23.05.27:492][270]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Platformer/Blueprints/Blocks/BP_Block_Fake_Breakable.BP_Block_Fake_Breakable
+[2024.06.24-23.05.27:613][271]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/Platformer/Blueprints/Blocks/BP_Block_Fake_Breakable.BP_Block_Fake_Breakable'
+[2024.06.24-23.06.09:328][358]BlueprintLog: New page: Compile BP_Block_Breakable
+[2024.06.24-23.06.09:372][358]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2024.06.24-23.06.09:405][358]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.24-23.06.09:553][358]LogSavePackage: Moving output files for package: /Game/Platformer/Blueprints/Blocks/BP_Block_Breakable
+[2024.06.24-23.06.09:553][358]LogSavePackage: Moving '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Saved/BP_Block_BreakableC5DF8E3A4DB4BC61A82222914576461C.tmp' to '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Content/Platformer/Blueprints/Blocks/BP_Block_Breakable.uasset'
+[2024.06.24-23.06.09:563][358]LogFileHelpers: InternalPromptForCheckoutAndSave took 158 ms (total: 6.15 sec)
+[2024.06.24-23.06.09:571][358]AssetCheck: New page: Asset Save: BP_Block_Breakable
+[2024.06.24-23.06.09:571][358]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Platformer/Blueprints/Blocks/BP_Block_Breakable.BP_Block_Breakable
+[2024.06.24-23.06.21:563][ 58]BlueprintLog: New page: Compile BP_Block_Fake_Breakable
+[2024.06.24-23.06.21:604][ 58]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2024.06.24-23.06.21:643][ 58]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.24-23.06.21:777][ 58]LogSavePackage: Moving output files for package: /Game/Platformer/Blueprints/Blocks/BP_Block_Fake_Breakable
+[2024.06.24-23.06.21:777][ 58]LogSavePackage: Moving '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Saved/BP_Block_Fake_Breakable65B790BD45FCC8EB258435BC8EDC896A.tmp' to '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Content/Platformer/Blueprints/Blocks/BP_Block_Fake_Breakable.uasset'
+[2024.06.24-23.06.21:787][ 58]LogFileHelpers: InternalPromptForCheckoutAndSave took 144 ms (total: 6.29 sec)
+[2024.06.24-23.06.21:795][ 58]AssetCheck: New page: Asset Save: BP_Block_Fake_Breakable
+[2024.06.24-23.06.21:795][ 58]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Platformer/Blueprints/Blocks/BP_Block_Fake_Breakable.BP_Block_Fake_Breakable
+[2024.06.24-23.06.53:297][758]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2024.06.24-23.06.53:330][758]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Platformer/Level/LV_01_Auto9
+[2024.06.24-23.06.53:330][758]LogSavePackage: Moving '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Saved/LV_01_Auto98383996D4972D4529DE552B0846FA582.tmp' to '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Saved/Autosaves/Game/Platformer/Level/LV_01_Auto9.umap'
+[2024.06.24-23.06.53:331][758]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Saved/Autosaves/Game/Platformer/Level/LV_01_Auto9.umap is in the /Temp path, will not scan.
+[2024.06.24-23.06.53:331][758]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalActors__/Autosaves/Game/Platformer/Level/LV_01_Auto9 is in the /Temp path, will not scan.
+[2024.06.24-23.06.53:331][758]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalObjects__/Autosaves/Game/Platformer/Level/LV_01_Auto9 is in the /Temp path, will not scan.
+[2024.06.24-23.06.53:331][758]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Platformer/Level/LV_01' took 0.058
+[2024.06.24-23.06.53:331][758]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.058
+[2024.06.24-23.07.09:076][938]LogSlate: Window 'Pick Parent Class' being destroyed
+[2024.06.24-23.07.09:084][938]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2024.06.24-23.07.09:092][938]LogContentBrowser: Creating deferred item: NewBlueprint
+[2024.06.24-23.07.09:102][938]LogAutomationController: Ignoring very large delta of 12.40 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.06.24-23.07.09:113][939]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2024.06.24-23.08.14:963][446]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_CameraShake
+[2024.06.24-23.08.14:973][446]LogContentBrowser: End creating deferred item NewBlueprint
+[2024.06.24-23.08.21:079][631]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.24-23.08.21:104][631]LogSavePackage: Moving output files for package: /Game/Platformer/Blueprints/BP_CameraShake
+[2024.06.24-23.08.21:106][631]LogSavePackage: Moving '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Saved/BP_CameraShakeF613D25B40EDAC4B8AD6F4801CF84D68.tmp' to '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Content/Platformer/Blueprints/BP_CameraShake.uasset'
+[2024.06.24-23.08.21:114][631]LogFileHelpers: InternalPromptForCheckoutAndSave took 35 ms (total: 6.33 sec)
+[2024.06.24-23.08.21:116][631]AssetCheck: New page: Asset Save: BP_CameraShake
+[2024.06.24-23.08.21:116][631]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Platformer/Blueprints/BP_CameraShake.BP_CameraShake
+[2024.06.24-23.08.30:948][707]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2024.06.24-23.08.30:948][707]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.24-23.08.31:499][726]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.06.24-23.08.31:499][726]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2024.06.24-23.08.31:499][726]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.24-23.08.31:885][744]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2024.06.24-23.08.31:885][744]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.24-23.08.32:238][761]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.06.24-23.08.32:238][761]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2024.06.24-23.08.32:238][761]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.24-23.08.32:592][779]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.06.24-23.08.32:592][779]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2024.06.24-23.08.32:592][779]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.24-23.08.32:918][796]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.06.24-23.08.32:918][796]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2024.06.24-23.08.32:918][796]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.24-23.08.38:691][931]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Platformer/Blueprints/BP_CameraShake.BP_CameraShake
+[2024.06.24-23.08.38:691][931]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.06.24-23.08.38:691][931]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.06.24-23.08.50:718][643]BlueprintLog: New page: Compile BP_CameraShake
+[2024.06.24-23.08.50:742][643]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2024.06.24-23.08.50:751][643]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.24-23.08.50:779][643]LogSavePackage: Moving output files for package: /Game/Platformer/Blueprints/BP_CameraShake
+[2024.06.24-23.08.50:779][643]LogSavePackage: Moving '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Saved/BP_CameraShake8D07E517409C7E8B4C3ACC8A3B819A8C.tmp' to '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Content/Platformer/Blueprints/BP_CameraShake.uasset'
+[2024.06.24-23.08.50:786][643]LogFileHelpers: InternalPromptForCheckoutAndSave took 35 ms (total: 6.36 sec)
+[2024.06.24-23.08.50:788][643]AssetCheck: New page: Asset Save: BP_CameraShake
+[2024.06.24-23.08.50:788][643]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Platformer/Blueprints/BP_CameraShake.BP_CameraShake
+[2024.06.24-23.09.28:108][293]BlueprintLog: New page: Compile BP_CameraShake
+[2024.06.24-23.09.28:139][293]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
+[2024.06.24-23.09.28:150][293]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.24-23.09.28:194][293]LogSavePackage: Moving output files for package: /Game/Platformer/Blueprints/BP_CameraShake
+[2024.06.24-23.09.28:195][293]LogSavePackage: Moving '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Saved/BP_CameraShake985D0FB24FC2CF9BCC4AD18DB7B47CD7.tmp' to '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Content/Platformer/Blueprints/BP_CameraShake.uasset'
+[2024.06.24-23.09.28:203][293]LogFileHelpers: InternalPromptForCheckoutAndSave took 53 ms (total: 6.42 sec)
+[2024.06.24-23.09.28:207][293]AssetCheck: New page: Asset Save: BP_CameraShake
+[2024.06.24-23.09.28:207][293]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Platformer/Blueprints/BP_CameraShake.BP_CameraShake
+[2024.06.24-23.09.38:050][882]BlueprintLog: New page: Compile BP_CameraShake
+[2024.06.24-23.09.38:071][882]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2024.06.24-23.09.38:078][882]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.24-23.09.38:112][882]LogSavePackage: Moving output files for package: /Game/Platformer/Blueprints/BP_CameraShake
+[2024.06.24-23.09.38:112][882]LogSavePackage: Moving '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Saved/BP_CameraShake454A89B4442FCA11FE421592652E36E0.tmp' to '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Content/Platformer/Blueprints/BP_CameraShake.uasset'
+[2024.06.24-23.09.38:121][882]LogFileHelpers: InternalPromptForCheckoutAndSave took 43 ms (total: 6.46 sec)
+[2024.06.24-23.09.38:124][882]AssetCheck: New page: Asset Save: BP_CameraShake
+[2024.06.24-23.09.38:124][882]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Platformer/Blueprints/BP_CameraShake.BP_CameraShake
+[2024.06.24-23.10.12:033][199]LogSlateStyle: Warning: Missing Resource from 'NiagaraEditorStyle' Style: 'Unable to find Color 'NiagaraEditor.AssetColors.DataChannel'.'
+[2024.06.24-23.12.15:780][376]LogContentBrowser: Deferred new asset file creation: NewForceFeedbackEffect
+[2024.06.24-23.12.15:794][376]LogContentBrowser: Creating deferred item: NewForceFeedbackEffect
+[2024.06.24-23.12.15:805][377]LogContentBrowser: Renaming the item being created (Deferred Item: NewForceFeedbackEffect).
+[2024.06.24-23.12.26:196][773]LogContentBrowser: Attempting asset rename: NewForceFeedbackEffect -> NewForceFeedback
+[2024.06.24-23.12.26:199][773]LogContentBrowser: End creating deferred item NewForceFeedbackEffect
+[2024.06.24-23.12.28:717][924]LogContentBrowser: Attempting asset rename: NewForceFeedback -> ForceFeedback
+[2024.06.24-23.12.28:824][924]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.24-23.12.28:856][924]LogSavePackage: Moving output files for package: /Game/Platformer/Blueprints/Blocks/ForceFeedback
+[2024.06.24-23.12.28:856][924]LogSavePackage: Moving '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Saved/ForceFeedback0DB509294C32B083178243B1B8D2C279.tmp' to '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Content/Platformer/Blueprints/Blocks/ForceFeedback.uasset'
+[2024.06.24-23.12.28:864][924]LogFileHelpers: InternalPromptForCheckoutAndSave took 40 ms (total: 6.50 sec)
+[2024.06.24-23.12.28:897][924]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2024.06.24-23.12.28:917][924]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2024.06.24-23.12.28:932][924]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2024.06.24-23.12.28:937][924]LogLinker: Warning: Failed to load '/Game/Platformer/Blueprints/Blocks/NewForceFeedback': Can't find file.
+[2024.06.24-23.12.28:937][924]LogAssetEditorSubsystem: Error: Opening Asset editor failed because of null asset
+[2024.06.24-23.12.28:948][924]AssetCheck: New page: Asset Save: ForceFeedback
+[2024.06.24-23.12.28:948][924]LogContentValidation: Display: Validating /Script/Engine.ForceFeedbackEffect /Game/Platformer/Blueprints/Blocks/ForceFeedback.ForceFeedback
+[2024.06.24-23.12.31:288][ 52]LogAssetEditorSubsystem: Opening Asset editor for ForceFeedbackEffect /Game/Platformer/Blueprints/Blocks/ForceFeedback.ForceFeedback
+[2024.06.24-23.12.44:860][576]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.24-23.12.44:884][576]LogSavePackage: Moving output files for package: /Game/Platformer/Blueprints/Blocks/ForceFeedback
+[2024.06.24-23.12.44:884][576]LogSavePackage: Moving '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Saved/ForceFeedback8770B78A403832322E07AE943DDE1784.tmp' to '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Content/Platformer/Blueprints/Blocks/ForceFeedback.uasset'
+[2024.06.24-23.12.44:894][576]LogFileHelpers: InternalPromptForCheckoutAndSave took 33 ms (total: 6.53 sec)
+[2024.06.24-23.12.44:897][576]AssetCheck: New page: Asset Save: ForceFeedback
+[2024.06.24-23.12.44:897][576]LogContentValidation: Display: Validating /Script/Engine.ForceFeedbackEffect /Game/Platformer/Blueprints/Blocks/ForceFeedback.ForceFeedback
+[2024.06.24-23.13.05:918][569]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2024.06.24-23.13.05:922][569]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.24-23.13.05:993][569]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2024.06.24-23.13.06:014][569]LogSavePackage: Moving output files for package: /Game/Platformer/Level/LV_01
+[2024.06.24-23.13.06:014][569]LogSavePackage: Moving '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Saved/LV_01480CC7B4431C2BD0AEAE0886F93A0303.tmp' to '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Content/Platformer/Level/LV_01.umap'
+[2024.06.24-23.13.06:051][569]LogFileHelpers: Saving map 'LV_01' took 0.092
+[2024.06.24-23.13.06:052][569]LogSavePackage: Moving output files for package: /Game/Platformer/Blueprints/Blocks/ForceFeedback
+[2024.06.24-23.13.06:053][569]LogSavePackage: Moving '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Saved/ForceFeedback85FB3FA647041A622636018938DBAF4C.tmp' to '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Content/Platformer/Blueprints/Blocks/ForceFeedback.uasset'
+[2024.06.24-23.13.06:062][569]LogFileHelpers: InternalPromptForCheckoutAndSave took 140 ms (total: 6.67 sec)
+[2024.06.24-23.13.06:071][569]AssetCheck: New page: Asset Save: multiple assets
+[2024.06.24-23.13.06:071][569]LogContentValidation: Display: Validating /Script/Engine.World /Game/Platformer/Level/LV_01.LV_01
+[2024.06.24-23.13.06:071][569]LogContentValidation: Display: Validating /Script/Engine.ForceFeedbackEffect /Game/Platformer/Blueprints/Blocks/ForceFeedback.ForceFeedback
