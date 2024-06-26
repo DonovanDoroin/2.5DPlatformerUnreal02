@@ -3939,3 +3939,849 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.06.26-20.59.27:620][321]LogFileHelpers: InternalPromptForCheckoutAndSave took 170 ms (total: 14.2 sec)
 [2024.06.26-20.59.27:647][321]AssetCheck: New page: Asset Save: BP_Block_P
 [2024.06.26-20.59.27:647][321]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Platformer/Blueprints/Blocks/PBlocks/BP_Block_P.BP_Block_P
+[2024.06.26-21.03.27:855][127]LogDerivedDataCache: C:/Users/Donovan/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:01:00.246 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 31427 files in 32208 folders with total size 1655 MiB.
+[2024.06.26-21.18.40:097][ 28]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Platformer/Blueprints/Framework/BP_PlayerController.BP_PlayerController
+[2024.06.26-21.18.40:098][ 28]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.06.26-21.18.40:098][ 28]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.06.26-21.18.48:574][458]LogSlate: External Image Picker: DecompressImage failed
+[2024.06.26-21.19.15:992][363]LogSlate: Window 'Create New Blueprint' being destroyed
+[2024.06.26-21.19.16:065][363]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Platformer/Blueprints/Framework/BP_GameInstance.BP_GameInstance
+[2024.06.26-21.19.16:065][363]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.06.26-21.19.16:065][363]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.06.26-21.19.16:218][363]LogAutomationController: Ignoring very large delta of 12.21 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.06.26-21.19.19:280][544]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2024.06.26-21.19.19:282][544]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Platformer/Level/LV_01' took 0.019
+[2024.06.26-21.19.19:283][544]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Platformer/Blueprints/Framework/BP_GameInstance] ([2] browsable assets)...
+[2024.06.26-21.19.19:283][544]OBJ SavePackage: Finished generating thumbnails for package [/Game/Platformer/Blueprints/Framework/BP_GameInstance]
+[2024.06.26-21.19.19:284][544]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Platformer/Blueprints/Framework/BP_GameInstance_Auto1
+[2024.06.26-21.19.19:284][544]LogSavePackage: Moving '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Saved/BP_GameInstance_Auto13E6CA0A845218A9C1F7F8AAB6C58831B.tmp' to '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Saved/Autosaves/Game/Platformer/Blueprints/Framework/BP_GameInstance_Auto1.uasset'
+[2024.06.26-21.19.19:285][544]LogFileHelpers: Auto-saving content packages took 0.003
+[2024.06.26-21.19.27:366][ 27]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2024.06.26-21.19.27:366][ 27]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.26-21.19.28:418][ 66]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.06.26-21.19.28:418][ 66]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2024.06.26-21.19.28:418][ 66]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.26-21.19.55:543][335]BlueprintLog: New page: Compile BP_GameInstance
+[2024.06.26-21.19.55:566][335]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2024.06.26-21.19.55:576][335]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.26-21.19.55:607][335]LogSavePackage: Moving output files for package: /Game/Platformer/Blueprints/Framework/BP_GameInstance
+[2024.06.26-21.19.55:607][335]LogSavePackage: Moving '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Saved/BP_GameInstanceF3F046224C898C1701740B8DF329D368.tmp' to '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Content/Platformer/Blueprints/Framework/BP_GameInstance.uasset'
+[2024.06.26-21.19.55:621][335]LogFileHelpers: InternalPromptForCheckoutAndSave took 45 ms (total: 14.3 sec)
+[2024.06.26-21.19.55:622][335]AssetCheck: New page: Asset Save: BP_GameInstance
+[2024.06.26-21.19.55:622][335]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Platformer/Blueprints/Framework/BP_GameInstance.BP_GameInstance
+[2024.06.26-21.19.59:980][594]BlueprintLog: New page: Compile BP_GameInstance
+[2024.06.26-21.20.00:004][594]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2024.06.26-21.20.00:013][594]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.26-21.20.00:052][594]LogSavePackage: Moving output files for package: /Game/Platformer/Blueprints/Framework/BP_GameInstance
+[2024.06.26-21.20.00:052][594]LogSavePackage: Moving '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Saved/BP_GameInstance28B9109544DDFD594E9A138DF01EB819.tmp' to '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Content/Platformer/Blueprints/Framework/BP_GameInstance.uasset'
+[2024.06.26-21.20.00:064][594]LogFileHelpers: InternalPromptForCheckoutAndSave took 50 ms (total: 14.3 sec)
+[2024.06.26-21.20.00:065][594]AssetCheck: New page: Asset Save: BP_GameInstance
+[2024.06.26-21.20.00:065][594]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Platformer/Blueprints/Framework/BP_GameInstance.BP_GameInstance
+[2024.06.26-21.20.19:855][713]BlueprintLog: New page: Compile BP_LevelSettings
+[2024.06.26-21.20.19:908][713]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2024.06.26-21.20.20:130][713]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.26-21.20.20:188][713]LogSavePackage: Moving output files for package: /Game/Platformer/Blueprints/BP_LevelSettings
+[2024.06.26-21.20.20:188][713]LogSavePackage: Moving '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Saved/BP_LevelSettingsB754DAF64170C597C63BC28ECA65432A.tmp' to '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Content/Platformer/Blueprints/BP_LevelSettings.uasset'
+[2024.06.26-21.20.20:202][713]LogFileHelpers: InternalPromptForCheckoutAndSave took 71 ms (total: 14.4 sec)
+[2024.06.26-21.20.20:203][713]AssetCheck: New page: Asset Save: BP_LevelSettings
+[2024.06.26-21.20.20:203][713]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Platformer/Blueprints/BP_LevelSettings.BP_LevelSettings
+[2024.06.26-21.20.36:130][622]BlueprintLog: New page: Compile BP_LevelSettings
+[2024.06.26-21.20.36:190][622]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2024.06.26-21.20.36:375][622]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.26-21.20.36:433][622]LogSavePackage: Moving output files for package: /Game/Platformer/Blueprints/BP_LevelSettings
+[2024.06.26-21.20.36:434][622]LogSavePackage: Moving '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Saved/BP_LevelSettings201454B84A4B4D886BB37D82FA7DF49E.tmp' to '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Content/Platformer/Blueprints/BP_LevelSettings.uasset'
+[2024.06.26-21.20.36:445][622]LogFileHelpers: InternalPromptForCheckoutAndSave took 70 ms (total: 14.5 sec)
+[2024.06.26-21.20.36:446][622]AssetCheck: New page: Asset Save: BP_LevelSettings
+[2024.06.26-21.20.36:446][622]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Platformer/Blueprints/BP_LevelSettings.BP_LevelSettings
+[2024.06.26-21.20.39:133][671]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Brush 'ContentBrowser.ListViewFolderIcon.Base'.'
+[2024.06.26-21.20.39:133][671]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Brush 'ContentBrowser.ListViewFolderIcon.Mask'.'
+[2024.06.26-21.20.40:548][748]LogContentBrowser: Deferred new asset file creation: LV_02
+[2024.06.26-21.20.40:556][748]LogContentBrowser: Creating deferred item: LV_02
+[2024.06.26-21.20.40:574][749]LogContentBrowser: Renaming the item being created (Deferred Item: LV_02).
+[2024.06.26-21.20.41:449][802]LogContentBrowser: Attempting asset rename: LV_02 -> LV_02
+[2024.06.26-21.20.41:462][802]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.06.26-21.20.41:481][802]LogContentBrowser: End creating deferred item LV_02
+[2024.06.26-21.20.55:583][448]LogContentBrowser: Deferred new asset file creation: LV_03
+[2024.06.26-21.20.55:591][448]LogContentBrowser: Creating deferred item: LV_03
+[2024.06.26-21.20.55:609][449]LogContentBrowser: Renaming the item being created (Deferred Item: LV_03).
+[2024.06.26-21.20.58:934][649]LogContentBrowser: Attempting asset rename: LV_03 -> LV_MainMenu
+[2024.06.26-21.20.58:942][649]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.06.26-21.20.58:956][649]LogContentBrowser: End creating deferred item LV_03
+[2024.06.26-21.21.01:735][720]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.26-21.21.01:852][720]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2024.06.26-21.21.01:909][720]LogSavePackage: Moving output files for package: /Game/Platformer/Level/LV_01
+[2024.06.26-21.21.01:909][720]LogSavePackage: Moving '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Saved/LV_0129CD31BF4179EE26A10B26BB35020CC3.tmp' to '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Content/Platformer/Level/LV_01.umap'
+[2024.06.26-21.21.01:919][720]LogFileHelpers: Saving map 'LV_01' took 0.119
+[2024.06.26-21.21.01:934][720]LogFileHelpers: InternalPromptForCheckoutAndSave took 198 ms (total: 14.7 sec)
+[2024.06.26-21.21.01:937][720]AssetCheck: New page: Asset Save: LV_01
+[2024.06.26-21.21.01:937][720]LogContentValidation: Display: Validating /Script/Engine.World /Game/Platformer/Level/LV_01.LV_01
+[2024.06.26-21.21.12:500][344]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.26-21.21.12:567][344]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2024.06.26-21.21.12:594][344]LogSavePackage: Moving output files for package: /Game/Platformer/Level/LV_01
+[2024.06.26-21.21.12:594][344]LogSavePackage: Moving '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Saved/LV_01B631A45B44F7767F1A6A0A9DA6DAF993.tmp' to '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Content/Platformer/Level/LV_01.umap'
+[2024.06.26-21.21.12:603][344]LogFileHelpers: Saving map 'LV_01' took 0.073
+[2024.06.26-21.21.12:617][344]LogFileHelpers: InternalPromptForCheckoutAndSave took 117 ms (total: 14.8 sec)
+[2024.06.26-21.21.12:619][344]AssetCheck: New page: Asset Save: LV_01
+[2024.06.26-21.21.12:619][344]LogContentValidation: Display: Validating /Script/Engine.World /Game/Platformer/Level/LV_01.LV_01
+[2024.06.26-21.21.45:067][206]BlueprintLog: New page: Compile BP_LevelSettings
+[2024.06.26-21.21.45:126][206]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2024.06.26-21.21.45:315][206]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.26-21.21.45:370][206]LogSavePackage: Moving output files for package: /Game/Platformer/Blueprints/BP_LevelSettings
+[2024.06.26-21.21.45:370][206]LogSavePackage: Moving '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Saved/BP_LevelSettingsEB82CDBC4D622186DB021BBD62028633.tmp' to '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Content/Platformer/Blueprints/BP_LevelSettings.uasset'
+[2024.06.26-21.21.45:384][206]LogFileHelpers: InternalPromptForCheckoutAndSave took 69 ms (total: 14.9 sec)
+[2024.06.26-21.21.45:387][206]AssetCheck: New page: Asset Save: BP_LevelSettings
+[2024.06.26-21.21.45:387][206]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Platformer/Blueprints/BP_LevelSettings.BP_LevelSettings
+[2024.06.26-21.22.10:333][424]BlueprintLog: New page: Compile BP_LevelSettings
+[2024.06.26-21.22.10:397][424]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2024.06.26-21.22.10:607][424]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.26-21.22.10:660][424]LogSavePackage: Moving output files for package: /Game/Platformer/Blueprints/BP_LevelSettings
+[2024.06.26-21.22.10:660][424]LogSavePackage: Moving '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Saved/BP_LevelSettingsB2C9DCD341C6760698524DBFCA4D352E.tmp' to '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Content/Platformer/Blueprints/BP_LevelSettings.uasset'
+[2024.06.26-21.22.10:674][424]LogFileHelpers: InternalPromptForCheckoutAndSave took 67 ms (total: 14.9 sec)
+[2024.06.26-21.22.10:702][424]AssetCheck: New page: Asset Save: BP_LevelSettings
+[2024.06.26-21.22.10:702][424]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Platformer/Blueprints/BP_LevelSettings.BP_LevelSettings
+[2024.06.26-21.22.55:755][940]BlueprintLog: New page: Compile BP_LevelSettings
+[2024.06.26-21.22.55:763][940]LogBlueprint: Warning: [AssetLog] E:\GitHub\Unreal\2.5DPlatformerUnreal02\Char3DEnv3D\Content\Platformer\Blueprints\BP_LevelSettings.uasset: [Compiler] Cast To BP_GameInstance  was pruned because its Exec pin is not connected, the connected value is not available and will instead be read as default
+[2024.06.26-21.22.55:765][940]LogBlueprint: Error: [AssetLog] E:\GitHub\Unreal\2.5DPlatformerUnreal02\Char3DEnv3D\Content\Platformer\Blueprints\BP_LevelSettings.uasset: [Compiler] This blueprint (self) is not a BP_GameInstance_C, therefore ' Target ' must have a connection.
+[2024.06.26-21.22.55:765][940]LogBlueprint: Error: [AssetLog] E:\GitHub\Unreal\2.5DPlatformerUnreal02\Char3DEnv3D\Content\Platformer\Blueprints\BP_LevelSettings.uasset: [Compiler] This blueprint (self) is not a BP_GameInstance_C, therefore ' Target ' must have a connection.
+[2024.06.26-21.22.55:765][940]LogBlueprint: Error: [AssetLog] E:\GitHub\Unreal\2.5DPlatformerUnreal02\Char3DEnv3D\Content\Platformer\Blueprints\BP_LevelSettings.uasset: [Compiler] This blueprint (self) is not a BP_GameInstance_C, therefore ' Target ' must have a connection.
+[2024.06.26-21.22.55:767][940]LogBlueprint: Error: [AssetLog] E:\GitHub\Unreal\2.5DPlatformerUnreal02\Char3DEnv3D\Content\Platformer\Blueprints\BP_LevelSettings.uasset: [Compiler] Variable node  Set Lives  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2024.06.26-21.22.55:767][940]LogBlueprint: Error: [AssetLog] E:\GitHub\Unreal\2.5DPlatformerUnreal02\Char3DEnv3D\Content\Platformer\Blueprints\BP_LevelSettings.uasset: [Compiler] Variable node  Set Points  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2024.06.26-21.22.55:767][940]LogBlueprint: Error: [AssetLog] E:\GitHub\Unreal\2.5DPlatformerUnreal02\Char3DEnv3D\Content\Platformer\Blueprints\BP_LevelSettings.uasset: [Compiler] Variable node  Set Coins  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2024.06.26-21.22.55:819][940]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2024.06.26-21.23.18:546][325]BlueprintLog: New page: Compile BP_LevelSettings
+[2024.06.26-21.23.18:604][325]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2024.06.26-21.23.18:817][325]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.26-21.23.18:873][325]LogSavePackage: Moving output files for package: /Game/Platformer/Blueprints/BP_LevelSettings
+[2024.06.26-21.23.18:873][325]LogSavePackage: Moving '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Saved/BP_LevelSettings31E5512841BE2BAC3112EEB9A8F55B70.tmp' to '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Content/Platformer/Blueprints/BP_LevelSettings.uasset'
+[2024.06.26-21.23.18:886][325]LogFileHelpers: InternalPromptForCheckoutAndSave took 68 ms (total: 15.0 sec)
+[2024.06.26-21.23.18:906][325]AssetCheck: New page: Asset Save: BP_LevelSettings
+[2024.06.26-21.23.18:906][325]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Platformer/Blueprints/BP_LevelSettings.BP_LevelSettings
+[2024.06.26-21.23.33:217][ 22]BlueprintLog: New page: Compile BP_LevelSettings
+[2024.06.26-21.23.33:285][ 22]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2024.06.26-21.23.33:539][ 22]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.26-21.23.33:601][ 22]LogSavePackage: Moving output files for package: /Game/Platformer/Blueprints/BP_LevelSettings
+[2024.06.26-21.23.33:601][ 22]LogSavePackage: Moving '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Saved/BP_LevelSettings95D7122541A6998CC59FC89F9077CB05.tmp' to '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Content/Platformer/Blueprints/BP_LevelSettings.uasset'
+[2024.06.26-21.23.33:617][ 22]LogFileHelpers: InternalPromptForCheckoutAndSave took 77 ms (total: 15.1 sec)
+[2024.06.26-21.23.33:645][ 22]AssetCheck: New page: Asset Save: BP_LevelSettings
+[2024.06.26-21.23.33:645][ 22]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Platformer/Blueprints/BP_LevelSettings.BP_LevelSettings
+[2024.06.26-21.23.40:225][395]BlueprintLog: New page: Compile BP_LevelSettings
+[2024.06.26-21.23.40:291][395]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2024.06.26-21.23.40:530][395]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.26-21.23.40:594][395]LogSavePackage: Moving output files for package: /Game/Platformer/Blueprints/BP_LevelSettings
+[2024.06.26-21.23.40:594][395]LogSavePackage: Moving '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Saved/BP_LevelSettings30D5A66E47DACBD8B7D2EB9BB5C6B9C1.tmp' to '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Content/Platformer/Blueprints/BP_LevelSettings.uasset'
+[2024.06.26-21.23.40:609][395]LogFileHelpers: InternalPromptForCheckoutAndSave took 79 ms (total: 15.1 sec)
+[2024.06.26-21.23.40:631][395]AssetCheck: New page: Asset Save: BP_LevelSettings
+[2024.06.26-21.23.40:631][395]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Platformer/Blueprints/BP_LevelSettings.BP_LevelSettings
+[2024.06.26-21.23.48:189][837]BlueprintLog: New page: Compile BP_LevelSettings
+[2024.06.26-21.23.48:258][837]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2024.06.26-21.23.48:507][837]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.26-21.23.48:566][837]LogSavePackage: Moving output files for package: /Game/Platformer/Blueprints/BP_LevelSettings
+[2024.06.26-21.23.48:566][837]LogSavePackage: Moving '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Saved/BP_LevelSettingsA13B052B43A9CA033F0FDCB46A3D8F70.tmp' to '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Content/Platformer/Blueprints/BP_LevelSettings.uasset'
+[2024.06.26-21.23.48:581][837]LogFileHelpers: InternalPromptForCheckoutAndSave took 73 ms (total: 15.2 sec)
+[2024.06.26-21.23.48:605][837]AssetCheck: New page: Asset Save: BP_LevelSettings
+[2024.06.26-21.23.48:605][837]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Platformer/Blueprints/BP_LevelSettings.BP_LevelSettings
+[2024.06.26-21.24.10:327][ 74]BlueprintLog: New page: Compile BP_ThirdPersonGameMode
+[2024.06.26-21.24.10:389][ 74]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2024.06.26-21.24.10:688][ 74]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.26-21.24.10:725][ 74]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonGameMode
+[2024.06.26-21.24.10:725][ 74]LogSavePackage: Moving '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Saved/BP_ThirdPersonGameModeC40DCFA04ECA70C704CCB2A18D3EEA4A.tmp' to '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset'
+[2024.06.26-21.24.10:738][ 74]LogFileHelpers: InternalPromptForCheckoutAndSave took 49 ms (total: 15.3 sec)
+[2024.06.26-21.24.10:744][ 74]AssetCheck: New page: Asset Save: BP_ThirdPersonGameMode
+[2024.06.26-21.24.10:744][ 74]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.BP_ThirdPersonGameMode
+[2024.06.26-21.25.37:516][875]BlueprintLog: New page: Compile BP_ThirdPersonGameMode
+[2024.06.26-21.25.37:568][875]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2024.06.26-21.25.37:784][875]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.26-21.25.37:879][875]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonGameMode
+[2024.06.26-21.25.37:880][875]LogSavePackage: Moving '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Saved/BP_ThirdPersonGameModeBDB897DD4FD062DC172121B6C83D1262.tmp' to '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset'
+[2024.06.26-21.25.37:898][875]LogFileHelpers: InternalPromptForCheckoutAndSave took 113 ms (total: 15.4 sec)
+[2024.06.26-21.25.37:900][875]AssetCheck: New page: Asset Save: BP_ThirdPersonGameMode
+[2024.06.26-21.25.37:900][875]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.BP_ThirdPersonGameMode
+[2024.06.26-21.26.10:551][491]BlueprintLog: New page: Compile BP_ThirdPersonGameMode
+[2024.06.26-21.26.10:614][491]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
+[2024.06.26-21.26.10:813][491]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.26-21.26.10:851][491]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonGameMode
+[2024.06.26-21.26.10:851][491]LogSavePackage: Moving '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Saved/BP_ThirdPersonGameMode9E2E32F34C71914A673B9392A922FCF2.tmp' to '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset'
+[2024.06.26-21.26.10:867][491]LogFileHelpers: InternalPromptForCheckoutAndSave took 53 ms (total: 15.4 sec)
+[2024.06.26-21.26.10:870][491]AssetCheck: New page: Asset Save: BP_ThirdPersonGameMode
+[2024.06.26-21.26.10:870][491]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.BP_ThirdPersonGameMode
+[2024.06.26-21.26.15:344][752]BlueprintLog: New page: Compile BP_ThirdPersonGameMode
+[2024.06.26-21.26.15:409][752]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2024.06.26-21.26.15:593][752]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.26-21.26.15:653][752]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonGameMode
+[2024.06.26-21.26.15:653][752]LogSavePackage: Moving '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Saved/BP_ThirdPersonGameMode4B078DA6416F825A9E7276BC784AD20B.tmp' to '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset'
+[2024.06.26-21.26.15:672][752]LogFileHelpers: InternalPromptForCheckoutAndSave took 80 ms (total: 15.5 sec)
+[2024.06.26-21.26.15:677][752]AssetCheck: New page: Asset Save: BP_ThirdPersonGameMode
+[2024.06.26-21.26.15:677][752]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.BP_ThirdPersonGameMode
+[2024.06.26-21.26.32:701][732]BlueprintLog: New page: Compile BP_ThirdPersonGameMode
+[2024.06.26-21.26.32:749][732]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2024.06.26-21.26.32:900][732]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.26-21.26.32:954][732]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonGameMode
+[2024.06.26-21.26.32:954][732]LogSavePackage: Moving '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Saved/BP_ThirdPersonGameMode81CB63A34248594AFC9CD0815A444E27.tmp' to '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset'
+[2024.06.26-21.26.32:967][732]LogFileHelpers: InternalPromptForCheckoutAndSave took 67 ms (total: 15.6 sec)
+[2024.06.26-21.26.32:968][732]AssetCheck: New page: Asset Save: BP_ThirdPersonGameMode
+[2024.06.26-21.26.32:968][732]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.BP_ThirdPersonGameMode
+[2024.06.26-21.26.36:393][934]BlueprintLog: New page: Compile BP_ThirdPersonGameMode
+[2024.06.26-21.26.36:445][934]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2024.06.26-21.26.36:583][934]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.26-21.26.36:626][934]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonGameMode
+[2024.06.26-21.26.36:627][934]LogSavePackage: Moving '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Saved/BP_ThirdPersonGameMode6CD25FC44D22F8119B7576A34CE941B1.tmp' to '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset'
+[2024.06.26-21.26.36:641][934]LogFileHelpers: InternalPromptForCheckoutAndSave took 58 ms (total: 15.6 sec)
+[2024.06.26-21.26.36:642][934]AssetCheck: New page: Asset Save: BP_ThirdPersonGameMode
+[2024.06.26-21.26.36:642][934]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.BP_ThirdPersonGameMode
+[2024.06.26-21.26.37:953][  8]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2024.06.26-21.26.37:960][  8]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.26-21.26.37:985][  8]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.06.26-21.26.38:005][  8]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2024.06.26-21.26.38:033][  8]LogSavePackage: Moving output files for package: /Game/Platformer/Level/LV_02
+[2024.06.26-21.26.38:033][  8]LogSavePackage: Moving '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Saved/LV_02A3E20A614A6B928833EBA4B37077C7C4.tmp' to '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Content/Platformer/Level/LV_02.umap'
+[2024.06.26-21.26.38:044][  8]LogFileHelpers: Saving map 'LV_02' took 0.061
+[2024.06.26-21.26.38:045][  8]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.06.26-21.26.38:066][  8]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2024.06.26-21.26.38:091][  8]LogSavePackage: Moving output files for package: /Game/Platformer/Level/LV_MainMenu
+[2024.06.26-21.26.38:091][  8]LogSavePackage: Moving '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Saved/LV_MainMenu6CE3C40644BF6BE93F5CEA8FFB4B0823.tmp' to '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Content/Platformer/Level/LV_MainMenu.umap'
+[2024.06.26-21.26.38:103][  8]LogFileHelpers: Saving map 'LV_MainMenu' took 0.058
+[2024.06.26-21.26.38:117][  8]LogFileHelpers: InternalPromptForCheckoutAndSave took 157 ms (total: 15.8 sec)
+[2024.06.26-21.26.38:118][  8]AssetCheck: New page: Asset Save: multiple assets
+[2024.06.26-21.26.38:118][  8]LogContentValidation: Display: Validating /Script/Engine.World /Game/Platformer/Level/LV_02.LV_02
+[2024.06.26-21.26.38:118][  8]LogContentValidation: Display: Validating /Script/Engine.World /Game/Platformer/Level/LV_MainMenu.LV_MainMenu
+[2024.06.26-21.27.01:648][134]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2024.06.26-21.27.01:651][134]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Platformer/Level/LV_02.LV_02
+[2024.06.26-21.27.01:652][134]Cmd: MAP LOAD FILE="../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Content/Platformer/Level/LV_02.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.06.26-21.27.01:653][134]LightingResults: New page: Lighting Build
+[2024.06.26-21.27.01:773][134]LoadErrors: New page: Loading map: LV_02.umap
+[2024.06.26-21.27.01:808][134]LogWorld: UWorld::CleanupWorld for LV_01, bSessionEnded=true, bCleanupResources=true
+[2024.06.26-21.27.01:808][134]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.26-21.27.01:809][134]MapCheck: New page: Map Check
+[2024.06.26-21.27.01:809][134]LightingResults: New page: Lighting Build
+[2024.06.26-21.27.01:830][134]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.06.26-21.27.01:839][134]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2024.06.26-21.27.01:849][134]LogWorld: UWorld::CleanupWorld for LV_02, bSessionEnded=true, bCleanupResources=true
+[2024.06.26-21.27.01:850][134]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.26-21.27.01:851][134]LogWorld: UWorld::CleanupWorld for LV_MainMenu, bSessionEnded=true, bCleanupResources=true
+[2024.06.26-21.27.01:851][134]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.26-21.27.01:873][134]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2024.06.26-21.27.01:896][134]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2024.06.26-21.27.01:921][134]LogAudio: Display: Audio Device (ID: 1) registered with world 'LV_02'.
+[2024.06.26-21.27.01:921][134]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.06.26-21.27.01:921][134]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.06.26-21.27.01:921][134]LogAIModule: Creating AISystem for world LV_02
+[2024.06.26-21.27.01:962][134]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.06.26-21.27.01:988][134]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2024.06.26-21.27.01:995][134]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.06.26-21.27.01:995][134]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.103ms to complete.
+[2024.06.26-21.27.17:514][735]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.26-21.27.17:601][735]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2024.06.26-21.27.17:632][735]LogSavePackage: Moving output files for package: /Game/Platformer/Level/LV_02
+[2024.06.26-21.27.17:632][735]LogSavePackage: Moving '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Saved/LV_023E94B3E04BF5AEAB1BE47BA58A3427D3.tmp' to '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Content/Platformer/Level/LV_02.umap'
+[2024.06.26-21.27.17:661][735]LogFileHelpers: Saving map 'LV_02' took 0.099
+[2024.06.26-21.27.17:685][735]LogFileHelpers: InternalPromptForCheckoutAndSave took 170 ms (total: 16.0 sec)
+[2024.06.26-21.27.17:688][735]AssetCheck: New page: Asset Save: LV_02
+[2024.06.26-21.27.17:688][735]LogContentValidation: Display: Validating /Script/Engine.World /Game/Platformer/Level/LV_02.LV_02
+[2024.06.26-21.27.34:981][ 93]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2024.06.26-21.27.35:046][ 93]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.06.26-21.27.35:066][ 93]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Platformer/Level/LV_01.LV_01
+[2024.06.26-21.27.35:066][ 93]Cmd: MAP LOAD FILE="../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Content/Platformer/Level/LV_01.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.06.26-21.27.35:066][ 93]LightingResults: New page: Lighting Build
+[2024.06.26-21.27.35:066][ 93]LoadErrors: New page: Loading map: LV_01.umap
+[2024.06.26-21.27.35:095][ 93]LogWorld: UWorld::CleanupWorld for LV_02, bSessionEnded=true, bCleanupResources=true
+[2024.06.26-21.27.35:095][ 93]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.26-21.27.35:095][ 93]MapCheck: New page: Map Check
+[2024.06.26-21.27.35:095][ 93]LightingResults: New page: Lighting Build
+[2024.06.26-21.27.35:113][ 93]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.06.26-21.27.35:118][ 93]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2024.06.26-21.27.35:124][ 93]LogWorld: UWorld::CleanupWorld for LV_01, bSessionEnded=true, bCleanupResources=true
+[2024.06.26-21.27.35:125][ 93]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.26-21.27.35:147][ 93]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2024.06.26-21.27.35:168][ 93]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2024.06.26-21.27.35:185][ 93]LogAudio: Display: Audio Device (ID: 1) registered with world 'LV_01'.
+[2024.06.26-21.27.35:185][ 93]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.06.26-21.27.35:185][ 93]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.06.26-21.27.35:185][ 93]LogAIModule: Creating AISystem for world LV_01
+[2024.06.26-21.27.35:226][ 93]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.06.26-21.27.35:251][ 93]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2024.06.26-21.27.35:263][ 93]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.06.26-21.27.35:263][ 93]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.094ms to complete.
+[2024.06.26-21.27.36:255][134]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.06.26-21.27.36:262][134]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.06.26-21.27.36:262][134]PIE: New page: PIE session: LV_01 (26 Jun 2024, 1:27:36 pm)
+[2024.06.26-21.27.36:293][134]LogPlayLevel: Creating play world package: /Game/Platformer/Level/UEDPIE_0_LV_01
+[2024.06.26-21.27.36:301][134]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008351s)
+[2024.06.26-21.27.36:301][134]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Platformer/Level/LV_01.LV_01 to /Game/Platformer/Level/UEDPIE_0_LV_01.LV_01 (0.008400s)
+[2024.06.26-21.27.36:318][134]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2024.06.26-21.27.36:321][134]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.06.26-21.27.36:321][134]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.06.26-21.27.36:321][134]LogAIModule: Creating AISystem for world LV_01
+[2024.06.26-21.27.36:322][134]LogPlayLevel: PIE: World Init took: (0.001298s)
+[2024.06.26-21.27.36:322][134]LogAudio: Display: Creating Audio Device:                 Id: 30, Scope: Unique, Realtime: True
+[2024.06.26-21.27.36:322][134]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.06.26-21.27.36:322][134]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.06.26-21.27.36:322][134]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.06.26-21.27.36:322][134]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.06.26-21.27.36:322][134]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.06.26-21.27.36:322][134]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.06.26-21.27.36:322][134]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.06.26-21.27.36:322][134]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.06.26-21.27.36:323][134]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.06.26-21.27.36:323][134]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.06.26-21.27.36:323][134]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.06.26-21.27.36:325][134]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.06.26-21.27.36:435][134]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.06.26-21.27.36:436][134]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.06.26-21.27.36:436][134]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.06.26-21.27.36:436][134]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.06.26-21.27.36:436][134]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=30
+[2024.06.26-21.27.36:436][134]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=30
+[2024.06.26-21.27.36:439][134]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=30
+[2024.06.26-21.27.36:439][134]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=30
+[2024.06.26-21.27.36:439][134]LogInit: FAudioDevice initialized with ID 30.
+[2024.06.26-21.27.36:439][134]LogAudio: Display: Audio Device (ID: 30) registered with world 'LV_01'.
+[2024.06.26-21.27.36:439][134]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 30
+[2024.06.26-21.27.36:449][134]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.06.26-21.27.36:452][134]LogWorld: Bringing World /Game/Platformer/Level/UEDPIE_0_LV_01.LV_01 up for play (max tick rate 60) at 2024.06.26-17.27.36
+[2024.06.26-21.27.36:452][134]LogWorld: Bringing up level for play took: 0.002573
+[2024.06.26-21.27.36:455][134]LogOnline: OSS: Created online subsystem instance for: :Context_59
+[2024.06.26-21.27.36:462][134]PIE: Server logged in
+[2024.06.26-21.27.36:463][134]PIE: Play in editor total start time 0.201 seconds.
+[2024.06.26-21.27.47:211][772]LogNet: Browse: /Game/Platformer/Level/LV_02
+[2024.06.26-21.27.47:212][772]LogLoad: LoadMap: /Game/Platformer/Level/LV_02
+[2024.06.26-21.27.47:212][772]LogWorld: BeginTearingDown for /Game/Platformer/Level/UEDPIE_0_LV_01
+[2024.06.26-21.27.47:212][772]LogSpawn: Warning: SpawnActor failed because we are in the process of tearing down the world
+[2024.06.26-21.27.47:212][772]LogScript: Warning: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue
+	BP_ThirdPersonGameMode_C /Game/Platformer/Level/UEDPIE_0_LV_01.LV_01:PersistentLevel.BP_ThirdPersonGameMode_C_0
+	Function /Game/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.BP_ThirdPersonGameMode_C:ExecuteUbergraph_BP_ThirdPersonGameMode:01E1
+[2024.06.26-21.27.47:212][772]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue". Node:  Set World Scale 3D Graph:  EventGraph Function:  Execute Ubergraph BP Third Person Game Mode Blueprint:  BP_ThirdPersonGameMode
+[2024.06.26-21.27.47:212][772]LogScript: Warning: Accessed None
+	BP_ThirdPersonGameMode_C /Game/Platformer/Level/UEDPIE_0_LV_01.LV_01:PersistentLevel.BP_ThirdPersonGameMode_C_0
+	Function /Game/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.BP_ThirdPersonGameMode_C:ExecuteUbergraph_BP_ThirdPersonGameMode:01F6
+[2024.06.26-21.27.47:212][772]PIE: Error: Blueprint Runtime Error: "Accessed None". Node:  Set World Scale 3D Graph:  EventGraph Function:  Execute Ubergraph BP Third Person Game Mode Blueprint:  BP_ThirdPersonGameMode
+[2024.06.26-21.27.47:212][772]LogScript: Warning: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue
+	BP_ThirdPersonGameMode_C /Game/Platformer/Level/UEDPIE_0_LV_01.LV_01:PersistentLevel.BP_ThirdPersonGameMode_C_0
+	Function /Game/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.BP_ThirdPersonGameMode_C:ExecuteUbergraph_BP_ThirdPersonGameMode:027D
+[2024.06.26-21.27.47:213][772]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue". Node:  Activate Graph:  EventGraph Function:  Execute Ubergraph BP Third Person Game Mode Blueprint:  BP_ThirdPersonGameMode
+[2024.06.26-21.27.47:213][772]LogScript: Warning: Accessed None
+	BP_ThirdPersonGameMode_C /Game/Platformer/Level/UEDPIE_0_LV_01.LV_01:PersistentLevel.BP_ThirdPersonGameMode_C_0
+	Function /Game/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.BP_ThirdPersonGameMode_C:ExecuteUbergraph_BP_ThirdPersonGameMode:0292
+[2024.06.26-21.27.47:213][772]PIE: Error: Blueprint Runtime Error: "Accessed None". Node:  Activate Graph:  EventGraph Function:  Execute Ubergraph BP Third Person Game Mode Blueprint:  BP_ThirdPersonGameMode
+[2024.06.26-21.27.47:213][772]LogWorld: UWorld::CleanupWorld for LV_01, bSessionEnded=true, bCleanupResources=true
+[2024.06.26-21.27.47:214][772]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.26-21.27.47:228][772]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.06.26-21.27.47:232][772]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2024.06.26-21.27.47:251][772]LogAudio: Display: Audio Device (ID: 30) registered with world 'LV_02'.
+[2024.06.26-21.27.47:252][772]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.06.26-21.27.47:252][772]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.06.26-21.27.47:252][772]LogAIModule: Creating AISystem for world LV_02
+[2024.06.26-21.27.47:253][772]LogPlayLevel: PIE: World Init took: (0.001205s)
+[2024.06.26-21.27.47:253][772]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.06.26-21.27.47:266][772]LogWorld: Bringing World /Game/Platformer/Level/UEDPIE_0_LV_02.LV_02 up for play (max tick rate 60) at 2024.06.26-17.27.47
+[2024.06.26-21.27.47:266][772]LogWorld: Bringing up level for play took: 0.013476
+[2024.06.26-21.27.47:275][772]LogLoad: Took 0.063197 seconds to LoadMap(/Game/Platformer/Level/LV_02)
+[2024.06.26-21.27.49:832][921]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.06.26-21.27.49:832][921]LogWorld: BeginTearingDown for /Game/Platformer/Level/UEDPIE_0_LV_02
+[2024.06.26-21.27.49:833][921]LogWorld: UWorld::CleanupWorld for LV_02, bSessionEnded=true, bCleanupResources=true
+[2024.06.26-21.27.49:833][921]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.26-21.27.49:838][921]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.06.26-21.27.49:843][921]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.26-21.27.49:856][921]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.06.26-21.27.49:856][921]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 30
+[2024.06.26-21.27.49:856][921]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=30
+[2024.06.26-21.27.49:858][921]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=30
+[2024.06.26-21.27.49:868][921]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2024.06.26-21.27.50:051][922]LogPlayLevel: Display: Destroying online subsystem :Context_59
+[2024.06.26-21.27.52:261][  9]LogSlate: Window 'Message Log' being destroyed
+[2024.06.26-21.27.52:281][  9]LogSlate: Window 'Message Log' being destroyed
+[2024.06.26-21.27.54:819][119]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.06.26-21.27.54:825][119]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.06.26-21.27.54:825][119]PIE: New page: PIE session: LV_01 (26 Jun 2024, 1:27:54 pm)
+[2024.06.26-21.27.54:852][119]LogPlayLevel: Creating play world package: /Game/Platformer/Level/UEDPIE_0_LV_01
+[2024.06.26-21.27.54:860][119]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008114s)
+[2024.06.26-21.27.54:860][119]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Platformer/Level/LV_01.LV_01 to /Game/Platformer/Level/UEDPIE_0_LV_01.LV_01 (0.008163s)
+[2024.06.26-21.27.54:874][119]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2024.06.26-21.27.54:876][119]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.06.26-21.27.54:876][119]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.06.26-21.27.54:876][119]LogAIModule: Creating AISystem for world LV_01
+[2024.06.26-21.27.54:877][119]LogPlayLevel: PIE: World Init took: (0.001163s)
+[2024.06.26-21.27.54:877][119]LogAudio: Display: Creating Audio Device:                 Id: 31, Scope: Unique, Realtime: True
+[2024.06.26-21.27.54:877][119]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.06.26-21.27.54:877][119]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.06.26-21.27.54:877][119]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.06.26-21.27.54:877][119]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.06.26-21.27.54:877][119]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.06.26-21.27.54:877][119]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.06.26-21.27.54:877][119]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.06.26-21.27.54:877][119]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.06.26-21.27.54:877][119]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.06.26-21.27.54:878][119]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.06.26-21.27.54:878][119]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.06.26-21.27.54:880][119]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.06.26-21.27.54:983][119]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.06.26-21.27.54:984][119]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.06.26-21.27.54:984][119]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.06.26-21.27.54:984][119]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.06.26-21.27.54:984][119]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=31
+[2024.06.26-21.27.54:984][119]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=31
+[2024.06.26-21.27.54:987][119]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=31
+[2024.06.26-21.27.54:987][119]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=31
+[2024.06.26-21.27.54:987][119]LogInit: FAudioDevice initialized with ID 31.
+[2024.06.26-21.27.54:987][119]LogAudio: Display: Audio Device (ID: 31) registered with world 'LV_01'.
+[2024.06.26-21.27.54:987][119]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 31
+[2024.06.26-21.27.54:991][119]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.06.26-21.27.54:993][119]LogWorld: Bringing World /Game/Platformer/Level/UEDPIE_0_LV_01.LV_01 up for play (max tick rate 60) at 2024.06.26-17.27.54
+[2024.06.26-21.27.54:994][119]LogWorld: Bringing up level for play took: 0.002535
+[2024.06.26-21.27.54:996][119]LogOnline: OSS: Created online subsystem instance for: :Context_60
+[2024.06.26-21.27.55:002][119]PIE: Server logged in
+[2024.06.26-21.27.55:003][119]PIE: Play in editor total start time 0.178 seconds.
+[2024.06.26-21.28.06:779][820]LogNet: Browse: /Game/Platformer/Level/LV_02
+[2024.06.26-21.28.06:779][820]LogLoad: LoadMap: /Game/Platformer/Level/LV_02
+[2024.06.26-21.28.06:779][820]LogWorld: BeginTearingDown for /Game/Platformer/Level/UEDPIE_0_LV_01
+[2024.06.26-21.28.06:779][820]LogSpawn: Warning: SpawnActor failed because we are in the process of tearing down the world
+[2024.06.26-21.28.06:779][820]LogScript: Warning: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue
+	BP_ThirdPersonGameMode_C /Game/Platformer/Level/UEDPIE_0_LV_01.LV_01:PersistentLevel.BP_ThirdPersonGameMode_C_0
+	Function /Game/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.BP_ThirdPersonGameMode_C:ExecuteUbergraph_BP_ThirdPersonGameMode:01E1
+[2024.06.26-21.28.06:780][820]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue". Node:  Set World Scale 3D Graph:  EventGraph Function:  Execute Ubergraph BP Third Person Game Mode Blueprint:  BP_ThirdPersonGameMode
+[2024.06.26-21.28.06:780][820]LogScript: Warning: Accessed None
+	BP_ThirdPersonGameMode_C /Game/Platformer/Level/UEDPIE_0_LV_01.LV_01:PersistentLevel.BP_ThirdPersonGameMode_C_0
+	Function /Game/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.BP_ThirdPersonGameMode_C:ExecuteUbergraph_BP_ThirdPersonGameMode:01F6
+[2024.06.26-21.28.06:780][820]PIE: Error: Blueprint Runtime Error: "Accessed None". Node:  Set World Scale 3D Graph:  EventGraph Function:  Execute Ubergraph BP Third Person Game Mode Blueprint:  BP_ThirdPersonGameMode
+[2024.06.26-21.28.06:780][820]LogScript: Warning: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue
+	BP_ThirdPersonGameMode_C /Game/Platformer/Level/UEDPIE_0_LV_01.LV_01:PersistentLevel.BP_ThirdPersonGameMode_C_0
+	Function /Game/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.BP_ThirdPersonGameMode_C:ExecuteUbergraph_BP_ThirdPersonGameMode:027D
+[2024.06.26-21.28.06:780][820]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue". Node:  Activate Graph:  EventGraph Function:  Execute Ubergraph BP Third Person Game Mode Blueprint:  BP_ThirdPersonGameMode
+[2024.06.26-21.28.06:780][820]LogScript: Warning: Accessed None
+	BP_ThirdPersonGameMode_C /Game/Platformer/Level/UEDPIE_0_LV_01.LV_01:PersistentLevel.BP_ThirdPersonGameMode_C_0
+	Function /Game/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.BP_ThirdPersonGameMode_C:ExecuteUbergraph_BP_ThirdPersonGameMode:0292
+[2024.06.26-21.28.06:780][820]PIE: Error: Blueprint Runtime Error: "Accessed None". Node:  Activate Graph:  EventGraph Function:  Execute Ubergraph BP Third Person Game Mode Blueprint:  BP_ThirdPersonGameMode
+[2024.06.26-21.28.06:780][820]LogWorld: UWorld::CleanupWorld for LV_01, bSessionEnded=true, bCleanupResources=true
+[2024.06.26-21.28.06:781][820]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.26-21.28.06:814][820]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.06.26-21.28.06:817][820]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2024.06.26-21.28.06:831][820]LogAudio: Display: Audio Device (ID: 31) registered with world 'LV_02'.
+[2024.06.26-21.28.06:832][820]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.06.26-21.28.06:832][820]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.06.26-21.28.06:832][820]LogAIModule: Creating AISystem for world LV_02
+[2024.06.26-21.28.06:832][820]LogPlayLevel: PIE: World Init took: (0.001015s)
+[2024.06.26-21.28.06:833][820]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.06.26-21.28.06:845][820]LogWorld: Bringing World /Game/Platformer/Level/UEDPIE_0_LV_02.LV_02 up for play (max tick rate 60) at 2024.06.26-17.28.06
+[2024.06.26-21.28.06:846][820]LogWorld: Bringing up level for play took: 0.012526
+[2024.06.26-21.28.06:851][820]LogLoad: Took 0.073152 seconds to LoadMap(/Game/Platformer/Level/LV_02)
+[2024.06.26-21.28.10:323][ 24]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.06.26-21.28.10:323][ 24]LogWorld: BeginTearingDown for /Game/Platformer/Level/UEDPIE_0_LV_02
+[2024.06.26-21.28.10:323][ 24]LogWorld: UWorld::CleanupWorld for LV_02, bSessionEnded=true, bCleanupResources=true
+[2024.06.26-21.28.10:324][ 24]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.26-21.28.10:328][ 24]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.06.26-21.28.10:333][ 24]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.26-21.28.10:345][ 24]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.06.26-21.28.10:346][ 24]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 31
+[2024.06.26-21.28.10:346][ 24]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=31
+[2024.06.26-21.28.10:348][ 24]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=31
+[2024.06.26-21.28.10:357][ 24]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2024.06.26-21.28.10:514][ 25]LogPlayLevel: Display: Destroying online subsystem :Context_60
+[2024.06.26-21.28.20:423][269]LogAutomationController: Ignoring very large delta of 2.88 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.06.26-21.29.03:304][618]LogSlate: Window 'Message Log' being destroyed
+[2024.06.26-21.29.03:310][618]LogSlate: Window 'Message Log' being destroyed
+[2024.06.26-21.29.46:009][ 50]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.06.26-21.29.46:016][ 50]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.06.26-21.29.46:016][ 50]PIE: New page: PIE session: LV_01 (26 Jun 2024, 1:29:46 pm)
+[2024.06.26-21.29.46:016][ 50]LogPlayLevel: Creating play world package: /Game/Platformer/Level/UEDPIE_0_LV_01
+[2024.06.26-21.29.46:025][ 50]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009065s)
+[2024.06.26-21.29.46:025][ 50]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Platformer/Level/LV_01.LV_01 to /Game/Platformer/Level/UEDPIE_0_LV_01.LV_01 (0.009111s)
+[2024.06.26-21.29.46:042][ 50]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2024.06.26-21.29.46:044][ 50]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.06.26-21.29.46:044][ 50]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.06.26-21.29.46:044][ 50]LogAIModule: Creating AISystem for world LV_01
+[2024.06.26-21.29.46:045][ 50]LogPlayLevel: PIE: World Init took: (0.001167s)
+[2024.06.26-21.29.46:045][ 50]LogAudio: Display: Creating Audio Device:                 Id: 32, Scope: Unique, Realtime: True
+[2024.06.26-21.29.46:045][ 50]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.06.26-21.29.46:045][ 50]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.06.26-21.29.46:045][ 50]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.06.26-21.29.46:045][ 50]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.06.26-21.29.46:045][ 50]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.06.26-21.29.46:045][ 50]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.06.26-21.29.46:045][ 50]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.06.26-21.29.46:045][ 50]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.06.26-21.29.46:046][ 50]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.06.26-21.29.46:046][ 50]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.06.26-21.29.46:046][ 50]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.06.26-21.29.46:048][ 50]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.06.26-21.29.46:150][ 50]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.06.26-21.29.46:150][ 50]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.06.26-21.29.46:150][ 50]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.06.26-21.29.46:150][ 50]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.06.26-21.29.46:152][ 50]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=32
+[2024.06.26-21.29.46:152][ 50]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=32
+[2024.06.26-21.29.46:154][ 50]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=32
+[2024.06.26-21.29.46:154][ 50]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=32
+[2024.06.26-21.29.46:154][ 50]LogInit: FAudioDevice initialized with ID 32.
+[2024.06.26-21.29.46:155][ 50]LogAudio: Display: Audio Device (ID: 32) registered with world 'LV_01'.
+[2024.06.26-21.29.46:155][ 50]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 32
+[2024.06.26-21.29.46:176][ 50]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.06.26-21.29.46:176][ 50]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.06.26-21.29.46:179][ 50]LogWorld: Bringing World /Game/Platformer/Level/UEDPIE_0_LV_01.LV_01 up for play (max tick rate 60) at 2024.06.26-17.29.46
+[2024.06.26-21.29.46:180][ 50]LogWorld: Bringing up level for play took: 0.002956
+[2024.06.26-21.29.46:182][ 50]LogOnline: OSS: Created online subsystem instance for: :Context_61
+[2024.06.26-21.29.46:192][ 50]PIE: Server logged in
+[2024.06.26-21.29.46:194][ 50]PIE: Play in editor total start time 0.179 seconds.
+[2024.06.26-21.29.46:207][ 50]LogViewport: Scene viewport resized to 1039x776, mode Windowed.
+[2024.06.26-21.29.56:781][658]LogNet: Browse: /Game/Platformer/Level/LV_02
+[2024.06.26-21.29.56:781][658]LogLoad: LoadMap: /Game/Platformer/Level/LV_02
+[2024.06.26-21.29.56:781][658]LogWorld: BeginTearingDown for /Game/Platformer/Level/UEDPIE_0_LV_01
+[2024.06.26-21.29.56:781][658]LogSpawn: Warning: SpawnActor failed because we are in the process of tearing down the world
+[2024.06.26-21.29.56:781][658]LogScript: Warning: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue
+	BP_ThirdPersonGameMode_C /Game/Platformer/Level/UEDPIE_0_LV_01.LV_01:PersistentLevel.BP_ThirdPersonGameMode_C_0
+	Function /Game/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.BP_ThirdPersonGameMode_C:ExecuteUbergraph_BP_ThirdPersonGameMode:01E1
+[2024.06.26-21.29.56:781][658]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue". Node:  Set World Scale 3D Graph:  EventGraph Function:  Execute Ubergraph BP Third Person Game Mode Blueprint:  BP_ThirdPersonGameMode
+[2024.06.26-21.29.56:782][658]LogScript: Warning: Accessed None
+	BP_ThirdPersonGameMode_C /Game/Platformer/Level/UEDPIE_0_LV_01.LV_01:PersistentLevel.BP_ThirdPersonGameMode_C_0
+	Function /Game/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.BP_ThirdPersonGameMode_C:ExecuteUbergraph_BP_ThirdPersonGameMode:01F6
+[2024.06.26-21.29.56:782][658]PIE: Error: Blueprint Runtime Error: "Accessed None". Node:  Set World Scale 3D Graph:  EventGraph Function:  Execute Ubergraph BP Third Person Game Mode Blueprint:  BP_ThirdPersonGameMode
+[2024.06.26-21.29.56:782][658]LogScript: Warning: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue
+	BP_ThirdPersonGameMode_C /Game/Platformer/Level/UEDPIE_0_LV_01.LV_01:PersistentLevel.BP_ThirdPersonGameMode_C_0
+	Function /Game/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.BP_ThirdPersonGameMode_C:ExecuteUbergraph_BP_ThirdPersonGameMode:027D
+[2024.06.26-21.29.56:782][658]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue". Node:  Activate Graph:  EventGraph Function:  Execute Ubergraph BP Third Person Game Mode Blueprint:  BP_ThirdPersonGameMode
+[2024.06.26-21.29.56:782][658]LogScript: Warning: Accessed None
+	BP_ThirdPersonGameMode_C /Game/Platformer/Level/UEDPIE_0_LV_01.LV_01:PersistentLevel.BP_ThirdPersonGameMode_C_0
+	Function /Game/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.BP_ThirdPersonGameMode_C:ExecuteUbergraph_BP_ThirdPersonGameMode:0292
+[2024.06.26-21.29.56:782][658]PIE: Error: Blueprint Runtime Error: "Accessed None". Node:  Activate Graph:  EventGraph Function:  Execute Ubergraph BP Third Person Game Mode Blueprint:  BP_ThirdPersonGameMode
+[2024.06.26-21.29.56:782][658]LogWorld: UWorld::CleanupWorld for LV_01, bSessionEnded=true, bCleanupResources=true
+[2024.06.26-21.29.56:783][658]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.26-21.29.56:796][658]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.06.26-21.29.56:799][658]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2024.06.26-21.29.56:811][658]LogAudio: Display: Audio Device (ID: 32) registered with world 'LV_02'.
+[2024.06.26-21.29.56:812][658]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.06.26-21.29.56:812][658]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.06.26-21.29.56:812][658]LogAIModule: Creating AISystem for world LV_02
+[2024.06.26-21.29.56:813][658]LogPlayLevel: PIE: World Init took: (0.001121s)
+[2024.06.26-21.29.56:813][658]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.06.26-21.29.56:825][658]LogWorld: Bringing World /Game/Platformer/Level/UEDPIE_0_LV_02.LV_02 up for play (max tick rate 60) at 2024.06.26-17.29.56
+[2024.06.26-21.29.56:825][658]LogWorld: Bringing up level for play took: 0.012273
+[2024.06.26-21.29.56:832][658]LogLoad: Took 0.050808 seconds to LoadMap(/Game/Platformer/Level/LV_02)
+[2024.06.26-21.30.00:658][884]LogShaderCompilers: Display: ================================================
+[2024.06.26-21.30.00:658][884]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.06.26-21.30.00:658][884]LogShaderCompilers: Display: Total job queries 26, among them cache hits 8 (30.77%)
+[2024.06.26-21.30.00:658][884]LogShaderCompilers: Display: Tracking 18 distinct input hashes that result in 16 distinct outputs (88.89%)
+[2024.06.26-21.30.00:658][884]LogShaderCompilers: Display: RAM used: 530.46 KiB of 819.20 MiB budget. Usage: 0.06%
+[2024.06.26-21.30.00:658][884]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.06.26-21.30.00:658][884]LogShaderCompilers: Display: Shaders Compiled: 0
+[2024.06.26-21.30.00:658][884]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0%)
+[2024.06.26-21.30.00:658][884]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2024.06.26-21.30.00:658][884]LogShaderCompilers: Display: ================================================
+[2024.06.26-21.30.22:555][195]LogLongPackageNames: Warning: Can't Find URL: None: . Invalidating and reverting to Default URL.
+[2024.06.26-21.30.22:569][196]LogLongPackageNames: Warning: Can't Find URL: None: . Invalidating and reverting to Default URL.
+[2024.06.26-21.30.22:570][196]LogNet: Browse: /Game/Platformer/Level/LV_01
+[2024.06.26-21.30.22:570][196]LogNet: Warning: Travel Failure: [InvalidURL]: Invalid URL: /Game/Platformer/Level/LV_01
+[2024.06.26-21.30.22:571][196]LogNet: TravelFailure: InvalidURL, Reason for Failure: 'Invalid URL: /Game/Platformer/Level/LV_01'
+[2024.06.26-21.30.22:571][196]LogNet: Warning: Travel Failure: [ClientTravelFailure]: Invalid URL: /Game/Platformer/Level/LV_01
+[2024.06.26-21.30.22:571][196]LogNet: TravelFailure: ClientTravelFailure, Reason for Failure: 'Invalid URL: /Game/Platformer/Level/LV_01'
+[2024.06.26-21.30.22:584][197]LogNet: Browse: /Game/Platformer/Level/LV_01?closed
+[2024.06.26-21.30.22:585][197]LogNet: Connection failed; returning to Entry
+[2024.06.26-21.30.22:585][197]LogLoad: LoadMap: /Game/Platformer/Level/LV_01?closed
+[2024.06.26-21.30.22:585][197]LogWorld: BeginTearingDown for /Game/Platformer/Level/UEDPIE_0_LV_02
+[2024.06.26-21.30.22:585][197]LogSpawn: Warning: SpawnActor failed because we are in the process of tearing down the world
+[2024.06.26-21.30.22:585][197]LogScript: Warning: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue
+	BP_ThirdPersonGameMode_C /Game/Platformer/Level/UEDPIE_0_LV_02.LV_02:PersistentLevel.BP_ThirdPersonGameMode_C_0
+	Function /Game/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.BP_ThirdPersonGameMode_C:ExecuteUbergraph_BP_ThirdPersonGameMode:01E1
+[2024.06.26-21.30.22:585][197]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue". Node:  Set World Scale 3D Graph:  EventGraph Function:  Execute Ubergraph BP Third Person Game Mode Blueprint:  BP_ThirdPersonGameMode
+[2024.06.26-21.30.22:585][197]LogScript: Warning: Accessed None
+	BP_ThirdPersonGameMode_C /Game/Platformer/Level/UEDPIE_0_LV_02.LV_02:PersistentLevel.BP_ThirdPersonGameMode_C_0
+	Function /Game/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.BP_ThirdPersonGameMode_C:ExecuteUbergraph_BP_ThirdPersonGameMode:01F6
+[2024.06.26-21.30.22:585][197]PIE: Error: Blueprint Runtime Error: "Accessed None". Node:  Set World Scale 3D Graph:  EventGraph Function:  Execute Ubergraph BP Third Person Game Mode Blueprint:  BP_ThirdPersonGameMode
+[2024.06.26-21.30.22:585][197]LogScript: Warning: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue
+	BP_ThirdPersonGameMode_C /Game/Platformer/Level/UEDPIE_0_LV_02.LV_02:PersistentLevel.BP_ThirdPersonGameMode_C_0
+	Function /Game/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.BP_ThirdPersonGameMode_C:ExecuteUbergraph_BP_ThirdPersonGameMode:027D
+[2024.06.26-21.30.22:585][197]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue". Node:  Activate Graph:  EventGraph Function:  Execute Ubergraph BP Third Person Game Mode Blueprint:  BP_ThirdPersonGameMode
+[2024.06.26-21.30.22:585][197]LogScript: Warning: Accessed None
+	BP_ThirdPersonGameMode_C /Game/Platformer/Level/UEDPIE_0_LV_02.LV_02:PersistentLevel.BP_ThirdPersonGameMode_C_0
+	Function /Game/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.BP_ThirdPersonGameMode_C:ExecuteUbergraph_BP_ThirdPersonGameMode:0292
+[2024.06.26-21.30.22:585][197]PIE: Error: Blueprint Runtime Error: "Accessed None". Node:  Activate Graph:  EventGraph Function:  Execute Ubergraph BP Third Person Game Mode Blueprint:  BP_ThirdPersonGameMode
+[2024.06.26-21.30.22:586][197]LogWorld: UWorld::CleanupWorld for LV_02, bSessionEnded=true, bCleanupResources=true
+[2024.06.26-21.30.22:586][197]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.26-21.30.22:627][197]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.06.26-21.30.22:631][197]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2024.06.26-21.30.22:635][197]LogPlayLevel: Creating play world package: /Game/Platformer/Level/UEDPIE_0_LV_01
+[2024.06.26-21.30.22:644][197]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008373s)
+[2024.06.26-21.30.22:644][197]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Platformer/Level/LV_01.LV_01 to /Game/Platformer/Level/UEDPIE_0_LV_01.LV_01 (0.008450s)
+[2024.06.26-21.30.22:644][197]LogAudio: Display: Audio Device (ID: 32) registered with world 'LV_01'.
+[2024.06.26-21.30.22:644][197]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.06.26-21.30.22:644][197]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.06.26-21.30.22:645][197]LogAIModule: Creating AISystem for world LV_01
+[2024.06.26-21.30.22:645][197]LogPlayLevel: PIE: World Init took: (0.000925s)
+[2024.06.26-21.30.22:645][197]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.06.26-21.30.22:647][197]LogWorld: Bringing World /Game/Platformer/Level/UEDPIE_0_LV_01.LV_01 up for play (max tick rate 60) at 2024.06.26-17.30.22
+[2024.06.26-21.30.22:648][197]LogWorld: Bringing up level for play took: 0.002086
+[2024.06.26-21.30.22:654][197]LogLoad: Took 0.068956 seconds to LoadMap(/Game/Platformer/Level/UEDPIE_0_LV_01)
+[2024.06.26-21.30.22:668][197]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2024.06.26-21.30.26:473][423]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.06.26-21.30.26:473][423]LogWorld: BeginTearingDown for /Game/Platformer/Level/UEDPIE_0_LV_01
+[2024.06.26-21.30.26:475][423]LogSlate: Window 'Char3DEnv3D Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.06.26-21.30.26:479][423]LogWorld: UWorld::CleanupWorld for LV_01, bSessionEnded=true, bCleanupResources=true
+[2024.06.26-21.30.26:480][423]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.26-21.30.26:486][423]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.06.26-21.30.26:493][423]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.26-21.30.26:511][423]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 32
+[2024.06.26-21.30.26:511][423]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=32
+[2024.06.26-21.30.26:512][423]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=32
+[2024.06.26-21.30.26:524][423]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2024.06.26-21.30.26:617][424]LogPlayLevel: Display: Destroying online subsystem :Context_61
+[2024.06.26-21.30.56:754][109]LogSlate: Window 'Message Log' being destroyed
+[2024.06.26-21.30.56:763][109]LogSlate: Window 'Message Log' being destroyed
+[2024.06.26-21.30.57:433][149]BlueprintLog: New page: Compile BP_ThirdPersonGameMode
+[2024.06.26-21.30.57:476][149]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2024.06.26-21.30.57:665][149]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.26-21.30.57:746][149]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonGameMode
+[2024.06.26-21.30.57:746][149]LogSavePackage: Moving '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Saved/BP_ThirdPersonGameModeC846C2244DF7E16B178CB6A005C9DCEE.tmp' to '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset'
+[2024.06.26-21.30.57:763][149]LogFileHelpers: InternalPromptForCheckoutAndSave took 97 ms (total: 16.1 sec)
+[2024.06.26-21.30.57:765][149]AssetCheck: New page: Asset Save: BP_ThirdPersonGameMode
+[2024.06.26-21.30.57:765][149]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.BP_ThirdPersonGameMode
+[2024.06.26-21.30.58:386][182]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.06.26-21.30.58:393][182]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.06.26-21.30.58:393][182]PIE: New page: PIE session: LV_01 (26 Jun 2024, 1:30:58 pm)
+[2024.06.26-21.30.58:393][182]LogPlayLevel: Creating play world package: /Game/Platformer/Level/UEDPIE_0_LV_01
+[2024.06.26-21.30.58:402][182]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009062s)
+[2024.06.26-21.30.58:402][182]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Platformer/Level/LV_01.LV_01 to /Game/Platformer/Level/UEDPIE_0_LV_01.LV_01 (0.009100s)
+[2024.06.26-21.30.58:416][182]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2024.06.26-21.30.58:419][182]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.06.26-21.30.58:419][182]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.06.26-21.30.58:420][182]LogAIModule: Creating AISystem for world LV_01
+[2024.06.26-21.30.58:420][182]LogPlayLevel: PIE: World Init took: (0.001019s)
+[2024.06.26-21.30.58:420][182]LogAudio: Display: Creating Audio Device:                 Id: 33, Scope: Unique, Realtime: True
+[2024.06.26-21.30.58:420][182]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.06.26-21.30.58:420][182]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.06.26-21.30.58:420][182]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.06.26-21.30.58:420][182]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.06.26-21.30.58:420][182]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.06.26-21.30.58:420][182]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.06.26-21.30.58:420][182]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.06.26-21.30.58:420][182]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.06.26-21.30.58:422][182]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.06.26-21.30.58:422][182]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.06.26-21.30.58:422][182]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.06.26-21.30.58:424][182]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.06.26-21.30.58:527][182]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.06.26-21.30.58:528][182]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.06.26-21.30.58:528][182]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.06.26-21.30.58:528][182]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.06.26-21.30.58:528][182]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=33
+[2024.06.26-21.30.58:528][182]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=33
+[2024.06.26-21.30.58:531][182]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=33
+[2024.06.26-21.30.58:531][182]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=33
+[2024.06.26-21.30.58:531][182]LogInit: FAudioDevice initialized with ID 33.
+[2024.06.26-21.30.58:531][182]LogAudio: Display: Audio Device (ID: 33) registered with world 'LV_01'.
+[2024.06.26-21.30.58:531][182]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 33
+[2024.06.26-21.30.58:557][182]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.06.26-21.30.58:557][182]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.06.26-21.30.58:560][182]LogWorld: Bringing World /Game/Platformer/Level/UEDPIE_0_LV_01.LV_01 up for play (max tick rate 60) at 2024.06.26-17.30.58
+[2024.06.26-21.30.58:561][182]LogWorld: Bringing up level for play took: 0.002835
+[2024.06.26-21.30.58:563][182]LogOnline: OSS: Created online subsystem instance for: :Context_62
+[2024.06.26-21.30.58:572][182]PIE: Server logged in
+[2024.06.26-21.30.58:574][182]PIE: Play in editor total start time 0.182 seconds.
+[2024.06.26-21.30.58:587][182]LogViewport: Scene viewport resized to 1039x776, mode Windowed.
+[2024.06.26-21.31.08:667][767]LogNet: Browse: /Game/Platformer/Level/LV_02
+[2024.06.26-21.31.08:667][767]LogLoad: LoadMap: /Game/Platformer/Level/LV_02
+[2024.06.26-21.31.08:667][767]LogWorld: BeginTearingDown for /Game/Platformer/Level/UEDPIE_0_LV_01
+[2024.06.26-21.31.08:667][767]LogSpawn: Warning: SpawnActor failed because we are in the process of tearing down the world
+[2024.06.26-21.31.08:667][767]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue". Node:  Branch Graph:  IsValid Function:  Execute Ubergraph BP Third Person Game Mode Blueprint:  BP_ThirdPersonGameMode
+[2024.06.26-21.31.08:668][767]LogWorld: UWorld::CleanupWorld for LV_01, bSessionEnded=true, bCleanupResources=true
+[2024.06.26-21.31.08:668][767]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.26-21.31.08:681][767]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.06.26-21.31.08:685][767]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2024.06.26-21.31.08:699][767]LogAudio: Display: Audio Device (ID: 33) registered with world 'LV_02'.
+[2024.06.26-21.31.08:699][767]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.06.26-21.31.08:699][767]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.06.26-21.31.08:700][767]LogAIModule: Creating AISystem for world LV_02
+[2024.06.26-21.31.08:700][767]LogPlayLevel: PIE: World Init took: (0.001001s)
+[2024.06.26-21.31.08:700][767]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.06.26-21.31.08:712][767]LogWorld: Bringing World /Game/Platformer/Level/UEDPIE_0_LV_02.LV_02 up for play (max tick rate 60) at 2024.06.26-17.31.08
+[2024.06.26-21.31.08:712][767]LogWorld: Bringing up level for play took: 0.012045
+[2024.06.26-21.31.08:719][767]LogLoad: Took 0.052287 seconds to LoadMap(/Game/Platformer/Level/LV_02)
+[2024.06.26-21.31.09:642][820]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.06.26-21.31.09:642][820]LogWorld: BeginTearingDown for /Game/Platformer/Level/UEDPIE_0_LV_02
+[2024.06.26-21.31.09:645][820]LogSlate: Window 'Char3DEnv3D Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.06.26-21.31.09:652][820]LogWorld: UWorld::CleanupWorld for LV_02, bSessionEnded=true, bCleanupResources=true
+[2024.06.26-21.31.09:653][820]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.26-21.31.09:656][820]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.06.26-21.31.09:665][820]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.26-21.31.09:679][820]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.06.26-21.31.09:679][820]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 33
+[2024.06.26-21.31.09:679][820]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=33
+[2024.06.26-21.31.09:681][820]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=33
+[2024.06.26-21.31.09:692][820]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2024.06.26-21.31.09:775][821]LogPlayLevel: Display: Destroying online subsystem :Context_62
+[2024.06.26-21.31.12:841][996]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Engine/EditorBlueprintResources/StandardMacros.StandardMacros
+[2024.06.26-21.31.12:841][996]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.06.26-21.31.12:841][996]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.06.26-21.31.14:214][ 69]LogSlate: Window 'Message Log' being destroyed
+[2024.06.26-21.31.14:219][ 69]LogSlate: Window 'Message Log' being destroyed
+[2024.06.26-21.31.19:803][403]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2024.06.26-21.31.19:803][403]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.26-21.31.33:602][113]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.26-21.31.33:665][113]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2024.06.26-21.31.33:692][113]LogSavePackage: Moving output files for package: /Game/Platformer/Level/LV_01
+[2024.06.26-21.31.33:692][113]LogSavePackage: Moving '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Saved/LV_01AA4F14084E3F158940AEDB9330C9D342.tmp' to '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Content/Platformer/Level/LV_01.umap'
+[2024.06.26-21.31.33:701][113]LogFileHelpers: Saving map 'LV_01' took 0.074
+[2024.06.26-21.31.33:716][113]LogFileHelpers: InternalPromptForCheckoutAndSave took 113 ms (total: 16.2 sec)
+[2024.06.26-21.31.33:719][113]AssetCheck: New page: Asset Save: LV_01
+[2024.06.26-21.31.33:719][113]LogContentValidation: Display: Validating /Script/Engine.World /Game/Platformer/Level/LV_01.LV_01
+[2024.06.26-21.31.34:204][142]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.06.26-21.31.34:210][142]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.06.26-21.31.34:210][142]PIE: New page: PIE session: LV_01 (26 Jun 2024, 1:31:34 pm)
+[2024.06.26-21.31.34:211][142]LogPlayLevel: Creating play world package: /Game/Platformer/Level/UEDPIE_0_LV_01
+[2024.06.26-21.31.34:220][142]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008511s)
+[2024.06.26-21.31.34:220][142]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Platformer/Level/LV_01.LV_01 to /Game/Platformer/Level/UEDPIE_0_LV_01.LV_01 (0.008569s)
+[2024.06.26-21.31.34:236][142]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2024.06.26-21.31.34:238][142]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.06.26-21.31.34:238][142]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.06.26-21.31.34:238][142]LogAIModule: Creating AISystem for world LV_01
+[2024.06.26-21.31.34:239][142]LogPlayLevel: PIE: World Init took: (0.001080s)
+[2024.06.26-21.31.34:239][142]LogAudio: Display: Creating Audio Device:                 Id: 34, Scope: Unique, Realtime: True
+[2024.06.26-21.31.34:239][142]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.06.26-21.31.34:239][142]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.06.26-21.31.34:239][142]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.06.26-21.31.34:239][142]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.06.26-21.31.34:239][142]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.06.26-21.31.34:239][142]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.06.26-21.31.34:239][142]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.06.26-21.31.34:239][142]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.06.26-21.31.34:239][142]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.06.26-21.31.34:239][142]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.06.26-21.31.34:239][142]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.06.26-21.31.34:243][142]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.06.26-21.31.34:347][142]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.06.26-21.31.34:347][142]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.06.26-21.31.34:347][142]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.06.26-21.31.34:347][142]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.06.26-21.31.34:348][142]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=34
+[2024.06.26-21.31.34:348][142]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=34
+[2024.06.26-21.31.34:350][142]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=34
+[2024.06.26-21.31.34:350][142]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=34
+[2024.06.26-21.31.34:350][142]LogInit: FAudioDevice initialized with ID 34.
+[2024.06.26-21.31.34:350][142]LogAudio: Display: Audio Device (ID: 34) registered with world 'LV_01'.
+[2024.06.26-21.31.34:350][142]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 34
+[2024.06.26-21.31.34:353][142]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.06.26-21.31.34:355][142]LogWorld: Bringing World /Game/Platformer/Level/UEDPIE_0_LV_01.LV_01 up for play (max tick rate 60) at 2024.06.26-17.31.34
+[2024.06.26-21.31.34:356][142]LogWorld: Bringing up level for play took: 0.002092
+[2024.06.26-21.31.34:358][142]LogOnline: OSS: Created online subsystem instance for: :Context_64
+[2024.06.26-21.31.34:364][142]PIE: Server logged in
+[2024.06.26-21.31.34:365][142]PIE: Play in editor total start time 0.155 seconds.
+[2024.06.26-21.31.44:715][758]LogNet: Browse: /Game/Platformer/Level/LV_02
+[2024.06.26-21.31.44:715][758]LogLoad: LoadMap: /Game/Platformer/Level/LV_02
+[2024.06.26-21.31.44:715][758]LogWorld: BeginTearingDown for /Game/Platformer/Level/UEDPIE_0_LV_01
+[2024.06.26-21.31.44:715][758]LogSpawn: Warning: SpawnActor failed because we are in the process of tearing down the world
+[2024.06.26-21.31.44:716][758]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue". Node:  Branch Graph:  IsValid Function:  Execute Ubergraph BP Third Person Game Mode Blueprint:  BP_ThirdPersonGameMode
+[2024.06.26-21.31.44:716][758]LogWorld: UWorld::CleanupWorld for LV_01, bSessionEnded=true, bCleanupResources=true
+[2024.06.26-21.31.44:717][758]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.26-21.31.44:731][758]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.06.26-21.31.44:734][758]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2024.06.26-21.31.44:747][758]LogAudio: Display: Audio Device (ID: 34) registered with world 'LV_02'.
+[2024.06.26-21.31.44:747][758]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.06.26-21.31.44:748][758]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.06.26-21.31.44:748][758]LogAIModule: Creating AISystem for world LV_02
+[2024.06.26-21.31.44:748][758]LogPlayLevel: PIE: World Init took: (0.000912s)
+[2024.06.26-21.31.44:748][758]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.06.26-21.31.44:760][758]LogWorld: Bringing World /Game/Platformer/Level/UEDPIE_0_LV_02.LV_02 up for play (max tick rate 60) at 2024.06.26-17.31.44
+[2024.06.26-21.31.44:760][758]LogWorld: Bringing up level for play took: 0.011528
+[2024.06.26-21.31.44:766][758]LogLoad: Took 0.052064 seconds to LoadMap(/Game/Platformer/Level/LV_02)
+[2024.06.26-21.31.46:012][829]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.06.26-21.31.46:012][829]LogWorld: BeginTearingDown for /Game/Platformer/Level/UEDPIE_0_LV_02
+[2024.06.26-21.31.46:012][829]LogWorld: UWorld::CleanupWorld for LV_02, bSessionEnded=true, bCleanupResources=true
+[2024.06.26-21.31.46:013][829]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.26-21.31.46:017][829]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.06.26-21.31.46:022][829]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.26-21.31.46:035][829]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.06.26-21.31.46:036][829]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 34
+[2024.06.26-21.31.46:036][829]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=34
+[2024.06.26-21.31.46:037][829]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=34
+[2024.06.26-21.31.46:043][829]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.06.26-21.31.46:047][829]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2024.06.26-21.31.46:181][830]LogPlayLevel: Display: Destroying online subsystem :Context_64
+[2024.06.26-21.31.53:184][236]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Engine/EditorBlueprintResources/StandardMacros.StandardMacros
+[2024.06.26-21.31.53:184][236]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.06.26-21.31.53:184][236]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.06.26-21.32.10:090][177]BlueprintLog: New page: Compile BP_ThirdPersonGameMode
+[2024.06.26-21.32.10:125][177]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2024.06.26-21.32.10:275][177]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.26-21.32.10:328][177]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonGameMode
+[2024.06.26-21.32.10:329][177]LogSavePackage: Moving '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Saved/BP_ThirdPersonGameModeF3227BD74A8D98D81F2C2DA75A5585EB.tmp' to '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset'
+[2024.06.26-21.32.10:343][177]LogFileHelpers: InternalPromptForCheckoutAndSave took 68 ms (total: 16.3 sec)
+[2024.06.26-21.32.10:345][177]AssetCheck: New page: Asset Save: BP_ThirdPersonGameMode
+[2024.06.26-21.32.10:345][177]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.BP_ThirdPersonGameMode
+[2024.06.26-21.32.10:810][201]LogSlate: Window 'Message Log' being destroyed
+[2024.06.26-21.32.10:816][201]LogSlate: Window 'Message Log' being destroyed
+[2024.06.26-21.32.11:734][256]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.06.26-21.32.11:742][256]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.06.26-21.32.11:742][256]PIE: New page: PIE session: LV_01 (26 Jun 2024, 1:32:11 pm)
+[2024.06.26-21.32.11:743][256]LogPlayLevel: Creating play world package: /Game/Platformer/Level/UEDPIE_0_LV_01
+[2024.06.26-21.32.11:752][256]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009423s)
+[2024.06.26-21.32.11:752][256]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Platformer/Level/LV_01.LV_01 to /Game/Platformer/Level/UEDPIE_0_LV_01.LV_01 (0.009465s)
+[2024.06.26-21.32.11:774][256]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2024.06.26-21.32.11:777][256]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.06.26-21.32.11:777][256]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.06.26-21.32.11:777][256]LogAIModule: Creating AISystem for world LV_01
+[2024.06.26-21.32.11:778][256]LogPlayLevel: PIE: World Init took: (0.001144s)
+[2024.06.26-21.32.11:778][256]LogAudio: Display: Creating Audio Device:                 Id: 35, Scope: Unique, Realtime: True
+[2024.06.26-21.32.11:778][256]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.06.26-21.32.11:778][256]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.06.26-21.32.11:778][256]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.06.26-21.32.11:778][256]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.06.26-21.32.11:778][256]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.06.26-21.32.11:778][256]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.06.26-21.32.11:778][256]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.06.26-21.32.11:778][256]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.06.26-21.32.11:779][256]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.06.26-21.32.11:779][256]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.06.26-21.32.11:779][256]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.06.26-21.32.11:781][256]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.06.26-21.32.11:899][256]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.06.26-21.32.11:899][256]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.06.26-21.32.11:899][256]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.06.26-21.32.11:899][256]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.06.26-21.32.11:902][256]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=35
+[2024.06.26-21.32.11:902][256]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=35
+[2024.06.26-21.32.11:904][256]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=35
+[2024.06.26-21.32.11:904][256]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=35
+[2024.06.26-21.32.11:904][256]LogInit: FAudioDevice initialized with ID 35.
+[2024.06.26-21.32.11:904][256]LogAudio: Display: Audio Device (ID: 35) registered with world 'LV_01'.
+[2024.06.26-21.32.11:904][256]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 35
+[2024.06.26-21.32.11:960][256]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.06.26-21.32.11:960][256]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.06.26-21.32.11:964][256]LogWorld: Bringing World /Game/Platformer/Level/UEDPIE_0_LV_01.LV_01 up for play (max tick rate 60) at 2024.06.26-17.32.11
+[2024.06.26-21.32.11:965][256]LogWorld: Bringing up level for play took: 0.004580
+[2024.06.26-21.32.11:968][256]LogOnline: OSS: Created online subsystem instance for: :Context_66
+[2024.06.26-21.32.11:977][256]PIE: Server logged in
+[2024.06.26-21.32.11:979][256]PIE: Play in editor total start time 0.237 seconds.
+[2024.06.26-21.32.11:993][256]LogViewport: Scene viewport resized to 1039x776, mode Windowed.
+[2024.06.26-21.32.22:298][852]LogNet: Browse: /Game/Platformer/Level/LV_02
+[2024.06.26-21.32.22:298][852]LogLoad: LoadMap: /Game/Platformer/Level/LV_02
+[2024.06.26-21.32.22:298][852]LogWorld: BeginTearingDown for /Game/Platformer/Level/UEDPIE_0_LV_01
+[2024.06.26-21.32.22:298][852]LogSpawn: Warning: SpawnActor failed because we are in the process of tearing down the world
+[2024.06.26-21.32.22:298][852]LogWorld: UWorld::CleanupWorld for LV_01, bSessionEnded=true, bCleanupResources=true
+[2024.06.26-21.32.22:300][852]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.26-21.32.22:314][852]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.06.26-21.32.22:317][852]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2024.06.26-21.32.22:330][852]LogAudio: Display: Audio Device (ID: 35) registered with world 'LV_02'.
+[2024.06.26-21.32.22:330][852]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.06.26-21.32.22:330][852]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.06.26-21.32.22:331][852]LogAIModule: Creating AISystem for world LV_02
+[2024.06.26-21.32.22:331][852]LogPlayLevel: PIE: World Init took: (0.001269s)
+[2024.06.26-21.32.22:331][852]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.06.26-21.32.22:343][852]LogWorld: Bringing World /Game/Platformer/Level/UEDPIE_0_LV_02.LV_02 up for play (max tick rate 60) at 2024.06.26-17.32.22
+[2024.06.26-21.32.22:344][852]LogWorld: Bringing up level for play took: 0.011561
+[2024.06.26-21.32.22:350][852]LogLoad: Took 0.051887 seconds to LoadMap(/Game/Platformer/Level/LV_02)
+[2024.06.26-21.32.26:392][ 92]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.06.26-21.32.26:393][ 92]LogWorld: BeginTearingDown for /Game/Platformer/Level/UEDPIE_0_LV_02
+[2024.06.26-21.32.26:394][ 92]LogSlate: Window 'Char3DEnv3D Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.06.26-21.32.26:399][ 92]LogWorld: UWorld::CleanupWorld for LV_02, bSessionEnded=true, bCleanupResources=true
+[2024.06.26-21.32.26:400][ 92]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.26-21.32.26:404][ 92]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.06.26-21.32.26:411][ 92]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.26-21.32.26:427][ 92]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 35
+[2024.06.26-21.32.26:427][ 92]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=35
+[2024.06.26-21.32.26:429][ 92]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=35
+[2024.06.26-21.32.26:439][ 92]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2024.06.26-21.32.26:477][ 93]LogPlayLevel: Display: Destroying online subsystem :Context_66
+[2024.06.26-21.32.37:044][727]BlueprintLog: New page: Compile BP_ThirdPersonGameMode
+[2024.06.26-21.32.37:078][727]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2024.06.26-21.32.37:200][727]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.26-21.32.37:262][727]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonGameMode
+[2024.06.26-21.32.37:262][727]LogSavePackage: Moving '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Saved/BP_ThirdPersonGameMode1220F0F5415E02C1E319378117A05AE6.tmp' to '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset'
+[2024.06.26-21.32.37:273][727]LogFileHelpers: InternalPromptForCheckoutAndSave took 72 ms (total: 16.3 sec)
+[2024.06.26-21.32.37:274][727]AssetCheck: New page: Asset Save: BP_ThirdPersonGameMode
+[2024.06.26-21.32.37:274][727]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.BP_ThirdPersonGameMode
