@@ -1459,3 +1459,1011 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.06.27-10.34.29:942][434]LogFileHelpers: InternalPromptForCheckoutAndSave took 114 ms (total: 946 ms)
 [2024.06.27-10.34.29:945][434]AssetCheck: New page: Asset Save: LV_01
 [2024.06.27-10.34.29:945][434]LogContentValidation: Display: Validating /Script/Engine.World /Game/Platformer/Level/LV_01.LV_01
+[2024.06.27-10.37.21:288][270]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2024.06.27-10.37.21:506][270]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.06.27-10.37.21:517][270]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Platformer/Level/LV_MainMenu.LV_MainMenu
+[2024.06.27-10.37.21:518][270]Cmd: MAP LOAD FILE="../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Content/Platformer/Level/LV_MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.06.27-10.37.21:518][270]LightingResults: New page: Lighting Build
+[2024.06.27-10.37.21:518][270]LoadErrors: New page: Loading map: LV_MainMenu.umap
+[2024.06.27-10.37.21:539][270]LogWorld: UWorld::CleanupWorld for LV_01, bSessionEnded=true, bCleanupResources=true
+[2024.06.27-10.37.21:539][270]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.27-10.37.21:539][270]MapCheck: New page: Map Check
+[2024.06.27-10.37.21:540][270]LightingResults: New page: Lighting Build
+[2024.06.27-10.37.21:556][270]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.06.27-10.37.21:562][270]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2024.06.27-10.37.21:565][270]LogWorld: UWorld::CleanupWorld for LV_MainMenu, bSessionEnded=true, bCleanupResources=true
+[2024.06.27-10.37.21:566][270]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.27-10.37.21:585][270]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2024.06.27-10.37.21:597][270]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2024.06.27-10.37.21:607][270]LogAudio: Display: Audio Device (ID: 1) registered with world 'LV_MainMenu'.
+[2024.06.27-10.37.21:607][270]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.06.27-10.37.21:607][270]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.06.27-10.37.21:607][270]LogAIModule: Creating AISystem for world LV_MainMenu
+[2024.06.27-10.37.21:644][270]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.06.27-10.37.21:661][270]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2024.06.27-10.37.21:667][270]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.06.27-10.37.21:667][270]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.111ms to complete.
+[2024.06.27-10.37.24:225][410]LogObjectTools: Deleting 1 worlds: /Game/Platformer/Level/LV_MainMenu.LV_MainMenu
+[2024.06.27-10.37.24:225][410]LogObjectTools: Currently 9 active worlds: /Game/Platformer/Level/LV_MainMenu.LV_MainMenu, /Engine/Transient.World_0, /Engine/Transient.World_2, /Engine/Transient.World_3, /Engine/Transient.World_4, /Engine/Transient.World_5, /Engine/Transient.World_6, /Engine/Transient.World_7, /Engine/Transient.World_8
+[2024.06.27-10.37.26:681][410]LogSlate: Window 'Unable to delete level' being destroyed
+[2024.06.27-10.37.26:687][410]Message dialog closed, result: Ok, title: Unable to delete level, text: Unable to delete level while it is open
+[2024.06.27-10.37.27:507][452]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2024.06.27-10.37.27:546][452]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.06.27-10.37.27:558][452]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Platformer/Level/LV_01.LV_01
+[2024.06.27-10.37.27:558][452]Cmd: MAP LOAD FILE="../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Content/Platformer/Level/LV_01.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.06.27-10.37.27:558][452]LightingResults: New page: Lighting Build
+[2024.06.27-10.37.27:558][452]LoadErrors: New page: Loading map: LV_01.umap
+[2024.06.27-10.37.27:579][452]LogWorld: UWorld::CleanupWorld for LV_MainMenu, bSessionEnded=true, bCleanupResources=true
+[2024.06.27-10.37.27:579][452]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.27-10.37.27:580][452]MapCheck: New page: Map Check
+[2024.06.27-10.37.27:580][452]LightingResults: New page: Lighting Build
+[2024.06.27-10.37.27:592][452]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.06.27-10.37.27:597][452]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2024.06.27-10.37.27:599][452]LogWorld: UWorld::CleanupWorld for LV_01, bSessionEnded=true, bCleanupResources=true
+[2024.06.27-10.37.27:600][452]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.27-10.37.27:616][452]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2024.06.27-10.37.27:628][452]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2024.06.27-10.37.27:639][452]LogAudio: Display: Audio Device (ID: 1) registered with world 'LV_01'.
+[2024.06.27-10.37.27:639][452]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.06.27-10.37.27:639][452]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.06.27-10.37.27:639][452]LogAIModule: Creating AISystem for world LV_01
+[2024.06.27-10.37.27:669][452]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.06.27-10.37.27:688][452]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2024.06.27-10.37.27:693][452]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.06.27-10.37.27:693][452]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.086ms to complete.
+[2024.06.27-10.37.28:424][492]LogShaderCompilers: Display: ================================================
+[2024.06.27-10.37.28:424][492]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.06.27-10.37.28:424][492]LogShaderCompilers: Display: Total job queries 59, among them cache hits 7 (11.86%)
+[2024.06.27-10.37.28:424][492]LogShaderCompilers: Display: Tracking 52 distinct input hashes that result in 44 distinct outputs (84.62%)
+[2024.06.27-10.37.28:424][492]LogShaderCompilers: Display: RAM used: 1.38 MiB of 819.20 MiB budget. Usage: 0.17%
+[2024.06.27-10.37.28:424][492]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.06.27-10.37.28:424][492]LogShaderCompilers: Display: Shaders Compiled: 50
+[2024.06.27-10.37.28:424][492]LogShaderCompilers: Display: Jobs assigned 50, completed 50 (100%)
+[2024.06.27-10.37.28:424][492]LogShaderCompilers: Display: Average time worker was idle: 76.49 s
+[2024.06.27-10.37.28:424][492]LogShaderCompilers: Display: Time job spent in pending queue: average 1.33 s, longest 4.39 s
+[2024.06.27-10.37.28:424][492]LogShaderCompilers: Display: Job execution time: average 1.90 s, max 4.79 s
+[2024.06.27-10.37.28:424][492]LogShaderCompilers: Display: Job life time (pending + execution): average 3.24 s, max 5.11
+[2024.06.27-10.37.28:424][492]LogShaderCompilers: Display: Shader code size: average 42.128 KiB, min 31.789 KiB, max 64.359 KiB
+[2024.06.27-10.37.28:424][492]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 13.09 s
+[2024.06.27-10.37.28:424][492]LogShaderCompilers: Display: Jobs were issued in 32 batches (only local compilation was used), average 1.56 jobs/batch
+[2024.06.27-10.37.28:424][492]LogShaderCompilers: Display: Average processing rate: 3.82 jobs/sec
+[2024.06.27-10.37.28:424][492]LogShaderCompilers: Display: Total thread time: 30.295 s
+[2024.06.27-10.37.28:424][492]LogShaderCompilers: Display: Total thread preprocess time: 2.516 s
+[2024.06.27-10.37.28:424][492]LogShaderCompilers: Display: Percentage time preprocessing: 8.31%
+[2024.06.27-10.37.28:424][492]LogShaderCompilers: Display: Effective parallelization: 2.31 (times faster than compiling all shaders on one thread). Compare with number of workers: 4
+[2024.06.27-10.37.28:424][492]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.06.27-10.37.28:424][492]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap (compiled    2 times, average 1.45 sec, max 2.34 sec, min 0.56 sec)
+[2024.06.27-10.37.28:424][492]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    3 times, average 1.30 sec, max 3.02 sec, min 0.41 sec)
+[2024.06.27-10.37.28:424][492]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled    3 times, average 0.67 sec, max 1.57 sec, min 0.18 sec)
+[2024.06.27-10.37.28:424][492]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    2 times, average 0.64 sec, max 0.84 sec, min 0.44 sec)
+[2024.06.27-10.37.28:424][492]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    4 times, average 0.61 sec, max 0.89 sec, min 0.48 sec)
+[2024.06.27-10.37.28:424][492]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.06.27-10.37.28:424][492]LogShaderCompilers: Display:                                                 FLumenCardVS - 12.91% of total time (compiled    3 times, average 1.30 sec, max 3.02 sec, min 0.41 sec)
+[2024.06.27-10.37.28:424][492]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap - 9.56% of total time (compiled    2 times, average 1.45 sec, max 2.34 sec, min 0.56 sec)
+[2024.06.27-10.37.28:424][492]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 8.05% of total time (compiled    4 times, average 0.61 sec, max 0.89 sec, min 0.48 sec)
+[2024.06.27-10.37.28:424][492]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 7.35% of total time (compiled    4 times, average 0.56 sec, max 0.77 sec, min 0.45 sec)
+[2024.06.27-10.37.28:424][492]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 6.61% of total time (compiled    3 times, average 0.67 sec, max 1.57 sec, min 0.18 sec)
+[2024.06.27-10.37.28:424][492]LogShaderCompilers: Display: ================================================
+[2024.06.27-10.37.29:131][534]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.06.27-10.37.29:143][534]LogObjectTools: Deleting 1 worlds: /Game/Platformer/Level/LV_MainMenu.LV_MainMenu
+[2024.06.27-10.37.29:143][534]LogObjectTools: Currently 9 active worlds: /Game/Platformer/Level/LV_01.LV_01, /Engine/Transient.World_0, /Engine/Transient.World_2, /Engine/Transient.World_3, /Engine/Transient.World_4, /Engine/Transient.World_5, /Engine/Transient.World_6, /Engine/Transient.World_7, /Engine/Transient.World_8
+[2024.06.27-10.37.29:158][534]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2024.06.27-10.37.30:329][534]LogSlate: Window 'Delete Assets' being destroyed
+[2024.06.27-10.37.30:335][534]LogWorld: UWorld::CleanupWorld for LV_MainMenu, bSessionEnded=true, bCleanupResources=true
+[2024.06.27-10.37.30:336][534]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.27-10.37.30:369][534]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2024.06.27-10.37.30:382][534]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2024.06.27-10.37.30:395][534]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2024.06.27-10.37.37:079][699]LogSlate: Window 'New Level' being destroyed
+[2024.06.27-10.37.37:084][699]LightingResults: New page: Lighting Build
+[2024.06.27-10.37.37:110][699]LogWorld: UWorld::CleanupWorld for LV_01, bSessionEnded=true, bCleanupResources=true
+[2024.06.27-10.37.37:110][699]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.27-10.37.37:110][699]MapCheck: New page: Map Check
+[2024.06.27-10.37.37:110][699]LightingResults: New page: Lighting Build
+[2024.06.27-10.37.37:124][699]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.06.27-10.37.37:128][699]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2024.06.27-10.37.37:131][699]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.06.27-10.37.37:131][699]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.06.27-10.37.37:131][699]LogAIModule: Creating AISystem for world Untitled
+[2024.06.27-10.37.37:135][699]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2024.06.27-10.37.37:159][699]LoadErrors: New page: New Map
+[2024.06.27-10.37.43:989][  6]LogEditorViewport: Clicking Background
+[2024.06.27-10.37.54:213][ 75]LogSlate: Window 'Save Level As' being destroyed
+[2024.06.27-10.37.54:305][ 75]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2024.06.27-10.37.54:308][ 75]LogSavePackage: Moving output files for package: /Game/Platformer/Level/LV_MainMenu
+[2024.06.27-10.37.54:309][ 75]LogSavePackage: Moving '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Saved/LV_MainMenu0629EA65483F824BA1F117812C43D5B3.tmp' to '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Content/Platformer/Level/LV_MainMenu.umap'
+[2024.06.27-10.37.54:331][ 75]LogFileHelpers: Saving map 'LV_MainMenu' took 0.106
+[2024.06.27-10.37.54:331][ 75]Cmd: MAP LOAD FILE="../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Content/Platformer/Level/LV_MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.06.27-10.37.54:331][ 75]LightingResults: New page: Lighting Build
+[2024.06.27-10.37.54:331][ 75]LoadErrors: New page: Loading map: LV_MainMenu.umap
+[2024.06.27-10.37.54:351][ 75]LogWorld: UWorld::CleanupWorld for LV_MainMenu, bSessionEnded=true, bCleanupResources=true
+[2024.06.27-10.37.54:351][ 75]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.27-10.37.54:351][ 75]MapCheck: New page: Map Check
+[2024.06.27-10.37.54:351][ 75]LightingResults: New page: Lighting Build
+[2024.06.27-10.37.54:364][ 75]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.06.27-10.37.54:367][ 75]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2024.06.27-10.37.54:369][ 75]LogAudio: Display: Audio Device (ID: 1) registered with world 'LV_MainMenu'.
+[2024.06.27-10.37.54:369][ 75]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.06.27-10.37.54:369][ 75]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.06.27-10.37.54:370][ 75]LogAIModule: Creating AISystem for world LV_MainMenu
+[2024.06.27-10.37.54:383][ 75]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.06.27-10.37.54:397][ 75]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2024.06.27-10.37.54:401][ 75]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.06.27-10.37.54:403][ 75]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.104ms to complete.
+[2024.06.27-10.37.54:403][ 75]AssetCheck: New page: Asset Save: LV_MainMenu
+[2024.06.27-10.37.54:403][ 75]LogContentValidation: Display: Validating /Script/Engine.World /Game/Platformer/Level/LV_MainMenu.LV_MainMenu
+[2024.06.27-10.37.56:669][130]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.27-10.37.56:732][130]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2024.06.27-10.37.56:735][130]LogSavePackage: Moving output files for package: /Game/Platformer/Level/LV_MainMenu
+[2024.06.27-10.37.56:735][130]LogSavePackage: Moving '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Saved/LV_MainMenuBE58294D41EB42AC8F2F7383C03AF75F.tmp' to '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Content/Platformer/Level/LV_MainMenu.umap'
+[2024.06.27-10.37.56:743][130]LogFileHelpers: Saving map 'LV_MainMenu' took 0.046
+[2024.06.27-10.37.56:754][130]LogFileHelpers: InternalPromptForCheckoutAndSave took 84 ms (total: 1.03 sec)
+[2024.06.27-10.37.56:756][130]AssetCheck: New page: Asset Save: LV_MainMenu
+[2024.06.27-10.37.56:756][130]LogContentValidation: Display: Validating /Script/Engine.World /Game/Platformer/Level/LV_MainMenu.LV_MainMenu
+[2024.06.27-10.38.02:379][415]LogSlate: External Image Picker: DecompressImage failed
+[2024.06.27-10.38.12:978][692]LogSlate: Took 0.000639 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.06.27-10.39.07:681][585]LogSlate: Window 'Pick Parent Class for New Widget Blueprint' being destroyed
+[2024.06.27-10.39.07:691][585]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2024.06.27-10.39.07:698][585]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2024.06.27-10.39.07:721][586]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2024.06.27-10.39.15:614][960]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> W_MainMenu
+[2024.06.27-10.39.15:625][960]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2024.06.27-10.39.16:474][ 10]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Platformer/UI/W_MainMenu.W_MainMenu
+[2024.06.27-10.39.16:476][ 10]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.06.27-10.39.16:476][ 10]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.06.27-10.39.16:484][ 10]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.06.27-10.39.16:485][ 10]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.06.27-10.39.16:496][ 10]LogSlate: Warning: The command 'UMGEditor.OpenAnimDrawer' has the same default chord as 'EditorViewport.Next' [Ctrl+Shift+Space Bar]
+[2024.06.27-10.39.16:802][ 10]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find SlateColor 'Foreground'.'
+[2024.06.27-10.39.16:809][ 10]LogSlate: Took 0.005769 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2024.06.27-10.39.55:803][318]BlueprintLog: New page: Compile W_MainMenu
+[2024.06.27-10.39.55:832][318]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2024.06.27-10.39.55:943][318]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.27-10.39.55:985][318]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Platformer/UI/W_MainMenu" FILE="../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Content/Platformer/UI/W_MainMenu.uasset" SILENT=true
+[2024.06.27-10.39.55:988][318]LogSavePackage: Moving output files for package: /Game/Platformer/UI/W_MainMenu
+[2024.06.27-10.39.55:988][318]LogSavePackage: Moving '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Saved/W_MainMenuF4B9E36E46820F68B00E228C146B9175.tmp' to '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Content/Platformer/UI/W_MainMenu.uasset'
+[2024.06.27-10.39.56:005][318]LogFileHelpers: InternalPromptForCheckoutAndSave took 63 ms (total: 1.09 sec)
+[2024.06.27-10.39.56:014][318]AssetCheck: New page: Asset Save: W_MainMenu
+[2024.06.27-10.39.56:014][318]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Platformer/UI/W_MainMenu.W_MainMenu
+[2024.06.27-10.40.28:845][798]BlueprintLog: New page: Compile W_MainMenu
+[2024.06.27-10.40.28:874][798]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2024.06.27-10.40.29:022][798]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.27-10.40.29:076][798]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Platformer/UI/W_MainMenu" FILE="../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Content/Platformer/UI/W_MainMenu.uasset" SILENT=true
+[2024.06.27-10.40.29:081][798]LogSavePackage: Moving output files for package: /Game/Platformer/UI/W_MainMenu
+[2024.06.27-10.40.29:081][798]LogSavePackage: Moving '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Saved/W_MainMenu82E5BCAA4C3191DE12D9E0AB131EAA06.tmp' to '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Content/Platformer/UI/W_MainMenu.uasset'
+[2024.06.27-10.40.29:089][798]LogFileHelpers: InternalPromptForCheckoutAndSave took 67 ms (total: 1.16 sec)
+[2024.06.27-10.40.29:101][798]AssetCheck: New page: Asset Save: W_MainMenu
+[2024.06.27-10.40.29:101][798]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Platformer/UI/W_MainMenu.W_MainMenu
+[2024.06.27-10.40.51:185][  1]BlueprintLog: New page: Compile W_MainMenu
+[2024.06.27-10.40.51:208][  1]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2024.06.27-10.40.51:320][  1]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.27-10.40.51:366][  1]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Platformer/UI/W_MainMenu" FILE="../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Content/Platformer/UI/W_MainMenu.uasset" SILENT=true
+[2024.06.27-10.40.51:370][  1]LogSavePackage: Moving output files for package: /Game/Platformer/UI/W_MainMenu
+[2024.06.27-10.40.51:370][  1]LogSavePackage: Moving '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Saved/W_MainMenu9B6B72F64C903F3405BB68954B139F07.tmp' to '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Content/Platformer/UI/W_MainMenu.uasset'
+[2024.06.27-10.40.51:376][  1]LogFileHelpers: InternalPromptForCheckoutAndSave took 56 ms (total: 1.21 sec)
+[2024.06.27-10.40.51:384][  1]AssetCheck: New page: Asset Save: W_MainMenu
+[2024.06.27-10.40.51:384][  1]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Platformer/UI/W_MainMenu.W_MainMenu
+[2024.06.27-10.41.08:723][976]BlueprintLog: New page: Compile W_MainMenu
+[2024.06.27-10.41.08:753][976]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2024.06.27-10.41.08:892][976]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.27-10.41.08:930][976]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Platformer/UI/W_MainMenu" FILE="../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Content/Platformer/UI/W_MainMenu.uasset" SILENT=true
+[2024.06.27-10.41.08:933][976]LogSavePackage: Moving output files for package: /Game/Platformer/UI/W_MainMenu
+[2024.06.27-10.41.08:934][976]LogSavePackage: Moving '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Saved/W_MainMenuA72A4CFB4F407E08059FB480203F0A75.tmp' to '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Content/Platformer/UI/W_MainMenu.uasset'
+[2024.06.27-10.41.08:940][976]LogFileHelpers: InternalPromptForCheckoutAndSave took 47 ms (total: 1.26 sec)
+[2024.06.27-10.41.08:949][976]AssetCheck: New page: Asset Save: W_MainMenu
+[2024.06.27-10.41.08:949][976]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Platformer/UI/W_MainMenu.W_MainMenu
+[2024.06.27-10.41.15:869][369]BlueprintLog: New page: Compile W_MainMenu
+[2024.06.27-10.41.15:890][369]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2024.06.27-10.41.16:002][369]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.27-10.41.16:043][369]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Platformer/UI/W_MainMenu" FILE="../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Content/Platformer/UI/W_MainMenu.uasset" SILENT=true
+[2024.06.27-10.41.16:046][369]LogSavePackage: Moving output files for package: /Game/Platformer/UI/W_MainMenu
+[2024.06.27-10.41.16:046][369]LogSavePackage: Moving '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Saved/W_MainMenu35534933419F9C5CD9A66293140C27C6.tmp' to '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Content/Platformer/UI/W_MainMenu.uasset'
+[2024.06.27-10.41.16:052][369]LogFileHelpers: InternalPromptForCheckoutAndSave took 50 ms (total: 1.31 sec)
+[2024.06.27-10.41.16:060][369]AssetCheck: New page: Asset Save: W_MainMenu
+[2024.06.27-10.41.16:060][369]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Platformer/UI/W_MainMenu.W_MainMenu
+[2024.06.27-10.41.35:524][527]BlueprintLog: New page: Compile W_MainMenu
+[2024.06.27-10.41.35:547][527]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2024.06.27-10.41.35:659][527]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.27-10.41.35:687][527]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Platformer/UI/W_MainMenu" FILE="../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Content/Platformer/UI/W_MainMenu.uasset" SILENT=true
+[2024.06.27-10.41.35:691][527]LogSavePackage: Moving output files for package: /Game/Platformer/UI/W_MainMenu
+[2024.06.27-10.41.35:691][527]LogSavePackage: Moving '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Saved/W_MainMenu81E69994422C926A4CFF3A9166CBE9BF.tmp' to '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Content/Platformer/UI/W_MainMenu.uasset'
+[2024.06.27-10.41.35:696][527]LogFileHelpers: InternalPromptForCheckoutAndSave took 37 ms (total: 1.35 sec)
+[2024.06.27-10.41.35:705][527]AssetCheck: New page: Asset Save: W_MainMenu
+[2024.06.27-10.41.35:705][527]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Platformer/UI/W_MainMenu.W_MainMenu
+[2024.06.27-10.41.43:944][  3]BlueprintLog: New page: Compile W_MainMenu
+[2024.06.27-10.41.43:974][  3]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2024.06.27-10.41.44:089][  3]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.27-10.41.44:124][  3]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Platformer/UI/W_MainMenu" FILE="../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Content/Platformer/UI/W_MainMenu.uasset" SILENT=true
+[2024.06.27-10.41.44:128][  3]LogSavePackage: Moving output files for package: /Game/Platformer/UI/W_MainMenu
+[2024.06.27-10.41.44:128][  3]LogSavePackage: Moving '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Saved/W_MainMenuFFD6438E4BF811A38A032A81FBE229A0.tmp' to '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Content/Platformer/UI/W_MainMenu.uasset'
+[2024.06.27-10.41.44:133][  3]LogFileHelpers: InternalPromptForCheckoutAndSave took 44 ms (total: 1.39 sec)
+[2024.06.27-10.41.44:142][  3]AssetCheck: New page: Asset Save: W_MainMenu
+[2024.06.27-10.41.44:142][  3]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Platformer/UI/W_MainMenu.W_MainMenu
+[2024.06.27-10.42.14:477][813]BlueprintLog: New page: Compile W_MainMenu
+[2024.06.27-10.42.14:500][813]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2024.06.27-10.42.14:680][813]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.27-10.42.14:714][813]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Platformer/UI/W_MainMenu" FILE="../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Content/Platformer/UI/W_MainMenu.uasset" SILENT=true
+[2024.06.27-10.42.14:718][813]LogSavePackage: Moving output files for package: /Game/Platformer/UI/W_MainMenu
+[2024.06.27-10.42.14:719][813]LogSavePackage: Moving '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Saved/W_MainMenu958AE424428F7CF98350F58A6A50C08A.tmp' to '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Content/Platformer/UI/W_MainMenu.uasset'
+[2024.06.27-10.42.14:724][813]LogFileHelpers: InternalPromptForCheckoutAndSave took 44 ms (total: 1.44 sec)
+[2024.06.27-10.42.14:738][813]AssetCheck: New page: Asset Save: W_MainMenu
+[2024.06.27-10.42.14:738][813]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Platformer/UI/W_MainMenu.W_MainMenu
+[2024.06.27-10.42.21:609][222]BlueprintLog: New page: Compile W_MainMenu
+[2024.06.27-10.42.21:634][222]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2024.06.27-10.42.25:210][422]LogEditorTransaction: Undo Set Vector Property
+[2024.06.27-10.42.41:744][391]BlueprintLog: New page: Compile W_MainMenu
+[2024.06.27-10.42.41:766][391]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2024.06.27-10.42.41:945][391]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.27-10.42.41:993][391]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Platformer/UI/W_MainMenu" FILE="../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Content/Platformer/UI/W_MainMenu.uasset" SILENT=true
+[2024.06.27-10.42.41:997][391]LogSavePackage: Moving output files for package: /Game/Platformer/UI/W_MainMenu
+[2024.06.27-10.42.41:997][391]LogSavePackage: Moving '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Saved/W_MainMenu5183BE0F451C715E45B45385078DF4A3.tmp' to '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Content/Platformer/UI/W_MainMenu.uasset'
+[2024.06.27-10.42.42:003][391]LogFileHelpers: InternalPromptForCheckoutAndSave took 57 ms (total: 1.50 sec)
+[2024.06.27-10.42.42:016][391]AssetCheck: New page: Asset Save: W_MainMenu
+[2024.06.27-10.42.42:016][391]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Platformer/UI/W_MainMenu.W_MainMenu
+[2024.06.27-10.43.08:690][547]BlueprintLog: New page: Compile W_MainMenu
+[2024.06.27-10.43.08:714][547]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2024.06.27-10.43.08:896][547]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.27-10.43.08:929][547]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Platformer/UI/W_MainMenu" FILE="../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Content/Platformer/UI/W_MainMenu.uasset" SILENT=true
+[2024.06.27-10.43.08:934][547]LogSavePackage: Moving output files for package: /Game/Platformer/UI/W_MainMenu
+[2024.06.27-10.43.08:934][547]LogSavePackage: Moving '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Saved/W_MainMenuAC5929EC494F67617B8B08A8C1FDB6B3.tmp' to '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Content/Platformer/UI/W_MainMenu.uasset'
+[2024.06.27-10.43.08:941][547]LogFileHelpers: InternalPromptForCheckoutAndSave took 45 ms (total: 1.54 sec)
+[2024.06.27-10.43.08:954][547]AssetCheck: New page: Asset Save: W_MainMenu
+[2024.06.27-10.43.08:954][547]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Platformer/UI/W_MainMenu.W_MainMenu
+[2024.06.27-10.43.54:107][624]LogSlate: Window 'Color Picker' being destroyed
+[2024.06.27-10.44.00:133][870]BlueprintLog: New page: Compile W_MainMenu
+[2024.06.27-10.44.00:160][870]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2024.06.27-10.44.00:343][870]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.27-10.44.00:378][870]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Platformer/UI/W_MainMenu" FILE="../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Content/Platformer/UI/W_MainMenu.uasset" SILENT=true
+[2024.06.27-10.44.00:383][870]LogSavePackage: Moving output files for package: /Game/Platformer/UI/W_MainMenu
+[2024.06.27-10.44.00:384][870]LogSavePackage: Moving '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Saved/W_MainMenu700FAC904F0EF6B53A08CC93C3FC954E.tmp' to '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Content/Platformer/UI/W_MainMenu.uasset'
+[2024.06.27-10.44.00:389][870]LogFileHelpers: InternalPromptForCheckoutAndSave took 46 ms (total: 1.59 sec)
+[2024.06.27-10.44.00:402][870]AssetCheck: New page: Asset Save: W_MainMenu
+[2024.06.27-10.44.00:402][870]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Platformer/UI/W_MainMenu.W_MainMenu
+[2024.06.27-10.44.16:548][639]LogSlate: Window 'Color Picker' being destroyed
+[2024.06.27-10.44.17:472][691]LogSlate: Window 'Color Picker' being destroyed
+[2024.06.27-10.44.19:593][739]LogSlate: Window 'Color Picker' being destroyed
+[2024.06.27-10.44.34:715][375]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_CSZE_65536_LCF_false_ZCS_0_MCSO_0_END wave VR_grab...
+[2024.06.27-10.44.34:727][375]LogAudio: Display: Chunk sizes for SoundWave /Engine/VREditor/Sounds/VR_grab.VR_grab: Chunk0=28 bytes, Chunk1-N=256k
+[2024.06.27-10.44.44:582][621]BlueprintLog: New page: Compile W_MainMenu
+[2024.06.27-10.44.44:610][621]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2024.06.27-10.44.44:820][621]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.27-10.44.44:858][621]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Platformer/UI/W_MainMenu" FILE="../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Content/Platformer/UI/W_MainMenu.uasset" SILENT=true
+[2024.06.27-10.44.44:862][621]LogSavePackage: Moving output files for package: /Game/Platformer/UI/W_MainMenu
+[2024.06.27-10.44.44:862][621]LogSavePackage: Moving '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Saved/W_MainMenuAC95FC7943D13AB551E4E0AB14E0394E.tmp' to '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Content/Platformer/UI/W_MainMenu.uasset'
+[2024.06.27-10.44.44:870][621]LogFileHelpers: InternalPromptForCheckoutAndSave took 50 ms (total: 1.64 sec)
+[2024.06.27-10.44.44:885][621]AssetCheck: New page: Asset Save: W_MainMenu
+[2024.06.27-10.44.44:885][621]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Platformer/UI/W_MainMenu.W_MainMenu
+[2024.06.27-10.45.04:402][774]LogSlate: Last resort fallback font was requested. Font: '/Game/Platformer/Fonts/ArcadeClassic.ArcadeClassic', Character: '_ (U+005f)'
+[2024.06.27-10.45.04:414][774]LogSlate: Took 0.011688 seconds to synchronously load lazily loaded font '../../../Engine/Content/SlateDebug/Fonts/LastResort.ttf' (5269K)
+[2024.06.27-10.45.14:687][295]BlueprintLog: New page: Compile W_MainMenu
+[2024.06.27-10.45.14:714][295]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2024.06.27-10.45.14:859][295]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.27-10.45.14:899][295]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Platformer/UI/W_MainMenu" FILE="../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Content/Platformer/UI/W_MainMenu.uasset" SILENT=true
+[2024.06.27-10.45.14:903][295]LogSavePackage: Moving output files for package: /Game/Platformer/UI/W_MainMenu
+[2024.06.27-10.45.14:904][295]LogSavePackage: Moving '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Saved/W_MainMenu61C9A4434D52A9F00A3B1786D1F8A534.tmp' to '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Content/Platformer/UI/W_MainMenu.uasset'
+[2024.06.27-10.45.14:910][295]LogFileHelpers: InternalPromptForCheckoutAndSave took 51 ms (total: 1.69 sec)
+[2024.06.27-10.45.14:919][295]AssetCheck: New page: Asset Save: W_MainMenu
+[2024.06.27-10.45.14:920][295]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Platformer/UI/W_MainMenu.W_MainMenu
+[2024.06.27-10.45.32:747][924]BlueprintLog: New page: Compile W_MainMenu
+[2024.06.27-10.45.32:773][924]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2024.06.27-10.45.32:900][924]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.27-10.45.32:948][924]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Platformer/UI/W_MainMenu" FILE="../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Content/Platformer/UI/W_MainMenu.uasset" SILENT=true
+[2024.06.27-10.45.32:952][924]LogSavePackage: Moving output files for package: /Game/Platformer/UI/W_MainMenu
+[2024.06.27-10.45.32:953][924]LogSavePackage: Moving '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Saved/W_MainMenu419DE3CE41439FBC12256EA670E67368.tmp' to '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Content/Platformer/UI/W_MainMenu.uasset'
+[2024.06.27-10.45.32:958][924]LogFileHelpers: InternalPromptForCheckoutAndSave took 58 ms (total: 1.75 sec)
+[2024.06.27-10.45.32:968][924]AssetCheck: New page: Asset Save: W_MainMenu
+[2024.06.27-10.45.32:968][924]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Platformer/UI/W_MainMenu.W_MainMenu
+[2024.06.27-10.45.45:684][683]BlueprintLog: New page: Compile W_MainMenu
+[2024.06.27-10.45.45:712][683]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2024.06.27-10.45.45:866][683]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.27-10.45.45:909][683]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Platformer/UI/W_MainMenu" FILE="../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Content/Platformer/UI/W_MainMenu.uasset" SILENT=true
+[2024.06.27-10.45.45:914][683]LogSavePackage: Moving output files for package: /Game/Platformer/UI/W_MainMenu
+[2024.06.27-10.45.45:914][683]LogSavePackage: Moving '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Saved/W_MainMenu7F9B846646488C4BFD725E937B4353BF.tmp' to '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Content/Platformer/UI/W_MainMenu.uasset'
+[2024.06.27-10.45.45:920][683]LogFileHelpers: InternalPromptForCheckoutAndSave took 52 ms (total: 1.80 sec)
+[2024.06.27-10.45.45:928][683]AssetCheck: New page: Asset Save: W_MainMenu
+[2024.06.27-10.45.45:928][683]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Platformer/UI/W_MainMenu.W_MainMenu
+[2024.06.27-10.45.59:630][386]BlueprintLog: New page: Compile W_MainMenu
+[2024.06.27-10.45.59:650][386]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2024.06.27-10.45.59:658][386]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.27-10.45.59:703][386]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Platformer/UI/W_MainMenu" FILE="../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Content/Platformer/UI/W_MainMenu.uasset" SILENT=true
+[2024.06.27-10.45.59:707][386]LogSavePackage: Moving output files for package: /Game/Platformer/UI/W_MainMenu
+[2024.06.27-10.45.59:707][386]LogSavePackage: Moving '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Saved/W_MainMenu82C136554659498A847A04B210F5808C.tmp' to '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Content/Platformer/UI/W_MainMenu.uasset'
+[2024.06.27-10.45.59:713][386]LogFileHelpers: InternalPromptForCheckoutAndSave took 53 ms (total: 1.85 sec)
+[2024.06.27-10.45.59:715][386]AssetCheck: New page: Asset Save: W_MainMenu
+[2024.06.27-10.45.59:715][386]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Platformer/UI/W_MainMenu.W_MainMenu
+[2024.06.27-10.46.16:992][227]BlueprintLog: New page: Compile W_MainMenu
+[2024.06.27-10.46.17:013][227]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2024.06.27-10.46.17:022][227]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.27-10.46.17:054][227]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Platformer/UI/W_MainMenu" FILE="../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Content/Platformer/UI/W_MainMenu.uasset" SILENT=true
+[2024.06.27-10.46.17:058][227]LogSavePackage: Moving output files for package: /Game/Platformer/UI/W_MainMenu
+[2024.06.27-10.46.17:058][227]LogSavePackage: Moving '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Saved/W_MainMenu5E6D32D343FA0F8263027497C794FFB9.tmp' to '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Content/Platformer/UI/W_MainMenu.uasset'
+[2024.06.27-10.46.17:066][227]LogFileHelpers: InternalPromptForCheckoutAndSave took 43 ms (total: 1.90 sec)
+[2024.06.27-10.46.17:067][227]AssetCheck: New page: Asset Save: W_MainMenu
+[2024.06.27-10.46.17:067][227]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Platformer/UI/W_MainMenu.W_MainMenu
+[2024.06.27-10.46.22:400][542]BlueprintLog: New page: Compile W_MainMenu
+[2024.06.27-10.46.22:422][542]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2024.06.27-10.46.22:432][542]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.27-10.46.22:472][542]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Platformer/UI/W_MainMenu" FILE="../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Content/Platformer/UI/W_MainMenu.uasset" SILENT=true
+[2024.06.27-10.46.22:476][542]LogSavePackage: Moving output files for package: /Game/Platformer/UI/W_MainMenu
+[2024.06.27-10.46.22:476][542]LogSavePackage: Moving '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Saved/W_MainMenu18E9DE1F4FC71EF23E84A1879E0576E8.tmp' to '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Content/Platformer/UI/W_MainMenu.uasset'
+[2024.06.27-10.46.22:483][542]LogFileHelpers: InternalPromptForCheckoutAndSave took 52 ms (total: 1.95 sec)
+[2024.06.27-10.46.22:485][542]AssetCheck: New page: Asset Save: W_MainMenu
+[2024.06.27-10.46.22:485][542]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Platformer/UI/W_MainMenu.W_MainMenu
+[2024.06.27-10.47.03:738][788]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.06.27-10.47.03:804][789]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.06.27-10.47.03:830][790]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.06.27-10.47.03:879][793]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.06.27-10.47.03:929][794]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.06.27-10.47.03:955][795]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.06.27-10.47.04:004][798]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.06.27-10.47.04:057][799]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.06.27-10.47.04:092][801]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.06.27-10.47.04:116][802]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.06.27-10.47.04:142][803]LogShaderCompilers: Display: ================================================
+[2024.06.27-10.47.04:142][803]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.06.27-10.47.04:142][803]LogShaderCompilers: Display: Total job queries 61, among them cache hits 7 (11.48%)
+[2024.06.27-10.47.04:142][803]LogShaderCompilers: Display: Tracking 54 distinct input hashes that result in 45 distinct outputs (83.33%)
+[2024.06.27-10.47.04:142][803]LogShaderCompilers: Display: RAM used: 1.42 MiB of 819.20 MiB budget. Usage: 0.17%
+[2024.06.27-10.47.04:142][803]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.06.27-10.47.04:142][803]LogShaderCompilers: Display: Shaders Compiled: 50
+[2024.06.27-10.47.04:142][803]LogShaderCompilers: Display: Jobs assigned 50, completed 50 (100%)
+[2024.06.27-10.47.04:142][803]LogShaderCompilers: Display: Average time worker was idle: 76.49 s
+[2024.06.27-10.47.04:143][803]LogShaderCompilers: Display: Time job spent in pending queue: average 1.33 s, longest 4.39 s
+[2024.06.27-10.47.04:143][803]LogShaderCompilers: Display: Job execution time: average 1.90 s, max 4.79 s
+[2024.06.27-10.47.04:143][803]LogShaderCompilers: Display: Job life time (pending + execution): average 3.24 s, max 5.11
+[2024.06.27-10.47.04:143][803]LogShaderCompilers: Display: Shader code size: average 42.128 KiB, min 31.789 KiB, max 64.359 KiB
+[2024.06.27-10.47.04:143][803]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 13.09 s
+[2024.06.27-10.47.04:143][803]LogShaderCompilers: Display: Jobs were issued in 32 batches (only local compilation was used), average 1.56 jobs/batch
+[2024.06.27-10.47.04:143][803]LogShaderCompilers: Display: Average processing rate: 3.82 jobs/sec
+[2024.06.27-10.47.04:143][803]LogShaderCompilers: Display: Total thread time: 30.295 s
+[2024.06.27-10.47.04:143][803]LogShaderCompilers: Display: Total thread preprocess time: 2.516 s
+[2024.06.27-10.47.04:143][803]LogShaderCompilers: Display: Percentage time preprocessing: 8.31%
+[2024.06.27-10.47.04:143][803]LogShaderCompilers: Display: Effective parallelization: 2.31 (times faster than compiling all shaders on one thread). Compare with number of workers: 4
+[2024.06.27-10.47.04:143][803]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.06.27-10.47.04:143][803]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap (compiled    2 times, average 1.45 sec, max 2.34 sec, min 0.56 sec)
+[2024.06.27-10.47.04:143][803]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    3 times, average 1.30 sec, max 3.02 sec, min 0.41 sec)
+[2024.06.27-10.47.04:143][803]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled    3 times, average 0.67 sec, max 1.57 sec, min 0.18 sec)
+[2024.06.27-10.47.04:143][803]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    2 times, average 0.64 sec, max 0.84 sec, min 0.44 sec)
+[2024.06.27-10.47.04:143][803]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    4 times, average 0.61 sec, max 0.89 sec, min 0.48 sec)
+[2024.06.27-10.47.04:143][803]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.06.27-10.47.04:143][803]LogShaderCompilers: Display:                                                 FLumenCardVS - 12.91% of total time (compiled    3 times, average 1.30 sec, max 3.02 sec, min 0.41 sec)
+[2024.06.27-10.47.04:143][803]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap - 9.56% of total time (compiled    2 times, average 1.45 sec, max 2.34 sec, min 0.56 sec)
+[2024.06.27-10.47.04:143][803]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 8.05% of total time (compiled    4 times, average 0.61 sec, max 0.89 sec, min 0.48 sec)
+[2024.06.27-10.47.04:143][803]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 7.35% of total time (compiled    4 times, average 0.56 sec, max 0.77 sec, min 0.45 sec)
+[2024.06.27-10.47.04:143][803]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 6.61% of total time (compiled    3 times, average 0.67 sec, max 1.57 sec, min 0.18 sec)
+[2024.06.27-10.47.04:143][803]LogShaderCompilers: Display: ================================================
+[2024.06.27-10.47.04:922][844]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Platformer/Level/LV_MainMenu.LV_MainMenu:PersistentLevel.LV_MainMenu
+[2024.06.27-10.47.04:923][844]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.06.27-10.47.04:923][844]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.06.27-10.47.12:326][ 11]BlueprintLog: New page: Compile LV_MainMenu
+[2024.06.27-10.47.12:350][ 11]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2024.06.27-10.47.12:358][ 11]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.27-10.47.12:426][ 11]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2024.06.27-10.47.12:432][ 11]LogSavePackage: Moving output files for package: /Game/Platformer/Level/LV_MainMenu
+[2024.06.27-10.47.12:432][ 11]LogSavePackage: Moving '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Saved/LV_MainMenu769975AA4F0D93467835CA960515349C.tmp' to '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Content/Platformer/Level/LV_MainMenu.umap'
+[2024.06.27-10.47.12:439][ 11]LogFileHelpers: Saving map 'LV_MainMenu' took 0.045
+[2024.06.27-10.47.12:447][ 11]LogFileHelpers: InternalPromptForCheckoutAndSave took 88 ms (total: 2.04 sec)
+[2024.06.27-10.47.12:448][ 11]AssetCheck: New page: Asset Save: LV_MainMenu
+[2024.06.27-10.47.12:448][ 11]LogContentValidation: Display: Validating /Script/Engine.World /Game/Platformer/Level/LV_MainMenu.LV_MainMenu
+[2024.06.27-10.47.35:794][368]BlueprintLog: New page: Compile LV_MainMenu
+[2024.06.27-10.47.35:826][368]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2024.06.27-10.47.35:837][368]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.27-10.47.35:900][368]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2024.06.27-10.47.35:906][368]LogSavePackage: Moving output files for package: /Game/Platformer/Level/LV_MainMenu
+[2024.06.27-10.47.35:906][368]LogSavePackage: Moving '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Saved/LV_MainMenu71910BAD463DCF5CF77D42B998159F58.tmp' to '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Content/Platformer/Level/LV_MainMenu.umap'
+[2024.06.27-10.47.35:913][368]LogFileHelpers: Saving map 'LV_MainMenu' took 0.049
+[2024.06.27-10.47.35:921][368]LogFileHelpers: InternalPromptForCheckoutAndSave took 85 ms (total: 2.12 sec)
+[2024.06.27-10.47.35:923][368]AssetCheck: New page: Asset Save: LV_MainMenu
+[2024.06.27-10.47.35:923][368]LogContentValidation: Display: Validating /Script/Engine.World /Game/Platformer/Level/LV_MainMenu.LV_MainMenu
+[2024.06.27-10.47.37:236][441]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.27-10.47.37:296][441]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2024.06.27-10.47.37:302][441]LogSavePackage: Moving output files for package: /Game/Platformer/Level/LV_MainMenu
+[2024.06.27-10.47.37:302][441]LogSavePackage: Moving '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Saved/LV_MainMenuC0A8EDEF4BC09B6F9E94989D3B33A630.tmp' to '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Content/Platformer/Level/LV_MainMenu.umap'
+[2024.06.27-10.47.37:308][441]LogFileHelpers: Saving map 'LV_MainMenu' took 0.047
+[2024.06.27-10.47.37:318][441]LogFileHelpers: InternalPromptForCheckoutAndSave took 82 ms (total: 2.21 sec)
+[2024.06.27-10.47.37:320][441]AssetCheck: New page: Asset Save: LV_MainMenu
+[2024.06.27-10.47.37:320][441]LogContentValidation: Display: Validating /Script/Engine.World /Game/Platformer/Level/LV_MainMenu.LV_MainMenu
+[2024.06.27-10.48.02:037][875]BlueprintLog: New page: Compile LV_MainMenu
+[2024.06.27-10.48.02:062][875]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2024.06.27-10.48.02:071][875]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.27-10.48.02:138][875]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2024.06.27-10.48.02:144][875]LogSavePackage: Moving output files for package: /Game/Platformer/Level/LV_MainMenu
+[2024.06.27-10.48.02:144][875]LogSavePackage: Moving '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Saved/LV_MainMenu0BDA239442176F85A7639F8BD9C915EE.tmp' to '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Content/Platformer/Level/LV_MainMenu.umap'
+[2024.06.27-10.48.02:151][875]LogFileHelpers: Saving map 'LV_MainMenu' took 0.049
+[2024.06.27-10.48.02:162][875]LogFileHelpers: InternalPromptForCheckoutAndSave took 89 ms (total: 2.30 sec)
+[2024.06.27-10.48.02:164][875]AssetCheck: New page: Asset Save: LV_MainMenu
+[2024.06.27-10.48.02:164][875]LogContentValidation: Display: Validating /Script/Engine.World /Game/Platformer/Level/LV_MainMenu.LV_MainMenu
+[2024.06.27-10.48.33:093][515]BlueprintLog: New page: Compile LV_MainMenu
+[2024.06.27-10.48.33:130][515]LogUObjectHash: Compacting FUObjectHashTables data took   2.96ms
+[2024.06.27-10.48.33:143][515]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.27-10.48.33:227][515]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2024.06.27-10.48.33:236][515]LogSavePackage: Moving output files for package: /Game/Platformer/Level/LV_MainMenu
+[2024.06.27-10.48.33:236][515]LogSavePackage: Moving '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Saved/LV_MainMenu75459F884713836B5A5B64A4F0E75BB5.tmp' to '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Content/Platformer/Level/LV_MainMenu.umap'
+[2024.06.27-10.48.33:245][515]LogFileHelpers: Saving map 'LV_MainMenu' took 0.063
+[2024.06.27-10.48.33:255][515]LogFileHelpers: InternalPromptForCheckoutAndSave took 112 ms (total: 2.41 sec)
+[2024.06.27-10.48.33:258][515]AssetCheck: New page: Asset Save: LV_MainMenu
+[2024.06.27-10.48.33:258][515]LogContentValidation: Display: Validating /Script/Engine.World /Game/Platformer/Level/LV_MainMenu.LV_MainMenu
+[2024.06.27-10.48.34:498][581]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2024.06.27-10.49.00:921][885]LogSlate: External Image Picker: DecompressImage failed
+[2024.06.27-10.49.55:373][823]LogEditorViewport: Clicking Background
+[2024.06.27-10.50.24:816][229]LogViewport: Scene viewport resized to 1059x659, mode Windowed.
+[2024.06.27-10.50.24:836][230]LogViewport: Scene viewport resized to 1057x659, mode Windowed.
+[2024.06.27-10.50.24:854][231]LogViewport: Scene viewport resized to 1052x659, mode Windowed.
+[2024.06.27-10.50.24:871][232]LogViewport: Scene viewport resized to 1048x659, mode Windowed.
+[2024.06.27-10.50.24:888][233]LogViewport: Scene viewport resized to 1042x659, mode Windowed.
+[2024.06.27-10.50.24:904][234]LogViewport: Scene viewport resized to 1038x659, mode Windowed.
+[2024.06.27-10.50.24:921][235]LogViewport: Scene viewport resized to 1035x659, mode Windowed.
+[2024.06.27-10.50.24:938][236]LogViewport: Scene viewport resized to 1033x659, mode Windowed.
+[2024.06.27-10.50.24:953][237]LogViewport: Scene viewport resized to 1032x659, mode Windowed.
+[2024.06.27-10.50.24:970][238]LogViewport: Scene viewport resized to 1030x659, mode Windowed.
+[2024.06.27-10.50.25:136][248]LogViewport: Scene viewport resized to 1028x659, mode Windowed.
+[2024.06.27-10.50.25:154][249]LogViewport: Scene viewport resized to 1026x659, mode Windowed.
+[2024.06.27-10.50.25:172][250]LogViewport: Scene viewport resized to 1025x659, mode Windowed.
+[2024.06.27-10.50.25:188][251]LogViewport: Scene viewport resized to 1024x659, mode Windowed.
+[2024.06.27-10.50.25:804][288]LogViewport: Scene viewport resized to 1023x659, mode Windowed.
+[2024.06.27-10.50.25:820][289]LogViewport: Scene viewport resized to 1022x659, mode Windowed.
+[2024.06.27-10.50.25:867][290]LogViewport: Scene viewport resized to 1014x659, mode Windowed.
+[2024.06.27-10.50.25:885][291]LogViewport: Scene viewport resized to 1011x659, mode Windowed.
+[2024.06.27-10.50.25:903][292]LogViewport: Scene viewport resized to 1006x659, mode Windowed.
+[2024.06.27-10.50.25:919][293]LogViewport: Scene viewport resized to 1002x659, mode Windowed.
+[2024.06.27-10.50.25:935][294]LogViewport: Scene viewport resized to 997x659, mode Windowed.
+[2024.06.27-10.50.25:952][295]LogViewport: Scene viewport resized to 994x659, mode Windowed.
+[2024.06.27-10.50.25:969][296]LogViewport: Scene viewport resized to 991x659, mode Windowed.
+[2024.06.27-10.50.25:987][297]LogViewport: Scene viewport resized to 988x659, mode Windowed.
+[2024.06.27-10.50.26:007][298]LogViewport: Scene viewport resized to 987x659, mode Windowed.
+[2024.06.27-10.50.26:025][299]LogViewport: Scene viewport resized to 986x659, mode Windowed.
+[2024.06.27-10.50.26:056][301]LogViewport: Scene viewport resized to 985x659, mode Windowed.
+[2024.06.27-10.50.26:140][306]LogViewport: Scene viewport resized to 983x659, mode Windowed.
+[2024.06.27-10.50.26:158][307]LogViewport: Scene viewport resized to 982x659, mode Windowed.
+[2024.06.27-10.50.26:176][308]LogViewport: Scene viewport resized to 981x659, mode Windowed.
+[2024.06.27-10.50.26:323][317]LogViewport: Scene viewport resized to 982x659, mode Windowed.
+[2024.06.27-10.50.26:343][318]LogViewport: Scene viewport resized to 983x659, mode Windowed.
+[2024.06.27-10.50.26:363][319]LogViewport: Scene viewport resized to 984x659, mode Windowed.
+[2024.06.27-10.50.26:393][321]LogViewport: Scene viewport resized to 985x659, mode Windowed.
+[2024.06.27-10.50.26:411][322]LogViewport: Scene viewport resized to 986x659, mode Windowed.
+[2024.06.27-10.50.26:429][323]LogViewport: Scene viewport resized to 989x659, mode Windowed.
+[2024.06.27-10.50.26:449][324]LogViewport: Scene viewport resized to 991x659, mode Windowed.
+[2024.06.27-10.50.26:466][325]LogViewport: Scene viewport resized to 993x659, mode Windowed.
+[2024.06.27-10.50.26:498][327]LogViewport: Scene viewport resized to 994x659, mode Windowed.
+[2024.06.27-10.50.26:581][332]LogViewport: Scene viewport resized to 995x659, mode Windowed.
+[2024.06.27-10.50.26:630][335]LogViewport: Scene viewport resized to 996x659, mode Windowed.
+[2024.06.27-10.50.26:664][337]LogViewport: Scene viewport resized to 997x659, mode Windowed.
+[2024.06.27-10.50.26:683][338]LogViewport: Scene viewport resized to 998x659, mode Windowed.
+[2024.06.27-10.50.26:700][339]LogViewport: Scene viewport resized to 999x659, mode Windowed.
+[2024.06.27-10.50.26:749][342]LogViewport: Scene viewport resized to 1001x659, mode Windowed.
+[2024.06.27-10.51.02:526][431]LogSlate: Window 'Create New GameMode' being destroyed
+[2024.06.27-10.51.03:707][490]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.27-10.51.03:796][490]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2024.06.27-10.51.03:803][490]LogSavePackage: Moving output files for package: /Game/Platformer/Level/LV_MainMenu
+[2024.06.27-10.51.03:804][490]LogSavePackage: Moving '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Saved/LV_MainMenuEC1841BB4B0D57F5261C54A8732D0167.tmp' to '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Content/Platformer/Level/LV_MainMenu.umap'
+[2024.06.27-10.51.03:813][490]LogFileHelpers: Saving map 'LV_MainMenu' took 0.066
+[2024.06.27-10.51.03:823][490]LogFileHelpers: InternalPromptForCheckoutAndSave took 116 ms (total: 2.52 sec)
+[2024.06.27-10.51.03:825][490]AssetCheck: New page: Asset Save: LV_MainMenu
+[2024.06.27-10.51.03:825][490]LogContentValidation: Display: Validating /Script/Engine.World /Game/Platformer/Level/LV_MainMenu.LV_MainMenu
+[2024.06.27-10.51.04:265][516]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.27-10.51.04:373][516]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2024.06.27-10.51.04:373][516]LogSavePackage: Moving '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Saved/BP_ThirdPersonCharacterDE43571D47148EF4D49C279954651ADB.tmp' to '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2024.06.27-10.51.04:386][516]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonGameMode
+[2024.06.27-10.51.04:386][516]LogSavePackage: Moving '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Saved/BP_ThirdPersonGameModeA60019AF4135BCB6C78AA29BE0394090.tmp' to '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset'
+[2024.06.27-10.51.04:394][516]LogFileHelpers: InternalPromptForCheckoutAndSave took 129 ms (total: 2.65 sec)
+[2024.06.27-10.51.04:397][516]AssetCheck: New page: Asset Save: multiple assets
+[2024.06.27-10.51.04:397][516]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2024.06.27-10.51.04:397][516]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.BP_ThirdPersonGameMode
+[2024.06.27-10.51.07:856][610]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.06.27-10.51.07:863][610]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.06.27-10.51.07:863][610]PIE: New page: PIE session: LV_MainMenu (27 Jun 2024, 2:51:07 am)
+[2024.06.27-10.51.07:863][610]LogPlayLevel: Creating play world package: /Game/Platformer/Level/UEDPIE_0_LV_MainMenu
+[2024.06.27-10.51.07:865][610]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001754s)
+[2024.06.27-10.51.07:865][610]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Platformer/Level/LV_MainMenu.LV_MainMenu to /Game/Platformer/Level/UEDPIE_0_LV_MainMenu.LV_MainMenu (0.001831s)
+[2024.06.27-10.51.07:879][610]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2024.06.27-10.51.07:880][610]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.06.27-10.51.07:880][610]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.06.27-10.51.07:881][610]LogAIModule: Creating AISystem for world LV_MainMenu
+[2024.06.27-10.51.07:881][610]LogPlayLevel: PIE: World Init took: (0.001518s)
+[2024.06.27-10.51.07:881][610]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2024.06.27-10.51.07:881][610]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.06.27-10.51.07:881][610]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.06.27-10.51.07:881][610]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.06.27-10.51.07:881][610]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.06.27-10.51.07:881][610]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.06.27-10.51.07:881][610]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.06.27-10.51.07:881][610]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.06.27-10.51.07:881][610]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.06.27-10.51.07:882][610]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.06.27-10.51.07:882][610]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.06.27-10.51.07:882][610]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.06.27-10.51.07:884][610]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.06.27-10.51.07:991][610]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.06.27-10.51.07:992][610]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.06.27-10.51.07:992][610]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.06.27-10.51.07:992][610]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.06.27-10.51.07:993][610]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2024.06.27-10.51.07:993][610]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2024.06.27-10.51.07:994][610]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2024.06.27-10.51.07:994][610]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2024.06.27-10.51.07:995][610]LogInit: FAudioDevice initialized with ID 3.
+[2024.06.27-10.51.07:995][610]LogAudio: Display: Audio Device (ID: 3) registered with world 'LV_MainMenu'.
+[2024.06.27-10.51.07:995][610]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2024.06.27-10.51.08:006][610]LogLoad: Game class is 'BP_MainMenuGameMode_C'
+[2024.06.27-10.51.08:007][610]LogWorld: Bringing World /Game/Platformer/Level/UEDPIE_0_LV_MainMenu.LV_MainMenu up for play (max tick rate 60) at 2024.06.27-06.51.08
+[2024.06.27-10.51.08:007][610]LogWorld: Bringing up level for play took: 0.000915
+[2024.06.27-10.51.08:010][610]LogOnline: OSS: Created online subsystem instance for: :Context_24
+[2024.06.27-10.51.08:013][610]PIE: Server logged in
+[2024.06.27-10.51.08:014][610]PIE: Play in editor total start time 0.151 seconds.
+[2024.06.27-10.51.08:017][610]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'Starter_Music_Cue'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2024.06.27-10.51.12:113][816]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.06.27-10.51.12:113][816]LogWorld: BeginTearingDown for /Game/Platformer/Level/UEDPIE_0_LV_MainMenu
+[2024.06.27-10.51.12:114][816]LogWorld: UWorld::CleanupWorld for LV_MainMenu, bSessionEnded=true, bCleanupResources=true
+[2024.06.27-10.51.12:114][816]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.27-10.51.12:119][816]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.06.27-10.51.12:124][816]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.27-10.51.12:136][816]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.06.27-10.51.12:136][816]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2024.06.27-10.51.12:136][816]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2024.06.27-10.51.12:138][816]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2024.06.27-10.51.12:146][816]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.06.27-10.51.12:149][816]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2024.06.27-10.51.12:184][818]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2024.06.27-10.51.34:131][561]BlueprintLog: New page: Compile W_MainMenu
+[2024.06.27-10.51.34:162][561]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2024.06.27-10.51.34:178][561]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.27-10.51.34:226][561]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Platformer/UI/W_MainMenu" FILE="../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Content/Platformer/UI/W_MainMenu.uasset" SILENT=true
+[2024.06.27-10.51.34:230][561]LogSavePackage: Moving output files for package: /Game/Platformer/UI/W_MainMenu
+[2024.06.27-10.51.34:230][561]LogSavePackage: Moving '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Saved/W_MainMenu87ADF0C04F88DCA55D5D3A885E754628.tmp' to '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Content/Platformer/UI/W_MainMenu.uasset'
+[2024.06.27-10.51.34:239][561]LogFileHelpers: InternalPromptForCheckoutAndSave took 60 ms (total: 2.71 sec)
+[2024.06.27-10.51.34:239][561]AssetCheck: New page: Asset Save: W_MainMenu
+[2024.06.27-10.51.34:239][561]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Platformer/UI/W_MainMenu.W_MainMenu
+[2024.06.27-10.52.14:750][954]BlueprintLog: New page: Compile W_MainMenu
+[2024.06.27-10.52.14:775][954]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2024.06.27-10.52.14:789][954]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.27-10.52.14:825][954]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Platformer/UI/W_MainMenu" FILE="../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Content/Platformer/UI/W_MainMenu.uasset" SILENT=true
+[2024.06.27-10.52.14:829][954]LogSavePackage: Moving output files for package: /Game/Platformer/UI/W_MainMenu
+[2024.06.27-10.52.14:831][954]LogSavePackage: Moving '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Saved/W_MainMenuFE183CAB471C49729A4710AAE65DB809.tmp' to '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Content/Platformer/UI/W_MainMenu.uasset'
+[2024.06.27-10.52.14:838][954]LogFileHelpers: InternalPromptForCheckoutAndSave took 49 ms (total: 2.76 sec)
+[2024.06.27-10.52.14:840][954]AssetCheck: New page: Asset Save: W_MainMenu
+[2024.06.27-10.52.14:840][954]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Platformer/UI/W_MainMenu.W_MainMenu
+[2024.06.27-10.52.25:391][580]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.06.27-10.52.25:397][580]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.06.27-10.52.25:397][580]PIE: New page: PIE session: LV_MainMenu (27 Jun 2024, 2:52:25 am)
+[2024.06.27-10.52.25:397][580]LogPlayLevel: Creating play world package: /Game/Platformer/Level/UEDPIE_0_LV_MainMenu
+[2024.06.27-10.52.25:399][580]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001374s)
+[2024.06.27-10.52.25:399][580]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Platformer/Level/LV_MainMenu.LV_MainMenu to /Game/Platformer/Level/UEDPIE_0_LV_MainMenu.LV_MainMenu (0.001423s)
+[2024.06.27-10.52.25:413][580]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2024.06.27-10.52.25:415][580]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.06.27-10.52.25:415][580]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.06.27-10.52.25:416][580]LogAIModule: Creating AISystem for world LV_MainMenu
+[2024.06.27-10.52.25:416][580]LogPlayLevel: PIE: World Init took: (0.001106s)
+[2024.06.27-10.52.25:416][580]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2024.06.27-10.52.25:416][580]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.06.27-10.52.25:416][580]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.06.27-10.52.25:416][580]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.06.27-10.52.25:416][580]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.06.27-10.52.25:416][580]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.06.27-10.52.25:416][580]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.06.27-10.52.25:416][580]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.06.27-10.52.25:416][580]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.06.27-10.52.25:417][580]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.06.27-10.52.25:417][580]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.06.27-10.52.25:417][580]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.06.27-10.52.25:419][580]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.06.27-10.52.25:528][580]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.06.27-10.52.25:528][580]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.06.27-10.52.25:528][580]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.06.27-10.52.25:528][580]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.06.27-10.52.25:529][580]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2024.06.27-10.52.25:529][580]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2024.06.27-10.52.25:531][580]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2024.06.27-10.52.25:531][580]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2024.06.27-10.52.25:531][580]LogInit: FAudioDevice initialized with ID 4.
+[2024.06.27-10.52.25:531][580]LogAudio: Display: Audio Device (ID: 4) registered with world 'LV_MainMenu'.
+[2024.06.27-10.52.25:531][580]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2024.06.27-10.52.25:534][580]LogLoad: Game class is 'BP_MainMenuGameMode_C'
+[2024.06.27-10.52.25:534][580]LogWorld: Bringing World /Game/Platformer/Level/UEDPIE_0_LV_MainMenu.LV_MainMenu up for play (max tick rate 60) at 2024.06.27-06.52.25
+[2024.06.27-10.52.25:534][580]LogWorld: Bringing up level for play took: 0.000373
+[2024.06.27-10.52.25:537][580]LogOnline: OSS: Created online subsystem instance for: :Context_25
+[2024.06.27-10.52.25:538][580]PIE: Server logged in
+[2024.06.27-10.52.25:539][580]PIE: Play in editor total start time 0.142 seconds.
+[2024.06.27-10.52.25:542][580]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'Starter_Music_Cue'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2024.06.27-10.52.27:045][666]LogNet: Browse: /Game/Platformer/Level/LV_01
+[2024.06.27-10.52.27:046][666]LogLoad: LoadMap: /Game/Platformer/Level/LV_01
+[2024.06.27-10.52.27:046][666]LogWorld: BeginTearingDown for /Game/Platformer/Level/UEDPIE_0_LV_MainMenu
+[2024.06.27-10.52.27:047][666]LogWorld: UWorld::CleanupWorld for LV_MainMenu, bSessionEnded=true, bCleanupResources=true
+[2024.06.27-10.52.27:047][666]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.27-10.52.27:097][666]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.06.27-10.52.27:099][666]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2024.06.27-10.52.27:117][666]LogAudio: Display: Audio Device (ID: 4) registered with world 'LV_01'.
+[2024.06.27-10.52.27:117][666]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.06.27-10.52.27:117][666]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.06.27-10.52.27:117][666]LogAIModule: Creating AISystem for world LV_01
+[2024.06.27-10.52.27:118][666]LogPlayLevel: PIE: World Init took: (0.001096s)
+[2024.06.27-10.52.27:118][666]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.06.27-10.52.27:133][666]LogWorld: Bringing World /Game/Platformer/Level/UEDPIE_0_LV_01.LV_01 up for play (max tick rate 60) at 2024.06.27-06.52.27
+[2024.06.27-10.52.27:134][666]LogWorld: Bringing up level for play took: 0.015726
+[2024.06.27-10.52.27:143][666]LogLoad: Took 0.096977 seconds to LoadMap(/Game/Platformer/Level/LV_01)
+[2024.06.27-10.52.30:093][827]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.06.27-10.52.30:093][827]LogWorld: BeginTearingDown for /Game/Platformer/Level/UEDPIE_0_LV_01
+[2024.06.27-10.52.30:093][827]LogWorld: UWorld::CleanupWorld for LV_01, bSessionEnded=true, bCleanupResources=true
+[2024.06.27-10.52.30:094][827]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.27-10.52.30:098][827]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.06.27-10.52.30:103][827]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.27-10.52.30:119][827]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.06.27-10.52.30:119][827]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2024.06.27-10.52.30:119][827]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2024.06.27-10.52.30:121][827]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2024.06.27-10.52.30:127][827]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.06.27-10.52.30:131][827]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2024.06.27-10.52.30:183][829]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2024.06.27-10.54.50:365][462]LogDerivedDataCache: C:/Users/Donovan/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:01:00.316 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 31749 files in 32528 folders with total size 1718 MiB.
+[2024.06.27-11.03.07:218][722]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2024.06.27-11.03.07:220][722]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Platformer/Level/LV_MainMenu' took 0.023
+[2024.06.27-11.03.07:221][722]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Platformer/UI/W_MainMenu] ([2] browsable assets)...
+[2024.06.27-11.03.07:227][722]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Platformer/UI/W_MainMenu.W_MainMenu]
+[2024.06.27-11.03.07:227][722]OBJ SavePackage: Finished generating thumbnails for package [/Game/Platformer/UI/W_MainMenu]
+[2024.06.27-11.03.07:233][722]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Platformer/UI/W_MainMenu_Auto2
+[2024.06.27-11.03.07:234][722]LogSavePackage: Moving '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Saved/W_MainMenu_Auto2E31A1E0E43BEBA3ABAAB2C9293368476.tmp' to '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Saved/Autosaves/Game/Platformer/UI/W_MainMenu_Auto2.uasset'
+[2024.06.27-11.03.07:234][722]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Platformer/Blueprints/Framework/BP_MainMenuGameMode] ([2] browsable assets)...
+[2024.06.27-11.03.07:234][722]OBJ SavePackage: Finished generating thumbnails for package [/Game/Platformer/Blueprints/Framework/BP_MainMenuGameMode]
+[2024.06.27-11.03.07:237][722]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Platformer/Blueprints/Framework/BP_MainMenuGameMode_Auto2
+[2024.06.27-11.03.07:237][722]LogSavePackage: Moving '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Saved/BP_MainMenuGameMode_Auto2CD0F7949428951627F6C3CB9AEEC7545.tmp' to '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Saved/Autosaves/Game/Platformer/Blueprints/Framework/BP_MainMenuGameMode_Auto2.uasset'
+[2024.06.27-11.03.07:237][722]LogFileHelpers: Auto-saving content packages took 0.017
+[2024.06.27-11.07.34:856][862]BlueprintLog: New page: Compile W_MainMenu
+[2024.06.27-11.07.34:895][862]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2024.06.27-11.07.35:112][862]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.27-11.07.35:152][862]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Platformer/UI/W_MainMenu" FILE="../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Content/Platformer/UI/W_MainMenu.uasset" SILENT=true
+[2024.06.27-11.07.35:159][862]LogSavePackage: Moving output files for package: /Game/Platformer/UI/W_MainMenu
+[2024.06.27-11.07.35:160][862]LogSavePackage: Moving '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Saved/W_MainMenu482999E84C39447AF19EF9B3A5D47247.tmp' to '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Content/Platformer/UI/W_MainMenu.uasset'
+[2024.06.27-11.07.35:170][862]LogFileHelpers: InternalPromptForCheckoutAndSave took 57 ms (total: 2.82 sec)
+[2024.06.27-11.07.35:188][862]AssetCheck: New page: Asset Save: W_MainMenu
+[2024.06.27-11.07.35:189][862]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Platformer/UI/W_MainMenu.W_MainMenu
+[2024.06.27-11.11.27:502][410]BlueprintLog: New page: Compile W_MainMenu
+[2024.06.27-11.11.27:545][410]LogUObjectHash: Compacting FUObjectHashTables data took   3.07ms
+[2024.06.27-11.11.27:777][410]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.27-11.11.27:814][410]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Platformer/UI/W_MainMenu" FILE="../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Content/Platformer/UI/W_MainMenu.uasset" SILENT=true
+[2024.06.27-11.11.27:822][410]LogSavePackage: Moving output files for package: /Game/Platformer/UI/W_MainMenu
+[2024.06.27-11.11.27:823][410]LogSavePackage: Moving '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Saved/W_MainMenuA32C64D640C7782C252B3FBF6D423A14.tmp' to '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Content/Platformer/UI/W_MainMenu.uasset'
+[2024.06.27-11.11.27:836][410]LogFileHelpers: InternalPromptForCheckoutAndSave took 59 ms (total: 2.88 sec)
+[2024.06.27-11.11.27:856][410]AssetCheck: New page: Asset Save: W_MainMenu
+[2024.06.27-11.11.27:856][410]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Platformer/UI/W_MainMenu.W_MainMenu
+[2024.06.27-11.13.52:393][402]BlueprintLog: New page: Compile W_MainMenu
+[2024.06.27-11.13.52:423][402]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2024.06.27-11.13.52:610][402]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.27-11.13.52:636][402]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Platformer/UI/W_MainMenu" FILE="../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Content/Platformer/UI/W_MainMenu.uasset" SILENT=true
+[2024.06.27-11.13.52:644][402]LogSavePackage: Moving output files for package: /Game/Platformer/UI/W_MainMenu
+[2024.06.27-11.13.52:645][402]LogSavePackage: Moving '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Saved/W_MainMenuA0D5427447B72104665FE2BA80B8850E.tmp' to '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Content/Platformer/UI/W_MainMenu.uasset'
+[2024.06.27-11.13.52:654][402]LogFileHelpers: InternalPromptForCheckoutAndSave took 43 ms (total: 2.92 sec)
+[2024.06.27-11.13.52:675][402]AssetCheck: New page: Asset Save: W_MainMenu
+[2024.06.27-11.13.52:675][402]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Platformer/UI/W_MainMenu.W_MainMenu
+[2024.06.27-11.14.42:169][455]BlueprintLog: New page: Compile W_MainMenu
+[2024.06.27-11.14.42:206][455]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2024.06.27-11.14.42:223][455]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.27-11.14.42:254][455]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Platformer/UI/W_MainMenu" FILE="../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Content/Platformer/UI/W_MainMenu.uasset" SILENT=true
+[2024.06.27-11.14.42:262][455]LogSavePackage: Moving output files for package: /Game/Platformer/UI/W_MainMenu
+[2024.06.27-11.14.42:263][455]LogSavePackage: Moving '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Saved/W_MainMenuD78121324C683D58E6C544996BEF4DB5.tmp' to '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Content/Platformer/UI/W_MainMenu.uasset'
+[2024.06.27-11.14.42:269][455]LogFileHelpers: InternalPromptForCheckoutAndSave took 45 ms (total: 2.97 sec)
+[2024.06.27-11.14.42:271][455]AssetCheck: New page: Asset Save: W_MainMenu
+[2024.06.27-11.14.42:271][455]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Platformer/UI/W_MainMenu.W_MainMenu
+[2024.06.27-11.14.57:589][353]BlueprintLog: New page: Compile W_MainMenu
+[2024.06.27-11.14.57:617][353]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2024.06.27-11.14.57:635][353]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.27-11.14.57:664][353]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Platformer/UI/W_MainMenu" FILE="../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Content/Platformer/UI/W_MainMenu.uasset" SILENT=true
+[2024.06.27-11.14.57:673][353]LogSavePackage: Moving output files for package: /Game/Platformer/UI/W_MainMenu
+[2024.06.27-11.14.57:673][353]LogSavePackage: Moving '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Saved/W_MainMenu7E90AA3B44AB489DE004DEA9A50CD8EE.tmp' to '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Content/Platformer/UI/W_MainMenu.uasset'
+[2024.06.27-11.14.57:680][353]LogFileHelpers: InternalPromptForCheckoutAndSave took 45 ms (total: 3.02 sec)
+[2024.06.27-11.14.57:682][353]AssetCheck: New page: Asset Save: W_MainMenu
+[2024.06.27-11.14.57:682][353]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Platformer/UI/W_MainMenu.W_MainMenu
+[2024.06.27-11.15.07:366][588]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.06.27-11.15.07:373][588]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.06.27-11.15.07:373][588]PIE: New page: PIE session: LV_MainMenu (27 Jun 2024, 3:15:07 am)
+[2024.06.27-11.15.07:373][588]LogPlayLevel: Creating play world package: /Game/Platformer/Level/UEDPIE_0_LV_MainMenu
+[2024.06.27-11.15.07:374][588]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001444s)
+[2024.06.27-11.15.07:375][588]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Platformer/Level/LV_MainMenu.LV_MainMenu to /Game/Platformer/Level/UEDPIE_0_LV_MainMenu.LV_MainMenu (0.001486s)
+[2024.06.27-11.15.07:390][588]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2024.06.27-11.15.07:392][588]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.06.27-11.15.07:392][588]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.06.27-11.15.07:393][588]LogAIModule: Creating AISystem for world LV_MainMenu
+[2024.06.27-11.15.07:393][588]LogPlayLevel: PIE: World Init took: (0.001262s)
+[2024.06.27-11.15.07:393][588]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2024.06.27-11.15.07:393][588]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.06.27-11.15.07:393][588]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.06.27-11.15.07:393][588]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.06.27-11.15.07:393][588]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.06.27-11.15.07:393][588]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.06.27-11.15.07:393][588]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.06.27-11.15.07:393][588]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.06.27-11.15.07:393][588]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.06.27-11.15.07:394][588]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.06.27-11.15.07:394][588]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.06.27-11.15.07:394][588]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.06.27-11.15.07:397][588]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.06.27-11.15.07:511][588]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.06.27-11.15.07:512][588]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.06.27-11.15.07:512][588]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.06.27-11.15.07:512][588]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.06.27-11.15.07:513][588]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2024.06.27-11.15.07:513][588]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2024.06.27-11.15.07:515][588]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2024.06.27-11.15.07:515][588]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2024.06.27-11.15.07:515][588]LogInit: FAudioDevice initialized with ID 5.
+[2024.06.27-11.15.07:515][588]LogAudio: Display: Audio Device (ID: 5) registered with world 'LV_MainMenu'.
+[2024.06.27-11.15.07:515][588]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2024.06.27-11.15.07:535][588]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.06.27-11.15.07:535][588]LogLoad: Game class is 'BP_MainMenuGameMode_C'
+[2024.06.27-11.15.07:536][588]LogWorld: Bringing World /Game/Platformer/Level/UEDPIE_0_LV_MainMenu.LV_MainMenu up for play (max tick rate 60) at 2024.06.27-07.15.07
+[2024.06.27-11.15.07:536][588]LogWorld: Bringing up level for play took: 0.000797
+[2024.06.27-11.15.07:539][588]LogOnline: OSS: Created online subsystem instance for: :Context_26
+[2024.06.27-11.15.07:539][588]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2024.06.27-11.15.07:543][588]PIE: Server logged in
+[2024.06.27-11.15.07:544][588]PIE: Play in editor total start time 0.171 seconds.
+[2024.06.27-11.15.07:545][588]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'Starter_Music_Cue'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2024.06.27-11.15.07:552][588]LogViewport: Scene viewport resized to 1039x776, mode Windowed.
+[2024.06.27-11.15.10:330][739]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.06.27-11.15.10:330][739]LogWorld: BeginTearingDown for /Game/Platformer/Level/UEDPIE_0_LV_MainMenu
+[2024.06.27-11.15.10:330][739]LogSlate: Window 'Char3DEnv3D Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.06.27-11.15.10:334][739]LogWorld: UWorld::CleanupWorld for LV_MainMenu, bSessionEnded=true, bCleanupResources=true
+[2024.06.27-11.15.10:334][739]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.27-11.15.10:337][739]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.06.27-11.15.10:345][739]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.27-11.15.10:364][739]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.06.27-11.15.10:364][739]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2024.06.27-11.15.10:364][739]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2024.06.27-11.15.10:366][739]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2024.06.27-11.15.10:375][739]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2024.06.27-11.15.10:393][740]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2024.06.27-11.15.13:963][952]LogViewport: Scene viewport resized to 1008x659, mode Windowed.
+[2024.06.27-11.15.13:981][953]LogViewport: Scene viewport resized to 1015x659, mode Windowed.
+[2024.06.27-11.15.13:999][954]LogViewport: Scene viewport resized to 1037x659, mode Windowed.
+[2024.06.27-11.15.14:017][955]LogViewport: Scene viewport resized to 1064x659, mode Windowed.
+[2024.06.27-11.15.14:043][956]LogViewport: Scene viewport resized to 1103x659, mode Windowed.
+[2024.06.27-11.15.14:062][957]LogViewport: Scene viewport resized to 1119x659, mode Windowed.
+[2024.06.27-11.15.14:089][958]LogViewport: Scene viewport resized to 1121x659, mode Windowed.
+[2024.06.27-11.15.14:244][967]LogViewport: Scene viewport resized to 1124x659, mode Windowed.
+[2024.06.27-11.15.14:262][968]LogViewport: Scene viewport resized to 1126x659, mode Windowed.
+[2024.06.27-11.15.14:281][969]LogViewport: Scene viewport resized to 1132x659, mode Windowed.
+[2024.06.27-11.15.14:299][970]LogViewport: Scene viewport resized to 1133x659, mode Windowed.
+[2024.06.27-11.15.19:383][272]LogWorld: UWorld::CleanupWorld for World_39, bSessionEnded=true, bCleanupResources=true
+[2024.06.27-11.15.19:383][272]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.27-11.15.37:499][258]BlueprintLog: New page: Compile W_MainMenu
+[2024.06.27-11.15.37:519][258]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2024.06.27-11.15.38:119][279]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.06.27-11.15.38:125][279]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.06.27-11.15.38:125][279]PIE: New page: PIE session: LV_MainMenu (27 Jun 2024, 3:15:38 am)
+[2024.06.27-11.15.38:125][279]LogPlayLevel: Creating play world package: /Game/Platformer/Level/UEDPIE_0_LV_MainMenu
+[2024.06.27-11.15.38:126][279]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001160s)
+[2024.06.27-11.15.38:126][279]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Platformer/Level/LV_MainMenu.LV_MainMenu to /Game/Platformer/Level/UEDPIE_0_LV_MainMenu.LV_MainMenu (0.001213s)
+[2024.06.27-11.15.38:141][279]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2024.06.27-11.15.38:143][279]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.06.27-11.15.38:143][279]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.06.27-11.15.38:143][279]LogAIModule: Creating AISystem for world LV_MainMenu
+[2024.06.27-11.15.38:144][279]LogPlayLevel: PIE: World Init took: (0.001079s)
+[2024.06.27-11.15.38:144][279]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2024.06.27-11.15.38:144][279]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.06.27-11.15.38:144][279]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.06.27-11.15.38:144][279]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.06.27-11.15.38:144][279]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.06.27-11.15.38:144][279]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.06.27-11.15.38:144][279]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.06.27-11.15.38:144][279]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.06.27-11.15.38:144][279]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.06.27-11.15.38:144][279]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.06.27-11.15.38:144][279]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.06.27-11.15.38:144][279]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.06.27-11.15.38:146][279]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.06.27-11.15.38:249][279]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.06.27-11.15.38:250][279]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.06.27-11.15.38:250][279]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.06.27-11.15.38:250][279]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.06.27-11.15.38:251][279]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2024.06.27-11.15.38:251][279]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2024.06.27-11.15.38:252][279]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2024.06.27-11.15.38:252][279]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2024.06.27-11.15.38:252][279]LogInit: FAudioDevice initialized with ID 6.
+[2024.06.27-11.15.38:252][279]LogAudio: Display: Audio Device (ID: 6) registered with world 'LV_MainMenu'.
+[2024.06.27-11.15.38:253][279]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 6
+[2024.06.27-11.15.38:285][279]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.06.27-11.15.38:285][279]LogLoad: Game class is 'BP_MainMenuGameMode_C'
+[2024.06.27-11.15.38:286][279]LogWorld: Bringing World /Game/Platformer/Level/UEDPIE_0_LV_MainMenu.LV_MainMenu up for play (max tick rate 60) at 2024.06.27-07.15.38
+[2024.06.27-11.15.38:286][279]LogWorld: Bringing up level for play took: 0.000662
+[2024.06.27-11.15.38:290][279]LogOnline: OSS: Created online subsystem instance for: :Context_27
+[2024.06.27-11.15.38:290][279]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2024.06.27-11.15.38:295][279]PIE: Server logged in
+[2024.06.27-11.15.38:297][279]PIE: Play in editor total start time 0.172 seconds.
+[2024.06.27-11.15.38:299][279]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'Starter_Music_Cue'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2024.06.27-11.15.38:307][279]LogViewport: Scene viewport resized to 1039x776, mode Windowed.
+[2024.06.27-11.15.40:480][395]LogNet: Browse: /Game/Platformer/Level/LV_01
+[2024.06.27-11.15.40:480][395]LogLoad: LoadMap: /Game/Platformer/Level/LV_01
+[2024.06.27-11.15.40:480][395]LogWorld: BeginTearingDown for /Game/Platformer/Level/UEDPIE_0_LV_MainMenu
+[2024.06.27-11.15.40:480][395]LogWorld: UWorld::CleanupWorld for LV_MainMenu, bSessionEnded=true, bCleanupResources=true
+[2024.06.27-11.15.40:480][395]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.27-11.15.40:535][395]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.06.27-11.15.40:537][395]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2024.06.27-11.15.40:550][395]LogAudio: Display: Audio Device (ID: 6) registered with world 'LV_01'.
+[2024.06.27-11.15.40:551][395]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.06.27-11.15.40:551][395]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.06.27-11.15.40:551][395]LogAIModule: Creating AISystem for world LV_01
+[2024.06.27-11.15.40:551][395]LogPlayLevel: PIE: World Init took: (0.000981s)
+[2024.06.27-11.15.40:552][395]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.06.27-11.15.40:564][395]LogWorld: Bringing World /Game/Platformer/Level/UEDPIE_0_LV_01.LV_01 up for play (max tick rate 60) at 2024.06.27-07.15.40
+[2024.06.27-11.15.40:565][395]LogWorld: Bringing up level for play took: 0.012742
+[2024.06.27-11.15.40:571][395]LogLoad: Took 0.091201 seconds to LoadMap(/Game/Platformer/Level/LV_01)
+[2024.06.27-11.15.41:240][423]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.06.27-11.15.41:240][423]LogWorld: BeginTearingDown for /Game/Platformer/Level/UEDPIE_0_LV_01
+[2024.06.27-11.15.41:240][423]LogSlate: Window 'Char3DEnv3D Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.06.27-11.15.41:244][423]LogWorld: UWorld::CleanupWorld for LV_01, bSessionEnded=true, bCleanupResources=true
+[2024.06.27-11.15.41:245][423]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.27-11.15.41:249][423]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.06.27-11.15.41:256][423]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.27-11.15.41:275][423]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 6
+[2024.06.27-11.15.41:275][423]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2024.06.27-11.15.41:276][423]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2024.06.27-11.15.41:287][423]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2024.06.27-11.15.41:308][424]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2024.06.27-11.15.46:425][731]BlueprintLog: New page: Compile W_MainMenu
+[2024.06.27-11.15.46:452][731]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2024.06.27-11.15.46:640][731]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.27-11.15.46:694][731]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Platformer/UI/W_MainMenu" FILE="../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Content/Platformer/UI/W_MainMenu.uasset" SILENT=true
+[2024.06.27-11.15.46:705][731]LogSavePackage: Moving output files for package: /Game/Platformer/UI/W_MainMenu
+[2024.06.27-11.15.46:705][731]LogSavePackage: Moving '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Saved/W_MainMenu8A2A7FC5404FEFE9401692A8F0359C8B.tmp' to '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Content/Platformer/UI/W_MainMenu.uasset'
+[2024.06.27-11.15.46:711][731]LogFileHelpers: InternalPromptForCheckoutAndSave took 71 ms (total: 3.09 sec)
+[2024.06.27-11.15.46:737][731]AssetCheck: New page: Asset Save: W_MainMenu
+[2024.06.27-11.15.46:737][731]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Platformer/UI/W_MainMenu.W_MainMenu
+[2024.06.27-11.16.00:020][296]BlueprintLog: New page: Compile W_MainMenu
+[2024.06.27-11.16.00:052][296]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2024.06.27-11.16.00:233][296]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.27-11.16.00:266][296]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Platformer/UI/W_MainMenu" FILE="../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Content/Platformer/UI/W_MainMenu.uasset" SILENT=true
+[2024.06.27-11.16.00:275][296]LogSavePackage: Moving output files for package: /Game/Platformer/UI/W_MainMenu
+[2024.06.27-11.16.00:275][296]LogSavePackage: Moving '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Saved/W_MainMenu4287A93C446974FC8442508FC1D85C5D.tmp' to '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Content/Platformer/UI/W_MainMenu.uasset'
+[2024.06.27-11.16.00:282][296]LogFileHelpers: InternalPromptForCheckoutAndSave took 49 ms (total: 3.14 sec)
+[2024.06.27-11.16.00:305][296]AssetCheck: New page: Asset Save: W_MainMenu
+[2024.06.27-11.16.00:305][296]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Platformer/UI/W_MainMenu.W_MainMenu
+[2024.06.27-11.16.56:660][753]BlueprintLog: New page: Compile W_MainMenu
+[2024.06.27-11.16.56:702][753]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2024.06.27-11.16.56:915][753]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.27-11.16.56:964][753]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Platformer/UI/W_MainMenu" FILE="../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Content/Platformer/UI/W_MainMenu.uasset" SILENT=true
+[2024.06.27-11.16.56:975][753]LogSavePackage: Moving output files for package: /Game/Platformer/UI/W_MainMenu
+[2024.06.27-11.16.56:975][753]LogSavePackage: Moving '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Saved/W_MainMenu73D3AAF0492E8EA34275B899F1179F27.tmp' to '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Content/Platformer/UI/W_MainMenu.uasset'
+[2024.06.27-11.16.56:982][753]LogFileHelpers: InternalPromptForCheckoutAndSave took 66 ms (total: 3.20 sec)
+[2024.06.27-11.16.57:004][753]AssetCheck: New page: Asset Save: W_MainMenu
+[2024.06.27-11.16.57:004][753]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Platformer/UI/W_MainMenu.W_MainMenu
+[2024.06.27-11.17.49:322][298]BlueprintLog: New page: Compile W_MainMenu
+[2024.06.27-11.17.49:352][298]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2024.06.27-11.17.49:371][298]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.27-11.17.49:412][298]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Platformer/UI/W_MainMenu" FILE="../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Content/Platformer/UI/W_MainMenu.uasset" SILENT=true
+[2024.06.27-11.17.49:424][298]LogSavePackage: Moving output files for package: /Game/Platformer/UI/W_MainMenu
+[2024.06.27-11.17.49:424][298]LogSavePackage: Moving '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Saved/W_MainMenuEAA65ED7442DDFA1C6E9028A52C2EF96.tmp' to '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Content/Platformer/UI/W_MainMenu.uasset'
+[2024.06.27-11.17.49:431][298]LogFileHelpers: InternalPromptForCheckoutAndSave took 60 ms (total: 3.26 sec)
+[2024.06.27-11.17.49:437][298]AssetCheck: New page: Asset Save: W_MainMenu
+[2024.06.27-11.17.49:437][298]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Platformer/UI/W_MainMenu.W_MainMenu
+[2024.06.27-11.17.52:493][478]BlueprintLog: New page: Compile W_MainMenu
+[2024.06.27-11.17.52:526][478]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2024.06.27-11.17.52:549][478]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.27-11.17.52:576][478]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Platformer/UI/W_MainMenu" FILE="../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Content/Platformer/UI/W_MainMenu.uasset" SILENT=true
+[2024.06.27-11.17.52:587][478]LogSavePackage: Moving output files for package: /Game/Platformer/UI/W_MainMenu
+[2024.06.27-11.17.52:587][478]LogSavePackage: Moving '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Saved/W_MainMenu697F3B4B40492599E67EE7A7C4BFABD3.tmp' to '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Content/Platformer/UI/W_MainMenu.uasset'
+[2024.06.27-11.17.52:595][478]LogFileHelpers: InternalPromptForCheckoutAndSave took 45 ms (total: 3.31 sec)
+[2024.06.27-11.17.52:598][478]AssetCheck: New page: Asset Save: W_MainMenu
+[2024.06.27-11.17.52:598][478]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Platformer/UI/W_MainMenu.W_MainMenu
+[2024.06.27-11.17.54:320][578]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.06.27-11.17.54:327][578]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.06.27-11.17.54:327][578]PIE: New page: PIE session: LV_MainMenu (27 Jun 2024, 3:17:54 am)
+[2024.06.27-11.17.54:327][578]LogPlayLevel: Creating play world package: /Game/Platformer/Level/UEDPIE_0_LV_MainMenu
+[2024.06.27-11.17.54:328][578]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001507s)
+[2024.06.27-11.17.54:328][578]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Platformer/Level/LV_MainMenu.LV_MainMenu to /Game/Platformer/Level/UEDPIE_0_LV_MainMenu.LV_MainMenu (0.001569s)
+[2024.06.27-11.17.54:346][578]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2024.06.27-11.17.54:349][578]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.06.27-11.17.54:349][578]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.06.27-11.17.54:350][578]LogAIModule: Creating AISystem for world LV_MainMenu
+[2024.06.27-11.17.54:350][578]LogPlayLevel: PIE: World Init took: (0.001263s)
+[2024.06.27-11.17.54:350][578]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2024.06.27-11.17.54:350][578]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.06.27-11.17.54:350][578]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.06.27-11.17.54:350][578]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.06.27-11.17.54:350][578]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.06.27-11.17.54:350][578]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.06.27-11.17.54:350][578]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.06.27-11.17.54:350][578]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.06.27-11.17.54:350][578]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.06.27-11.17.54:351][578]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.06.27-11.17.54:351][578]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.06.27-11.17.54:351][578]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.06.27-11.17.54:353][578]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.06.27-11.17.54:463][578]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.06.27-11.17.54:463][578]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.06.27-11.17.54:464][578]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.06.27-11.17.54:464][578]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.06.27-11.17.54:467][578]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2024.06.27-11.17.54:467][578]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2024.06.27-11.17.54:468][578]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2024.06.27-11.17.54:468][578]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2024.06.27-11.17.54:468][578]LogInit: FAudioDevice initialized with ID 7.
+[2024.06.27-11.17.54:468][578]LogAudio: Display: Audio Device (ID: 7) registered with world 'LV_MainMenu'.
+[2024.06.27-11.17.54:468][578]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 7
+[2024.06.27-11.17.54:494][578]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.06.27-11.17.54:494][578]LogLoad: Game class is 'BP_MainMenuGameMode_C'
+[2024.06.27-11.17.54:495][578]LogWorld: Bringing World /Game/Platformer/Level/UEDPIE_0_LV_MainMenu.LV_MainMenu up for play (max tick rate 60) at 2024.06.27-07.17.54
+[2024.06.27-11.17.54:495][578]LogWorld: Bringing up level for play took: 0.000841
+[2024.06.27-11.17.54:497][578]LogOnline: OSS: Created online subsystem instance for: :Context_28
+[2024.06.27-11.17.54:498][578]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2024.06.27-11.17.54:502][578]PIE: Server logged in
+[2024.06.27-11.17.54:503][578]PIE: Play in editor total start time 0.176 seconds.
+[2024.06.27-11.17.54:505][578]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'Starter_Music_Cue'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2024.06.27-11.17.54:511][578]LogViewport: Scene viewport resized to 1039x776, mode Windowed.
+[2024.06.27-11.18.00:501][923]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.06.27-11.18.00:501][923]LogWorld: BeginTearingDown for /Game/Platformer/Level/UEDPIE_0_LV_MainMenu
+[2024.06.27-11.18.00:501][923]LogSlate: Window 'Char3DEnv3D Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.06.27-11.18.00:505][923]LogWorld: UWorld::CleanupWorld for LV_MainMenu, bSessionEnded=true, bCleanupResources=true
+[2024.06.27-11.18.00:506][923]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.27-11.18.00:509][923]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.06.27-11.18.00:517][923]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.27-11.18.00:537][923]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.06.27-11.18.00:537][923]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 7
+[2024.06.27-11.18.00:537][923]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2024.06.27-11.18.00:539][923]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2024.06.27-11.18.00:550][923]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2024.06.27-11.18.00:587][925]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2024.06.27-11.18.29:511][921]BlueprintLog: New page: Compile W_MainMenu
+[2024.06.27-11.18.29:536][921]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2024.06.27-11.18.29:712][921]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.27-11.18.29:742][921]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Platformer/UI/W_MainMenu" FILE="../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Content/Platformer/UI/W_MainMenu.uasset" SILENT=true
+[2024.06.27-11.18.29:752][921]LogSavePackage: Moving output files for package: /Game/Platformer/UI/W_MainMenu
+[2024.06.27-11.18.29:752][921]LogSavePackage: Moving '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Saved/W_MainMenu889F31BA4158753731E97BB6E8B531E7.tmp' to '../../../../../../GitHub/Unreal/2.5DPlatformerUnreal02/Char3DEnv3D/Content/Platformer/UI/W_MainMenu.uasset'
+[2024.06.27-11.18.29:758][921]LogFileHelpers: InternalPromptForCheckoutAndSave took 46 ms (total: 3.36 sec)
+[2024.06.27-11.18.29:780][921]AssetCheck: New page: Asset Save: W_MainMenu
+[2024.06.27-11.18.29:780][921]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Platformer/UI/W_MainMenu.W_MainMenu
+[2024.06.27-11.18.33:181][114]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.06.27-11.18.33:188][114]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.06.27-11.18.33:188][114]PIE: New page: PIE session: LV_MainMenu (27 Jun 2024, 3:18:33 am)
+[2024.06.27-11.18.33:188][114]LogPlayLevel: Creating play world package: /Game/Platformer/Level/UEDPIE_0_LV_MainMenu
+[2024.06.27-11.18.33:189][114]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001402s)
+[2024.06.27-11.18.33:189][114]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Platformer/Level/LV_MainMenu.LV_MainMenu to /Game/Platformer/Level/UEDPIE_0_LV_MainMenu.LV_MainMenu (0.001472s)
+[2024.06.27-11.18.33:207][114]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2024.06.27-11.18.33:209][114]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.06.27-11.18.33:209][114]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.06.27-11.18.33:210][114]LogAIModule: Creating AISystem for world LV_MainMenu
+[2024.06.27-11.18.33:210][114]LogPlayLevel: PIE: World Init took: (0.001183s)
+[2024.06.27-11.18.33:210][114]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2024.06.27-11.18.33:210][114]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.06.27-11.18.33:210][114]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.06.27-11.18.33:210][114]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.06.27-11.18.33:210][114]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.06.27-11.18.33:210][114]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.06.27-11.18.33:210][114]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.06.27-11.18.33:210][114]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.06.27-11.18.33:210][114]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.06.27-11.18.33:211][114]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.06.27-11.18.33:211][114]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.06.27-11.18.33:211][114]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.06.27-11.18.33:213][114]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.06.27-11.18.33:315][114]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.06.27-11.18.33:315][114]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.06.27-11.18.33:316][114]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.06.27-11.18.33:316][114]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.06.27-11.18.33:316][114]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2024.06.27-11.18.33:316][114]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2024.06.27-11.18.33:318][114]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2024.06.27-11.18.33:318][114]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2024.06.27-11.18.33:318][114]LogInit: FAudioDevice initialized with ID 8.
+[2024.06.27-11.18.33:318][114]LogAudio: Display: Audio Device (ID: 8) registered with world 'LV_MainMenu'.
+[2024.06.27-11.18.33:318][114]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 8
+[2024.06.27-11.18.33:350][114]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.06.27-11.18.33:351][114]LogLoad: Game class is 'BP_MainMenuGameMode_C'
+[2024.06.27-11.18.33:351][114]LogWorld: Bringing World /Game/Platformer/Level/UEDPIE_0_LV_MainMenu.LV_MainMenu up for play (max tick rate 60) at 2024.06.27-07.18.33
+[2024.06.27-11.18.33:352][114]LogWorld: Bringing up level for play took: 0.000695
+[2024.06.27-11.18.33:354][114]LogOnline: OSS: Created online subsystem instance for: :Context_29
+[2024.06.27-11.18.33:354][114]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2024.06.27-11.18.33:357][114]PIE: Server logged in
+[2024.06.27-11.18.33:359][114]PIE: Play in editor total start time 0.172 seconds.
+[2024.06.27-11.18.33:360][114]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'Starter_Music_Cue'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2024.06.27-11.18.33:369][114]LogViewport: Scene viewport resized to 1039x776, mode Windowed.
+[2024.06.27-11.18.49:780][ 81]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.06.27-11.18.49:780][ 81]LogWorld: BeginTearingDown for /Game/Platformer/Level/UEDPIE_0_LV_MainMenu
+[2024.06.27-11.18.49:780][ 81]LogSlate: Window 'Char3DEnv3D Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.06.27-11.18.49:785][ 81]LogWorld: UWorld::CleanupWorld for LV_MainMenu, bSessionEnded=true, bCleanupResources=true
+[2024.06.27-11.18.49:786][ 81]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.27-11.18.49:788][ 81]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.06.27-11.18.49:797][ 81]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.27-11.18.49:815][ 81]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.06.27-11.18.49:815][ 81]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 8
+[2024.06.27-11.18.49:816][ 81]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2024.06.27-11.18.49:817][ 81]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2024.06.27-11.18.49:827][ 81]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2024.06.27-11.18.49:846][ 82]LogPlayLevel: Display: Destroying online subsystem :Context_29
